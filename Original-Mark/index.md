@@ -8,6 +8,31 @@ Perhaps surprisingly, this is also the last explicit pronouncement that Jesus is
 This essay will investigate the proposition that this was in fact the original ending of Mark. 
 The approach for this investigation will be to look at various pericopes while asking the question "did the author know about the tomb when composing this part of the account?"
 
+## Aside: Why did Mark go viral?
+
+Matthew and Luke don't so much use Mark as a source as simply rewriting it with the addition of sayings and birth accounts.
+And by the time John is written there is an assumption that the audience is aware of the synoptic gospels. 
+Although it is easy to imagine a plethora of stories about Jesus, it seems that shortly after Mark was available it became so popular (even canonical) 
+that the authors of Matthew and Luke barely have any narrative content which isn't more-or-less copied, 
+and the author of John - while knowing some other stories - must have had it committed to memory.
+
+What was it about Mark that led to its dominance of this gospel narrative? 
+Was it that it addressed an obstacle to faith which previous stories and even writings did not? 
+Two suggestions are offered: 
+1. With the first generation of christians dead, there was no-one with the confidence to proclaim "I saw the risen Jesus"
+    or even "I knew one of the disciples - you could tell he was sincere about the resurrection."
+    Seeing how essential the empty tomb is to later gospels and apologetics, it seems reasonable that this account 
+    could have given christian communities that their faith wasn't just ghost stories.
+2. In 64 when Nero was blaming christians for the fire in Rome and then persecuting them (perhaps even executing Peter and Paul), 
+    the community must have been thinking that surely God's judgement of Rome and Jesus's return as ruler must be imminent. 
+    When instead Rome crushes the Judean revolt, decimates Jerusalem and destroys the temple it must have felt like the script had been torn up.
+    With Mark able to present the Passion week as largely a story of Jesus against the temple 
+    this could have assured the community that actually things were on track - one opponent defeated, 
+    the other will surely follow in due course. 
+    Maybe they also saw hope that Jews would join christianity as God had explicitly condemned the alternative.  
+
+
+
 ## A (nearly) complete change of cast.
 Mark 15:39-43 introduces several new characters who are critical to the rest of the gospel - many female disciples from Galilee, and Joseph of Arimathea. 
 Although the women must have had previous interactions with Jesus, and Joseph - being a prominent member of the Council and supposedly someone who respected Jesus - would be expected to, 
