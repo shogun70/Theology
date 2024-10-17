@@ -2,38 +2,44 @@
 
 
 The gospel according to Mark is titled "The beginning of the Good News of Jesus Christ, the Son of God" (Mark 1:1).
-Whether this title was written first or added last, it is clear from the gospel's content and the several matching pronouncements that the author knew what the title would be. 
-The climax of the gospel is in Mark 15:33-39 where darkness covers the land, Jesus cries out and dies, the temple curtain is torn in two, and a Roman centurion proclaims "Surely this man was the Son of God". 
+Whether this title was written first or added last, it is clear from the gospel's content 
+and the several matching pronouncements that the author knew what the title would be. 
+The climax of the gospel is in Mark 15:33-39 where darkness covers the land, Jesus cries out and dies, 
+the temple curtain is torn in two, and a Roman centurion proclaims "Surely this man was the Son of God". 
 Perhaps surprisingly, this is also the last explicit pronouncement that Jesus is either the Christ or the Son of God. 
 This essay will investigate the proposition that this was in fact the original ending of Mark. 
-The approach for this investigation will be to look at various pericopes while asking the question "did the author know about the tomb when composing this part of the account?"
+The approach for this investigation will be to look at various pericopes while asking the question 
+"did the author know about the tomb when composing this part of the account?"
 
 ## Aside: Why did Mark go viral?
 
-Matthew and Luke don't so much use Mark as a source as simply rewriting it with the addition of sayings and birth accounts.
-And by the time John is written there is an assumption that the audience is aware of the synoptic gospels. 
-Although it is easy to imagine a plethora of stories about Jesus, it seems that shortly after Mark was available it became so popular (even canonical) 
-that the authors of Matthew and Luke barely have any narrative content which isn't more-or-less copied, 
-and the author of John - while knowing some other stories - must have had it committed to memory.
+Matthew doesn't so much use Mark as a source as simply rewriting it, along with the addition of sayings and birth accounts.
+Luke says in his foreward that he has potentially several written sources but again he starts with Mark and splices alternative material in. 
+By the time John is written there is an assumption that the audience is familiar with the synoptic gospels. 
+It seems that shortly after Mark was available it became so popular (even canonical) 
+that the authors of Matthew and Luke are only seeking to update it, maybe even improve it or adopt it, 
+and the author of John, while knowing some other stories - perhaps even another tradition - 
+must have had Mark's general narrative committed to memory.
 
-What was it about Mark that led to its dominance of this gospel narrative? 
-Was it that it addressed an obstacle to faith which previous stories and even writings did not? 
+What was it about Mark that led to its dominance of the gospel narrative? 
+Was it that it addressed a crisis of faith in late first century christianity? 
 Two suggestions are offered: 
-1. With the first generation of christians dead, there was no-one with the confidence to proclaim "I saw the risen Jesus"
+1. With the first generation of christians dead, there was no-one around to claim "I saw the risen Jesus"
     or even "I knew one of the disciples - you could tell he was sincere about the resurrection."
     Seeing how essential the empty tomb is to later gospels and apologetics, it seems reasonable that this account 
-    could have given christian communities that their faith wasn't just ghost stories.
+    gave christian communities assurance that their faith wasn't just based on ghost stories.
 2. In 64 when Nero was blaming christians for the fire in Rome and then persecuting them (perhaps even executing Peter and Paul), 
     the community must have been thinking that surely God's judgement of Rome and Jesus's return as ruler must be imminent. 
-    When instead Rome crushes the Judean revolt, decimates Jerusalem and destroys the temple it must have felt like the script had been torn up.
-    With Mark able to present the Passion week as largely a story of Jesus against the temple 
+    When instead - by the year 70 - Rome had crushed the Judean revolt, decimated Jerusalem and destroyed the temple 
+    it must have felt like the script had been torn up.
+    With Mark able to present the Passion week as largely a story of the temple against Jesus (and against God)
     this could have assured the community that actually things were on track - one opponent defeated, 
-    the other will surely follow in due course. 
-    Maybe they also saw hope that Jews would join christianity as God had explicitly condemned the alternative.  
-
+    the other will surely either confess Jesus is God's true son or be swept aside in due course.
+    (Maybe there was also hope that Jews would join christianity as they were told that God had explicitly condemned the alternative.) 
 
 
 ## A (nearly) complete change of cast.
+
 Mark 15:39-43 introduces several new characters who are critical to the rest of the gospel - many female disciples from Galilee, and Joseph of Arimathea. 
 Although the women must have had previous interactions with Jesus, and Joseph - being a prominent member of the Council and supposedly someone who respected Jesus - would be expected to, 
 none of them are even hinted at until this point. 
@@ -43,11 +49,13 @@ There is however, one essential character who may have already been introduced -
 If this is meant to be the same young man who fled naked in Gethsemane (Mark 14:51) then he could have been introduced earlier in preparation for his role at the empty tomb. 
 
 ## Timeline considerations.
+
 Jesus is crucified on the Day of Preparation before the Sabbath, however this information is not disclosed until after his death and the story needs to justify a quick burial. 
 On the other hand, Jesus dies at around 3PM which allows time for the burial arrangements and this information does precede the proposed original ending. 
 
 
 ## Predictions of death and resurrection.
+
 Jesus predicts his death and resurrection several times. 
 While the audience doubtless knew that Jesus was crucified and appeared afterwards, does it make sense for Mark to include the predictions and then only retell the crucifixion?
 On the other hand, would an audience accept an empty tomb but no resurrestion appearances as a satisfactory fulfilment? 
