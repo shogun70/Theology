@@ -22,7 +22,7 @@ Luke says in his foreword that he has potentially several written sources but ag
 By the time John is written there is an assumption that the audience is familiar with the synoptic gospels. 
 It seems that shortly after Mark was available it became so popular (even canonical) 
 that the authors of Matthew and Luke cannot envisage following a different template, even while seeking to correct and improve it. 
-And the author of John, while knowing some other stories - perhaps even another presentation (the speculated Signs gospel) - 
+And the author of John, while knowing some other stories - perhaps even another template (the speculated Signs gospel) -
 must have had Mark's general narrative committed to memory.
 
 What was it about Mark that led to its dominance of the gospel narrative such that other stories were sidelined or even lost? 
@@ -30,18 +30,18 @@ Was it that it addressed a crisis of faith in late first century christianity?
 Two suggestions are offered: 
 1. With the first generation of christians dead, there was no-one around to claim "I saw the risen Jesus"
     or even "I knew one of the disciples - you could tell he was sincere about the resurrection."
-    Fpr sure there would have been stories about encounters - perhaps like the disciples on the road to Damascus. 
+    Fpr sure there would have been stories about encounters - perhaps like the disciples on the road to Emmaus. 
     But perhaps these stories were beginning to sound like hallucinations or even cleverly invented tales (c.f. 2 Peter 1:16).
     Seeing how essential the empty tomb is to later gospels and apologetics, it seems reasonable that this account 
-    gave christian communities assurance that their faith wasn't just based on ghost stories.
-2. In the year 64, when Nero was blaming christians for the fire in Rome and then persecuting them (perhaps even executing Peter and Paul), 
+    gave christian communities a defense against fears and critiques that their belief was based more-or-less on ghost stories.
+2. In the year 64, when Nero was blaming christians for the fire in Rome, and then persecuting them (perhaps even executing Peter and Paul), 
     the community must have been thinking that surely God's judgement of Rome and Jesus's return as ruler must be imminent. 
     When instead - by the year 70 - Rome had crushed the Judean revolt, overrun Jerusalem and destroyed the temple 
     it must have felt like the script had been torn up.
     With Mark able to present the Passion week as largely a story of the temple against Jesus (and against God)
     this could have assured the community that actually things were on track - one opponent defeated, 
     the other will surely either confess Jesus is God's true son or be swept aside in due course.
-    (Maybe there was also hope that Jews would join christianity as they were told that God had explicitly condemned the alternative.) 
+    (Maybe there was also hope that Jews would join christianity as they were told that God had clearly condemned the alternative.) 
 
 
 ## A (nearly) complete change of cast.
@@ -200,8 +200,10 @@ although arguably this is just creative rewriting of 1 Corinthians 10:23-26.
 
 Let's assume that all the resurrection predictions were in the earliest form of Mark, whether liturgical or more intentional. 
 
-The canonical ending of Mark seems consistent with these predictions - it shows Jesus being killed, provides a symbol of resurrection (after 3-ish days), 
-and repeats that the disciples will encounter Jesus in Galilee. 
+The canonical ending of Mark seems reasonably consistent with these predictions - it shows Jesus being killed, provides a symbol of resurrection, 
+and repeats that the disciples will encounter Jesus in Galilee.
+The resurrection does seem to be after two days rather than three (an issue explicitly fixed in John) 
+so it might be reasonable to infer that the resurrection predictions are original and included liturgically (in line with the liturgy in 1 Corinthians 15).
 But does this indicate that when the author wrote the predictions into the script he also knew he was going to fulfil them without appearances? 
 Could he have originally assumed that the predictions themselves were satisfactory to imply the resurrection appearances after the gospel's climax?
 Certainly the enhanced endings in the later gospels (and the longer endings of Mark) 
@@ -237,7 +239,7 @@ Considering the potential comparisons between John's and Jesus's resurrections i
 In fact the manifestation of the resurrected John the Baptist - that is Jesus's miracles - are presented before the account of John's death. 
 At the very least this pericope demonstrates that stories about resurrection did not need to be accompanied by an empty tomb. 
 It is perhaps also indicative that the concept of resurrection was amorphous - maybe even flexible - in first century Judeo-Christian communities.
-(FIXME c.f. Josephus's descriptions of the range of Jewish belief's about the afterlife and the possible hints at transmigration or reincarnation)
+c.f. Josephus's descriptions of the range of Jewish belief's about the afterlife and the possible hints at transmigration or reincarnation. **citation needed**
 
 
 ## Hopeless disciples
@@ -247,7 +249,7 @@ Of course, the audience could be expected to be familiar with the disciples cont
 but did the author know how he was going to confirm those inferences when he included the predictions? 
 Perhaps the author was anticipating using a resurrection story which included the disciples -  
 for example Jesus walking on the water, or even the transfiguration where Jesus is declared the Son of God.
-(As suggested by Dominic Crossan)
+(As suggested by Dominic Crossan. **citation needed**)
 
 
 ## The evolution of Mark
@@ -273,9 +275,9 @@ into a final written form of "the Good News of Jesus Christ the Son of God".
 
 One Passover / Easter there is a novel addition to a performance of the Passion Week plays - 
 reminiscent of the Graeco-Roman trope of an empty tomb signifying a person has been taken up to the gods, 
-in this scene some anonymous women are going to visit a tomb to mourn and inexplicably find it open. 
+in this scene some anonymous women are going to visit a tomb to mourn and inexplicably find it open. c.f. Robin Faith Walsh **citation needed**
 Perhaps the Passion week play had even been performed as a sequence of short plays in the week before Easter 
-and then the empty tomb scene is actually first performed on the first day of the week. 
+and then the empty tomb scene is really first performed on the first day of the week. 
 The audience, mostly aware of the trope, understands the significance and it feels like a satisfying epilogue.
 
 As this well received epilogue spreads in the small network it gets modified to make the links with the gospel stronger. 
