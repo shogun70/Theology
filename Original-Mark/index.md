@@ -250,3 +250,62 @@ for example Jesus walking on the water, or even the transfiguration where Jesus 
 (As suggested by Dominic Crossan)
 
 
+## The evolution of Mark
+
+None of the New Testament letters (or even the letters of the early church fathers) mention the tomb, 
+yet starting with Mark, all the narrative gospels do. Indeed, the story becomes more embellished, 
+presumably as critics or even christians begin to question its trustworthiness.
+
+Assuming, for the sake of argument,that the burial and empty tomb narrative is a late addition, 
+let us (wildly) speculate how might Mark have evolved?
+We have no texts to work with - just like Q, the presumed proto-Mark is lost, or rather absorbed into the canonical gospels -
+but we do have Eusebius's quote of Papias's hearsay that Aristion claimed that Mark wrote an unordered collection of Peter's anecdotes on the life of Jesus.
+It seems reasonable that such a text would have some perceived authority and it begins to be shared amongst a small network of christian communities.
+
+After the fall of Jerusalem - and the temple - there is a faith crisis regarding the apparent invincibility of the Roman empire 
+and the ongoing stresses on the christian communities. 
+This is handled in various ways (including abandonment of faith) but the dominant apologetic is the Passion Week play, 
+which draws on some of the proto-Mark material 
+with the addition that it pits Jesus against the temple (which explains the temple's destruction)
+and ends with a Roman centurion acknowledging that Jesus is a Son of God (a premonition of what will surely happen in the audience's time).
+After a few years the play and some of the other stories from proto-Mark are assembled - perhaps by an acolyte of Mark - 
+into a final written form of "the Good News of Jesus Christ the Son of God".
+
+One Passover / Easter there is a novel addition to a performance of the Passion Week plays - 
+reminiscent of the Graeco-Roman trope of an empty tomb signifying a person has been taken up to the gods, 
+in this scene some anonymous women are going to visit a tomb to mourn and inexplicably find it open. 
+Perhaps the Passion week play had even been performed as a sequence of short plays in the week before Easter 
+and then the empty tomb scene is actually first performed on the first day of the week. 
+The audience, mostly aware of the trope, understands the significance and it feels like a satisfying epilogue.
+
+As this well received epilogue spreads in the small network it gets modified to make the links with the gospel stronger. 
+Some new hearers assume it is meant to be true and some apologetic reworking is applied - 
+this requires making it flow on from the crucifixion scene (when they are performed together) and also some deanonymizing.  
+A less well versed person has asked what is the significance of the empty tomb
+so a "young man dressed in white" is introduced to give a more direct explanation (initially this is probably simply the narrator).
+Joseph of Arimathea may well have been a Sanhedrin delegate for arranging burials of criminals.
+The day of preparation is used as a reason to get Jesus off the cross (although it results in the resurrection being after only two days - an issue not fixed until John).
+The female disciples - they have to be female because everyone knows the disciples weren't preaching the empty tomb - 
+were possibly known from other stories about Jesus. Or perhaps they were even well known deceased Jewish women from the community.
+
+\[ASIDE: In 1 Corinthians 15 there is a reference to "The Twelve" to whom Jesus appeared but no detail of who is included or even when they became known as such.
+The gospels all claim that Jesus chose The Twelve and provide names, although these are not consistent and they even include Judas who obviously isn't in Paul's "The Twelve". 
+Amongst bible scholars there is some openness to the suggestion that several of those listed were Jesus's brothers. 
+Surprisingly, Papias provides a shorter list of seven - Andrew, Peter, Philip, Thomas, James, John, Matthew. 
+The gospels also have inconsistency (and vagueness) amongst the lists of women who went to the tomb. 
+They all include Mary Magdalene, and the synoptics all include another Mary. They all have hints at other women.
+Now if we look at Luke 23:55 he says it was "the women who had come with Jesus from Galilee" 
+and in Luke 24:10 he reports that "it was Mary Magdalene, Joanna, Mary the mother of James, and the others with them". 
+If we look back at Luke 8:1-3 he notes that the female followers included Mary Magadelene, Joanna, Susanna, and others. 
+We could infer that Luke potentially has four named women at the empty tomb. 
+The only other female follower mentioned in the context of Jesus's tomb is Salome in Mark.
+In total we seem to have the potential for five named women at the tomb.
+Add that to Papias's seven male disciples and we have **twelve**. 
+This is probably just coincidence and obviously very tenuous, but it would make sense that 
+if Paul's "The Twelve" contained women then some memory of that could leak into the empty tomb narrative
+when the story tellers aren't happy with an initial anonymous account. \]
+
+By the time the epilogue arrives back at the community where the gospel had been first finalized 
+it is close to fully formed and some people are arguing that it sounds credible and should be added to the gospel. 
+
+This then becomes the final version of Mark which goes viral thus forming the basis for what a gospel must include.
