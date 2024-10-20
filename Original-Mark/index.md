@@ -11,16 +11,15 @@ The approach for this investigation will be to look at various pericopes while a
 "did the author know about the tomb when composing this part of the account?"
 
 Since we have no complete manuscripts of Mark which finish earlier than Mark 16:8
-and no other gospel material which appears to predate Mark
-this investigation must be speculative.
+and no other gospel material which appears to predate Mark this investigation must be speculative.
 
 
 ## Aside: Why did Mark go viral?
 
-Matthew doesn't so much use Mark as a source as simply rewriting it, along with the addition of sayings and birth accounts.
-Luke says in his foreword that he has potentially several written sources but again he starts with Mark and splices alternative material in. 
+Matthew doesn't so much use Mark as a source as basically rewriting it, along with the addition of sayings and birth accounts.
+Luke says in his foreword that he knows of potentially several written sources but again he starts with Mark and splices alternative material in. 
 By the time John is written there is an assumption that the audience is familiar with the synoptic gospels. 
-It seems that shortly after Mark was available it became so popular (even canonical) 
+Thus, it seems that shortly after Mark was available it became so popular (even canonical) 
 that the authors of Matthew and Luke cannot envisage following a different template, even while seeking to correct and improve it. 
 And the author of John, while knowing some other stories - perhaps even another template (the speculated Signs gospel) -
 must have had Mark's general narrative committed to memory.
@@ -30,44 +29,84 @@ Was it that it addressed a crisis of faith in late first century christianity?
 Two suggestions are offered: 
 1. With the first generation of christians dead, there was no-one around to claim "I saw the risen Jesus"
     or even "I knew one of the disciples - you could tell he was sincere about the resurrection."
-    Fpr sure there would have been stories about encounters - perhaps like the disciples on the road to Emmaus. 
+    Fpr sure there would have been stories about resurrection encounters - perhaps like the disciples on the road to Emmaus. 
     But perhaps these stories were beginning to sound like hallucinations or even cleverly invented tales (c.f. 2 Peter 1:16).
     Seeing how essential the empty tomb is to later gospels and apologetics, it seems reasonable that this account 
     gave christian communities a defense against fears and critiques that their belief was based more-or-less on ghost stories.
 2. In the year 64, when Nero was blaming christians for the fire in Rome, and then persecuting them (perhaps even executing Peter and Paul), 
     the community must have been thinking that surely God's judgement of Rome and Jesus's return as ruler must be imminent. 
     When instead - by the year 70 - Rome had crushed the Judean revolt, overrun Jerusalem and destroyed the temple 
-    it must have felt like the script had been torn up.
+    some christians must have felt as though the script had been torn up.
     With Mark able to present the Passion week as largely a story of the temple against Jesus (and against God)
     this could have assured the community that actually things were on track - one opponent defeated, 
     the other will surely either confess Jesus is God's true son or be swept aside in due course.
     (Maybe there was also hope that Jews would join christianity as they were told that God had clearly condemned the alternative.) 
 
 
-## A (nearly) complete change of cast.
+## Mark 15:40 - 16:8: An epilogue?
+> There were also women looking on from a distance, 
+among whom were Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome. 
+When he was in Galilee, they followed him and ministered to him, 
+and there were also many other women who came up with him to Jerusalem.  
+And when evening had come, since it was the day of Preparation, that is, the day before the Sabbath, 
+Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of God, 
+took courage and went to Pilate and asked for the body of Jesus. 
+Pilate was surprised to hear that he should have already died. 
+And summoning the centurion, he asked him whether he was already dead. 
+And when he learned from the centurion that he was dead, he granted the corpse to Joseph.  
+And Joseph bought a linen shroud, and taking him down, 
+wrapped him in the linen shroud and laid him in a tomb that had been cut out of the rock. 
+And he rolled a stone against the entrance of the tomb. 
+Mary Magdalene and Mary the mother of Joses saw where he was laid.  
+When the Sabbath was past, Mary Magdalene, Mary the mother of James, and Salome bought spices, so that they might go and anoint him.  
+And very early on the first day of the week, when the sun had risen, they went to the tomb.  
+And they were saying to one another,  
+“Who will roll away the stone for us from the entrance of the tomb?”  
+And looking up, they saw that the stone had been rolled back—it was very large.  
+And entering the tomb, they saw a young man sitting on the right side, dressed in a white robe, and they were alarmed. 
+And he said to them,  
+“Do not be alarmed. You seek Jesus of Nazareth, who was crucified. 
+He has risen; he is not here. 
+See the place where they laid him. 
+But go, tell his disciples and Peter that he is going before you to Galilee. 
+There you will see him, just as he told you.”  
+And they went out and fled from the tomb, for trembling and astonishment had seized them, 
+and they said nothing to anyone, for they were afraid.
 
-Mark 15:39-43 introduces several new characters who are critical to the rest of the gospel - many female disciples from Galilee, and Joseph of Arimathea. 
-Although the women must have had previous interactions with Jesus, and Joseph - being a prominent member of the Council and supposedly someone who respected Jesus - would be expected to, 
-none of them are even hinted at until this point. 
+### A (nearly) complete change of cast.
+
+Mark 15:40-43 introduces several new characters who are critical to the rest of the gospel:
+- many female disciples from Galilee, and 
+- Joseph of Arimathea.
+
+Although the women must have had previous interactions with Jesus, 
+and Joseph would be expected to have (being a prominent member of the Council and supposedly someone who respected Jesus) 
+none of them are even hinted at until this scene. 
 This would be consistent with the earlier part of Mark being written without an awareness of this last scene. 
+
 Pilate and the centurion also have parts in this scene but only in an administrative capacity. 
 Additionally, they are prominent in the preceding scene so it is natural that they are included to help the story flow on.
 
 There is however, one essential character who may have already been introduced - the young man at the tomb in Mark 16:5. 
 If this is meant to be the same young man who fled naked in Gethsemane (Mark 14:51) then he could have been introduced earlier in preparation for his role at the empty tomb. 
-Three explanations are proposed:
+Four explanations are proposed:
 1. The two young men are the same person and Mark 14 is intentionally introducing him into the story before his main role in Mark 16. 
-1. The young man in Mark 14 is not the same as the one in Mark 16. 
+2. The two young men are the same person but he is only added to Mark 16 for the sake of continuity.
+3. The young man in Mark 14 is not the same as the one in Mark 16. 
     This might be reasonable as clearly later gospels interpret the latter "young man" as an angel.
-2. The aside in Mark 14 was inserted after the empty tomb story was, perhaps as a border annotation. 
+4. The aside in Mark 14 was inserted after the empty tomb story was, perhaps as a border annotation. 
     This might be reasonable as the account of Jesus's arrest flows better without it, 
     not to mention that all the later gospels exclude it.
 
 
-## Timeline considerations.
+### Timeline considerations.
 
 Jesus is crucified on the Day of Preparation before the Sabbath, however this information is not disclosed until after his death and the story needs to justify a quick burial. 
-On the other hand, Jesus dies at around 3PM which allows time for the burial arrangements and this information does precede the proposed original ending. 
+On the other hand, Jesus dies at around 3PM which possibly allows time for the burial arrangements and this information does precede the proposed original ending. 
+
+Jesus is buried on the day before the Sabbath, but the women visit the tomb on the day after, meaning the second day. 
+Yet the liturgy from 1 Corinthians 15 and several predictions in Mark say the resurrection is on (or after) the third day.
+(This contradiction isn't fixed until John.)
 
 
 ## Predictions of death and resurrection.
@@ -83,7 +122,7 @@ Let's look closer at these predictions while considering a few questions:
 
 
 ### Mark 8:27-33
-And Jesus went on with his disciples to the villages of Caesarea Philippi. 
+> And Jesus went on with his disciples to the villages of Caesarea Philippi. 
 And on the way he asked his disciples, “Who do people say that I am?” 
 And they told him, “John the Baptist; and others say, Elijah; and others, one of the prophets.” 
 And he asked them, “But who do you say that I am?” 
@@ -100,7 +139,7 @@ but naturally at this point in the story the disciples are dreaming of an earthl
 
 
 ### Mark 9:1-13
-And he said to them, 
+> And he said to them, 
 “Truly, I say to you, there are some standing here who will not taste death until they see the kingdom of God after it has come with power.”
 And after six days Jesus took with him Peter and James and John, and led them up a high mountain by themselves. 
 And he was transfigured before them, and his clothes became radiant, intensely white, as no one on earth could bleach them. 
@@ -120,7 +159,7 @@ If any of canonical Mark is reminiscent of Papias's "unordered" Mark it is this 
 Is the prediction of some standing there seeing the kingdom of God coming in power immediately fulfilled in the transfiguration? Surely that doesn't make sense dramatically.
 Is the transfiguration meant to be a proof for Peter, James, and John (and the audience) that the future is guaranteed? c.f. 2 Peter 1:17,18
 Or could it be that this story began as a resurrection account as in Matthew 28:16 and was repurposed to be used into the main story? 
-Certainly Matthew sees fit to have both the transfiguration and the great commisioning which presumably occured on the same Holy mountain.
+Certainly Matthew sees fit to have both the transfiguration and the great commissioning which presumably occurred on the same Holy mountain.
 
 Interestingly there is no prediction of the crucifixion here. 
 The resurrection prediction feels neither liturgical nor like a side note which made its way into the text. 
@@ -129,7 +168,7 @@ with canonical Mark's ambiguous ending.
 
 
 ### Mark 9:30-32
-They left that place and passed through Galilee. Jesus did not want anyone to know where they were, because he was teaching his disciples. 
+> They left that place and passed through Galilee. Jesus did not want anyone to know where they were, because he was teaching his disciples. 
 He said to them, "The Son of Man is going to be delivered into the hands of men. They will kill him, and after three days he will rise." 
 But they did not understand what he meant and were afraid to ask him about it.
 
@@ -137,7 +176,7 @@ While this resurrection prediction could be liturgical or added later, I think t
 
 
 ### Mark 10:32-45
-And they were on the road, going up to Jerusalem, and Jesus was walking ahead of them. 
+> And they were on the road, going up to Jerusalem, and Jesus was walking ahead of them. 
 And they were amazed, and those who followed were afraid. 
 And taking the twelve again, he began to tell them what was to happen to him, saying, 
 “See, we are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and the scribes, and they will condemn him to death and deliver him over to the Gentiles. 
@@ -166,7 +205,7 @@ I don't think it has any implications for the topic of this essay.
 
 
 ### Mark 14:17-31
-And when it was evening, he came with the twelve. 
+> And when it was evening, he came with the twelve. 
 And as they were reclining at table and eating, Jesus said, “Truly, I say to you, one of you will betray me, one who is eating with me.” 
 They began to be sorrowful and to say to him one after another, “Is it I?” 
 He said to them, “It is one of the twelve, one who is dipping bread into the dish with me. 
@@ -223,7 +262,7 @@ and the lack of resurrection appearances might also be a reminder that the prope
 Perhaps surprisingly, Jesus is not the only prophet to be executed, buried in a tomb, and have resurrection appearances. 
 
 Mark 16:14-29
-King Herod heard about this, for Jesus’ name had become well known. 
+> King Herod heard about this, for Jesus’ name had become well known. 
 Some were saying, “John the Baptist has been raised from the dead, and that is why miraculous powers are at work in him.”
 Others said, “He is Elijah.”
 And still others claimed, “He is a prophet, like one of the prophets of long ago.”
