@@ -261,7 +261,7 @@ and the lack of resurrection appearances might also be a reminder that the prope
 
 Perhaps surprisingly, Jesus is not the only prophet to be executed, buried in a tomb, and have resurrection appearances. 
 
-Mark 16:14-29
+### Mark 16:14-29
 > King Herod heard about this, for Jesus’ name had become well known. 
 Some were saying, “John the Baptist has been raised from the dead, and that is why miraculous powers are at work in him.”
 Others said, “He is Elijah.”
@@ -283,7 +283,8 @@ c.f. Josephus's descriptions of the range of Jewish belief's about the afterlife
 
 ## Hopeless disciples
 
-Jesus not only predicts his own death and resurrection, but also the desertion of his disciples. But implied in the predictions is that this isn't the end for their discipleship. 
+Jesus not only predicts his own death and resurrection, but also the desertion of his disciples. 
+But implied in the predictions is that they aren't going to be left in their hopelessness.  
 Of course, the audience could be expected to be familiar with the disciples continued role in the spreading of the Good News, 
 but did the author know how he was going to confirm those inferences when he included the predictions? 
 Perhaps the author was anticipating using a resurrection story which included the disciples -  
