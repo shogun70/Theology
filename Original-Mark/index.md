@@ -62,14 +62,11 @@ When the Sabbath was past, Mary Magdalene, Mary the mother of James, and Salome 
 And very early on the first day of the week, when the sun had risen, they went to the tomb.  
 And they were saying to one another,  
 “Who will roll away the stone for us from the entrance of the tomb?”  
-And looking up, they saw that the stone had been rolled back—it was very large.  
+And looking up, they saw that the stone had been rolled back — it was very large.  
 And entering the tomb, they saw a young man sitting on the right side, dressed in a white robe, and they were alarmed. 
 And he said to them,  
-“Do not be alarmed. You seek Jesus of Nazareth, who was crucified. 
-He has risen; he is not here. 
-See the place where they laid him. 
-But go, tell his disciples and Peter that he is going before you to Galilee. 
-There you will see him, just as he told you.”  
+“Do not be alarmed. You seek Jesus of Nazareth, who was crucified. He has risen; he is not here. See the place where they laid him. 
+But go, tell his disciples and Peter that he is going before you to Galilee. There you will see him, just as he told you.”  
 And they went out and fled from the tomb, for trembling and astonishment had seized them, 
 and they said nothing to anyone, for they were afraid.
 
@@ -79,12 +76,28 @@ Mark 15:40-43 introduces several new characters who are critical to the rest of 
 - many female disciples from Galilee, and 
 - Joseph of Arimathea.
 
-Although the women must have had previous interactions with Jesus, 
-and Joseph would be expected to have (being a prominent member of the Council and supposedly someone who respected Jesus) 
-none of them are even hinted at until this scene. 
-This would be consistent with the earlier part of Mark being written without an awareness of this last scene. 
+If we read the New Testament chronologically according to when it was written, 
+this is the first occasion where it was recorded that the Jesus even had female followers before he died.
+At a minimum this is consistent with what we would expect if this scene was not in the original Mark.
+But frankly, if this part of the gospel predated the composition of Mark 
+one would strongly expect that there would be some detail regarding these female disciples from Galilee when Jesus was in Galilee 
+(an omission finally addressed by Luke 8:1-3)
+and that these women might be mentioned during the crucifixion procession (somewhat addressed in Luke 23:27)
+or at least while Jesus is dying (fixed in John 19:25).
+Thus, it seems clear that these women are introduced, not because they are followers 
+but precisely so some minor (or even hitherto unknown) characters can find the empty tomb.
+(ASIDE: Strangely it seems clear that one of these women is Mary, the mother of Jesus, 
+but here only identified as the mother of James and Joses.
+John seems to be aware of this mistake and explicitly places Jesus's mother at the cross.
+This vagueness about one of the women could be a hint that the story evolved separately to the rest of Mark. )
 
-Pilate and the centurion also have parts in this scene but only in an administrative capacity. 
+Similarly, Joseph of Arimathea seems to be introduced solely to allow Jesus to be taken off the cross and placed in a tomb. 
+Being supposedly a prominent member of the Council (the same council which condemned Jesus) 
+and according to later gospels someone who at minimum respected Jesus,
+he would have been ideally placed to confirm that the tomb in which he placed Jesus was indeed empty. 
+It seems that when this ending to Mark was written it was convenient that the empty tomb was a women's secret.  
+
+It isn't a complete change of cast - Pilate and the centurion also have parts in this epilogue but only in an administrative capacity. 
 Additionally, they are prominent in the preceding scene so it is natural that they are included to help the story flow on.
 
 There is however, one essential character who may have already been introduced - the young man at the tomb in Mark 16:5. 
@@ -107,6 +120,9 @@ On the other hand, Jesus dies at around 3PM which possibly allows time for the b
 Jesus is buried on the day before the Sabbath, but the women visit the tomb on the day after, meaning the second day. 
 Yet the liturgy from 1 Corinthians 15 and several predictions in Mark say the resurrection is on (or after) the third day.
 (This contradiction isn't fixed until John.)
+
+The women's reason to visit the tomb is to anoint the body but that seems implausible - you anoint the body before burial -
+an issue not resolved until John. 
 
 
 ## Predictions of death and resurrection.
@@ -301,8 +317,8 @@ presumably as critics or even christians begin to question its trustworthiness.
 Assuming, for the sake of argument,that the burial and empty tomb narrative is a late addition, 
 let us (wildly) speculate how might Mark have evolved?
 We have no texts to work with - just like Q, the presumed proto-Mark is lost, or rather absorbed into the canonical gospels -
-but we do have Eusebius's quote of Papias's hearsay that Aristion claimed that Mark wrote an unordered collection of Peter's anecdotes on the life of Jesus.
-It seems reasonable that such a text would have some perceived authority and it begins to be shared amongst a small network of christian communities.
+but we do have Eusebius's quote of Papias's hearsay that the Presbyter John claimed that Mark wrote an unordered collection of Peter's anecdotes on the life of Jesus. **citation needed**
+It seems reasonable that such a text would have some perceived authority, and it begins to be shared amongst a small network of christian communities.
 
 After the fall of Jerusalem - and the temple - there is a faith crisis regarding the apparent invincibility of the Roman empire 
 and the ongoing stresses on the christian communities. 
