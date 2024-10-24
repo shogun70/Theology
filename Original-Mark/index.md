@@ -91,14 +91,18 @@ but here only identified as the mother of James and Joses.
 John seems to be aware of this mistake and explicitly places Jesus's mother at the cross.
 This vagueness about one of the women could be a hint that the story evolved separately to the rest of Mark. )
 
-Similarly, Joseph of Arimathea seems to be introduced solely to allow Jesus to be taken off the cross and placed in a tomb. 
+Similarly, Joseph of Arimathea's role is solely to get Jesus taken off the cross and placed in a tomb. 
 Being supposedly a prominent member of the Council (the same council which condemned Jesus) 
 and according to later gospels someone who at minimum respected Jesus,
 he would have been ideally placed to confirm that the tomb in which he placed Jesus was indeed empty. 
 It seems that when this ending to Mark was written it was convenient that the empty tomb was a women's secret.  
+TODO: Explore the implications of Joseph of Arimathea's role being so stable in the canonical gospels. 
+Also Acts 13:29:
+>  And when **they** had carried out all that was written of him, **they** took him down from the tree and laid him in a tomb.
 
-It isn't a complete change of cast - Pilate and the centurion also have parts in this epilogue but only in an administrative capacity. 
-Additionally, they are prominent in the preceding scene so it is natural that they are included to help the story flow on.
+It isn't a complete change of cast - Pilate and the centurion are prominent in the preceding scene and also have parts in this epilogue.
+This might suggest original continuity in Mark 15 but it could just as easily be explained by an intelligent playwright 
+seeking to make the scenes flow. 
 
 There is however, one essential character who may have already been introduced - the young man at the tomb in Mark 16:5. 
 If this is meant to be the same young man who fled naked in Gethsemane (Mark 14:51) then he could have been introduced earlier in preparation for his role at the empty tomb. 
@@ -152,6 +156,7 @@ But turning and seeing his disciples, he rebuked Peter and said,
 In this case the prediction of resurrection is short so could be added later, or it could be liturgical.
 From our perspective it seems odd that Peter would rebuke Jesus for speaking about resurrection, 
 but naturally at this point in the story the disciples are dreaming of an earthly kingdom. 
+Unlike the 1 Corinthians 15 liturgy, the prediction does not include burial (it turns out that none of the predictions do).
 
 
 ### Mark 9:1-13
@@ -255,11 +260,15 @@ although arguably this is just creative rewriting of 1 Corinthians 10:23-26.
 
 Let's assume that all the resurrection predictions were in the earliest form of Mark, whether liturgical or more intentional. 
 
-The canonical ending of Mark seems reasonably consistent with these predictions - it shows Jesus being killed, provides a symbol of resurrection, 
-and repeats that the disciples will encounter Jesus in Galilee.
+The canonical ending of Mark have some consistency with these predictions - it shows Jesus being killed, provides a symbol of resurrection, 
+and repeats that the disciples will encounter Jesus in Galilee.  
+
+The predictions never mention that Jesus would be buried which is a little surprising because 1 Corinthians 15 does. Could that be a hint?
+
 The resurrection does seem to be after two days rather than three (an issue explicitly fixed in John) 
 so it might be reasonable to infer that the resurrection predictions are original and included liturgically (in line with the liturgy in 1 Corinthians 15).
-But does this indicate that when the author wrote the predictions into the script he also knew he was going to fulfil them without appearances? 
+
+But do the consistencies indicate that when the author wrote the predictions into the script he also knew he was going to fulfil them without appearances? 
 Could he have originally assumed that the predictions themselves were satisfactory to imply the resurrection appearances after the gospel's climax?
 Certainly the enhanced endings in the later gospels (and the longer endings of Mark) 
 imply that within a few decades audiences weren't satisfied with even the inference supplied by the empty tomb.
