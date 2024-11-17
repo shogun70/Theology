@@ -10,8 +10,15 @@ This essay will investigate the proposition that this was in fact the original e
 The approach for this investigation will be to look at various pericopes while asking the question:
 "did the author know about the tomb when composing this part of the account?"
 
-Since we have no complete manuscripts of Mark which finish earlier than Mark 16:8
-and no other gospel material which appears to predate Mark this investigation must be speculative.
+There is no definitive gospel narrative material preceding Mark
+(so of course this exploration must remain speculative)
+but we can compare and contrast these final scenes with the presumed church liturgy in 1 Corinthians 15:3-5.
+
+> For I delivered to you as of first importance what I also received:  
+that Christ died for our sins in accordance with the Scriptures,  
+that he was buried,  
+that he was raised on the third day in accordance with the Scriptures,  
+and that he appeared to Cephas, then to the twelve.  
 
 
 ## Aside: Why did Mark go viral?
@@ -77,21 +84,21 @@ Mark 15:40-43 introduces several new characters who are critical to the rest of 
 - Joseph of Arimathea.
 
 If we read the New Testament chronologically according to when it was written, 
-this is the first occasion where it was recorded that the Jesus even had female followers before he died.
-At a minimum this is consistent with what we would expect if this scene was not in the original Mark.
-But frankly, if this part of the gospel predated the composition of Mark 
+this is the first occasion where it was recorded that the earthly Jesus even had female followers.
+At a minimum this is consistent with what we would expect if this scene was appended later.
+Even if this story predated the composition of Mark 
 one would strongly expect that there would be some detail regarding these female disciples from Galilee when Jesus was in Galilee 
 (an omission finally addressed by Luke 8:1-3)
 and that these women might be mentioned during the crucifixion procession (somewhat addressed in Luke 23:27)
 or at least while Jesus is dying (fixed in John 19:25).
-Thus, it seems clear that these women are introduced, not because they are followers 
+Thus, it seems clear that in Mark these women are introduced, not because they are followers 
 but precisely so some minor (or even hitherto unknown) characters can find the empty tomb.
 (ASIDE: Strangely it seems clear that one of these women is Mary, the mother of Jesus, 
 but here only identified as the mother of James and Joses.
 John seems to be aware of this mistake and explicitly places Jesus's mother at the cross.
 This vagueness about one of the women could be a hint that the story evolved separately to the rest of Mark. )
 
-Similarly, Joseph of Arimathea's role is solely to get Jesus taken off the cross and placed in a tomb. 
+Similarly, Joseph of Arimathea's role is solely to get Jesus taken down from the cross and placed in a tomb. 
 Being supposedly a prominent member of the Council (the same council which condemned Jesus) 
 and according to later gospels someone who at minimum respected Jesus,
 he would have been ideally placed to confirm that the tomb in which he placed Jesus was indeed empty. 
@@ -108,7 +115,8 @@ There is however, one essential character who may have already been introduced -
 If this is meant to be the same young man who fled naked in Gethsemane (Mark 14:51) then he could have been introduced earlier in preparation for his role at the empty tomb. 
 Four explanations are proposed:
 1. The two young men are the same person and Mark 14 is intentionally introducing him into the story before his main role in Mark 16. 
-2. The two young men are the same person but he is only added to Mark 16 for the sake of continuity.
+2. The two young men are the same person but he is only added to Mark 16 for the sake of continuity - 
+    perhaps the audience were meant to presume it was he who had rolled away the stone.
 3. The young man in Mark 14 is not the same as the one in Mark 16. 
     This might be reasonable as clearly later gospels interpret the latter "young man" as an angel.
 4. The aside in Mark 14 was inserted after the empty tomb story was, perhaps as a border annotation. 
@@ -153,11 +161,15 @@ And he said this plainly. And Peter took him aside and began to rebuke him.
 But turning and seeing his disciples, he rebuked Peter and said, 
 “Get behind me, Satan! For you are not setting your mind on the things of God, but on the things of man.”
 
-In this case the prediction of resurrection is short so could be added later, or it could be liturgical.
+Unlike the 1 Corinthians 15 liturgy, the prediction does not include burial.
+This sets a precedent for the rest of Mark and indeed all the gospels.
+This omission feels a little surprising if the burial was an important part of the narrative before Mark was compiled.
+
+The prediction of resurrection is short so could be added later, or it could be liturgical.
+But if it was added later, why not throw in a short "and buried"? 
+
 From our perspective it seems odd that Peter would rebuke Jesus for speaking about resurrection, 
 but naturally at this point in the story the disciples are dreaming of an earthly kingdom. 
-Unlike the 1 Corinthians 15 liturgy, the prediction does not include burial (it turns out that none of the predictions do).
-
 
 ### Mark 9:1-13
 > And he said to them, 
@@ -260,10 +272,12 @@ although arguably this is just creative rewriting of 1 Corinthians 10:23-26.
 
 Let's assume that all the resurrection predictions were in the earliest form of Mark, whether liturgical or more intentional. 
 
-The canonical ending of Mark have some consistency with these predictions - it shows Jesus being killed, provides a symbol of resurrection, 
+The canonical ending of Mark has some consistency with these predictions - it shows Jesus being killed, provides a symbol of resurrection, 
 and repeats that the disciples will encounter Jesus in Galilee.  
 
-The predictions never mention that Jesus would be buried which is a little surprising because 1 Corinthians 15 does. Could that be a hint?
+The predictions never mention that Jesus would be buried which is a little surprising in the light of 1 Corinthians 15. 
+Could that be a hint that Mark was initially composed when the burial wasn't an essential part of contemporary retellings?
+Parhaps the Passion Week stories were retold before Easter and there were separate resurrection tellings after Easter.
 
 The resurrection does seem to be after two days rather than three (an issue explicitly fixed in John) 
 so it might be reasonable to infer that the resurrection predictions are original and included liturgically (in line with the liturgy in 1 Corinthians 15).
@@ -276,10 +290,7 @@ This is still the case in the modern era, with none less than Bruce Megzter opin
 
 Alternatively, what if what seems to be vaguely fulfilled predictions was actually meant to intend partial fulfilment, 
 with the completion to be expected in the original audiences own timeframe? 
-By this reading, the transfiguration would be like a guarantee, 
-the last supper would be more prophetic than memorial, 
-the centurion's acknowledgement of the Son of God would be a foreshadowing, 
-and the lack of resurrection appearances might also be a reminder that the proper appearance is in the future, not the past.
+Or lack of resurrection appearances might be giving permission to anyone to have an encounter with the resurrected Jesus.
 
 
 ## John's death, burial, and resurrection. 
@@ -315,6 +326,9 @@ but did the author know how he was going to confirm those inferences when he inc
 Perhaps the author was anticipating using a resurrection story which included the disciples -  
 for example Jesus walking on the water, or even the transfiguration where Jesus is declared the Son of God.
 (As suggested by Dominic Crossan. **citation needed**)
+
+This essayist at least finds it implausible that there wasn't some (perhaps non-authoritative) sequels to Mark 
+which contained accounts with restored disciples and perhaps resurrection encounters. 
 
 
 ## The evolution of Mark
