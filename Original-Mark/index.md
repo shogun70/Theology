@@ -7,18 +7,18 @@ The climax of the gospel is in Mark 15:33-39 where darkness covers the land, Jes
 the temple curtain is torn in two, and a Roman centurion proclaims "Surely this man was the Son of God". 
 Perhaps surprisingly, this is also the last explicit pronouncement that Jesus is either the Christ or the Son of God. 
 This essay will investigate the proposition that this was in fact the original ending of Mark. 
+
 The approach for this investigation will be to look at various pericopes while asking the question:
 "did the author know about the tomb when composing this part of the account?"
 
-There is no definitive gospel narrative material preceding Mark
-(so of course this exploration must remain speculative)
+This exploration must remain inconclusive since there is no definitive gospel narrative material preceding Mark,
 but we can compare and contrast these final scenes with the presumed church liturgy in 1 Corinthians 15:3-5.
 
 > For I delivered to you as of first importance what I also received:  
 that Christ died for our sins in accordance with the Scriptures,  
 that he was buried,  
 that he was raised on the third day in accordance with the Scriptures,  
-and that he appeared to Cephas, then to the twelve.  
+and that he appeared to Cephas, then to the Twelve.  
 
 
 ## Aside: Why did Mark go viral?
@@ -43,7 +43,7 @@ Two suggestions are offered:
 2. In the year 64, when Nero was blaming christians for the fire in Rome, and then persecuting them (perhaps even executing Peter and Paul), 
     the community must have been thinking that surely God's judgement of Rome and Jesus's return as ruler must be imminent. 
     When instead - by the year 70 - Rome had crushed the Judean revolt, overrun Jerusalem and destroyed the temple 
-    some christians must have felt as though the script had been torn up.
+    some christians must have felt as though their script had been torn up.
     With Mark able to present the Passion week as largely a story of the temple against Jesus (and against God)
     this could have assured the community that actually things were on track - one opponent defeated, 
     the other will surely either confess Jesus is God's true son or be swept aside in due course.
@@ -135,86 +135,116 @@ Yet the liturgy from 1 Corinthians 15 and several predictions in Mark say the re
 
 The women's reason to visit the tomb is to anoint the body but that seems implausible - you anoint the body before burial -
 an issue not resolved until John. 
+However, this might actually be an indicator of continuity with the rest of Mark 
+as it might be foreshadowed in Jesus's anointing in Bethany:
+
+> And while he was at Bethany in the house of Simon the leper, as he was reclining at table, 
+a woman came with an alabaster flask of ointment of pure nard, very costly, and she broke the flask and poured it over his head. 
+There were some who said to themselves indignantly, 
+“Why was the ointment wasted like that? For this ointment could have been sold for more than three hundred denarii and given to the poor.” 
+And they scolded her. 
+But Jesus said, “Leave her alone. Why do you trouble her? She has done a beautiful thing to me. 
+For you always have the poor with you, and whenever you want, you can do good for them. But you will not always have me. 
+She has done what she could; she has anointed my body beforehand for burial. 
+And truly, I say to you, wherever the gospel is proclaimed in the whole world, what she has done will be told in memory of her.”
+>
+> -- <cite>Mark 14:3-9</cite>
+
+Alternatively it could be argued that since the anointing at Bethany undermines the explanation 
+for why the women went to the tomb it wouldn't have been included if the author was thinking about the empty tomb scene.
+It also seems strange that when Mark was written this anonymous woman was remembered - 
+is that likely if in fact the named women who buy spices and find the empty tomb was a well known story?
 
 
 ## Predictions of death and resurrection.
 
-Jesus predicts his death and resurrection several times. 
-While the audience doubtless knew that Jesus was crucified and appeared afterward, 
+Jesus predicts his death and / or resurrection several times.
+(Perhaps surprisingly the only time his burial is predicted is in the aforementioned "Anointing at Bethany")
+While the audience doubtless was familiar with Jesus being crucified and appearing afterward,
 does it make sense for Mark to include the predictions and then only retell the crucifixion?
-On the other hand, would an audience accept an empty tomb but no resurrection appearances as a satisfactory fulfilment?
+On the other hand, would an audience accept an empty tomb but no resurrection appearances 
+as a satisfactory fulfillment to the very same play?
+
 Let's look closer at these predictions while considering a few questions:
-1. Could the prediction of the resurrection have been added later, perhaps initially from a border annotation? Does the text flow just as well without it?
-2. Is the prediction of resurrection consistent with Mark 16? 
-3. Could the prediction of resurrection simply be liturgical, always accompanying the crucifixion? c.f. 1 Corinthians 15:3,4
+1. Is the prediction of resurrection consistent with Mark 15-16?
+2. Could the prediction of the resurrection have been added later, perhaps initially from a border annotation? Does the text flow just as well without it?
+3. Could the prediction of resurrection simply be liturgical, always accompanying the crucifixion, 
+    perhaps following the precedent of 1 Corinthians 15:3-5?
 
 
 ### Mark 8:27-33
-> And Jesus went on with his disciples to the villages of Caesarea Philippi. 
-And on the way he asked his disciples, “Who do people say that I am?” 
-And they told him, “John the Baptist; and others say, Elijah; and others, one of the prophets.” 
-And he asked them, “But who do you say that I am?” 
-Peter answered him, “You are the Christ.” 
-And he strictly charged them to tell no one about him.
-And he began to teach them that the Son of Man must suffer many things and be rejected by the elders and the chief priests and the scribes and be killed, and after three days rise again. 
-And he said this plainly. And Peter took him aside and began to rebuke him. 
-But turning and seeing his disciples, he rebuked Peter and said, 
+> And Jesus went on with his disciples to the villages of Caesarea Philippi.  
+And on the way he asked his disciples, “Who do people say that I am?”  
+And they told him, “John the Baptist; and others say, Elijah; and others, one of the prophets.”  
+And he asked them, “But who do you say that I am?”  
+Peter answered him, “You are the Christ.”  
+And he strictly charged them to tell no one about him.  
+And he began to teach them that  
+> 
+> **the Son of Man must suffer many things and be rejected by the elders and the chief priests and the scribes and be killed,  
+> and after three days rise again.**  
+>
+> And he said this plainly. And Peter took him aside and began to rebuke him. 
+But turning and seeing his disciples, he rebuked Peter and said,  
 “Get behind me, Satan! For you are not setting your mind on the things of God, but on the things of man.”
 
-Unlike the 1 Corinthians 15 liturgy, the prediction does not include burial.
-This sets a precedent for the rest of Mark and indeed all the gospels.
-This omission feels a little surprising if the burial was an important part of the narrative before Mark was compiled.
+Notwithstanding the second day resurrection, this prediction is not inconsistent with the canonical ending of Mark.
+Certainly the proportions in detail of the suffering and condemnation versus the resurrection 
+is a decent match for that presented in the final chapters of Mark. 
 
-The prediction of resurrection is short so could be added later, or it could be liturgical.
-But if it was added later, why not throw in a short "and buried"? 
+From our perspective it seems odd that Peter would rebuke Jesus for speaking about resurrection,
+but naturally at this point in the story the disciples are dreaming of an earthly kingdom.
 
-From our perspective it seems odd that Peter would rebuke Jesus for speaking about resurrection, 
-but naturally at this point in the story the disciples are dreaming of an earthly kingdom. 
+Unlike the 1 Corinthians 15 liturgy, the prediction does not include burial, 
+nor does it explicitly include Jesus being seen by disciples.
+(This sets a precedent for most of the rest of Mark and indeed all the gospels.)
 
-### Mark 9:1-13
-> And he said to them, 
-“Truly, I say to you, there are some standing here who will not taste death until they see the kingdom of God after it has come with power.”
-And after six days Jesus took with him Peter and James and John, and led them up a high mountain by themselves. 
-And he was transfigured before them, and his clothes became radiant, intensely white, as no one on earth could bleach them. 
-And there appeared to them Elijah with Moses, and they were talking with Jesus. 
-And Peter said to Jesus, “Rabbi, it is good that we are here. Let us make three tents, one for you and one for Moses and one for Elijah.” 
-For he did not know what to say, for they were terrified. 
-And a cloud overshadowed them, and a voice came out of the cloud, “This is my beloved Son; listen to him.” 
-And suddenly, looking around, they no longer saw anyone with them but Jesus only.
-And as they were coming down the mountain, he charged them to tell no one what they had seen, until the Son of Man had risen from the dead. 
-So they kept the matter to themselves, questioning what this rising from the dead might mean. 
-And they asked him, “Why do the scribes say that first Elijah must come?” 
-And he said to them, “Elijah does come first to restore all things. 
-And how is it written of the Son of Man that he should suffer many things and be treated with contempt? 
-But I tell you that Elijah has come, and they did to him whatever they pleased, as it is written of him.”
+This omission of burial feels a little surprising if the burial was an important part of the narrative before Mark was compiled. 
+One might speculate that since the prediction of resurrection is so short it could be added after the proposed epilogue became established. 
+However, if it was added later, mightn't we also expect it to include a short "and buried"? 
+Moreover, by the time Matthew is written there has been no urge to revise the prediction. 
 
-If any of canonical Mark is reminiscent of Papias's "unordered" Mark it is this passage. 
-Is the prediction of some standing there seeing the kingdom of God coming in power immediately fulfilled in the transfiguration? Surely that doesn't make sense dramatically.
-Is the transfiguration meant to be a proof for Peter, James, and John (and the audience) that the future is guaranteed? c.f. 2 Peter 1:17,18
-Or could it be that this story began as a resurrection account as in Matthew 28:16 and was repurposed to be used into the main story? 
-Certainly Matthew sees fit to have both the transfiguration and the great commissioning which presumably occurred on the same Holy mountain.
+Overall it feels like it is probably based on contemporary liturgy - 
+especially as it is repeated - with adjustment - two more times in Mark.
+The only earlier liturgy we know is that in 1 Corinthians 15:3-5
 
-Interestingly there is no prediction of the crucifixion here. 
-The resurrection prediction feels neither liturgical nor like a side note which made its way into the text. 
-The disciples reaction of "questioning what this rising from the dead might mean" does perhaps feel consistent 
-with canonical Mark's ambiguous ending. 
+> For I delivered to you as of first importance what I also received:  
+_(1a)_    that Christ died for our sins  
+_(1b)_        in accordance with the Scriptures,  
+_(1c)_           that he was buried,  
+_(2a)_    that he was raised on the third day  
+_(2b)_        in accordance with the Scriptures,  
+_(2c)_             and that he appeared to Cephas, then to the Twelve.
 
+While this prediction in Mark varies considerably, 
+it could be argued that it is a decent match for the lines (1a and 2a) claimed to be in accordance with scripture. 
 
-### Mark 9:30-32
-> They left that place and passed through Galilee. Jesus did not want anyone to know where they were, because he was teaching his disciples. 
-He said to them, "The Son of Man is going to be delivered into the hands of men. They will kill him, and after three days he will rise." 
-But they did not understand what he meant and were afraid to ask him about it.
+### Mark 9:30-35
+> They left that place and passed through Galilee. Jesus did not want anyone to know where they were, because he was teaching his disciples.  
+He said to them, 
+> 
+> **"The Son of Man is going to be delivered into the hands of men. They will kill him, 
+> and after three days he will rise."**  
+>
+> But they did not understand what he meant and were afraid to ask him about it.  
+> And they came to Capernaum. And when he was in the house he asked them, “What were you discussing on the way?”  
+> But they kept silent, for on the way they had argued with one another about who was the greatest.  
+> And he sat down and called the twelve. And he said to them, 
+> “If anyone would be first, he must be last of all and servant of all.”
 
-While this resurrection prediction could be liturgical or added later, I think the text would feel unfinished with nothing else there.
-
+This feels much the same as the preceding prediction, 
+but significantly it is immediately followed by a contrasting episode of 
+the disciples arguing about relative importance. 
 
 ### Mark 10:32-45
 > And they were on the road, going up to Jerusalem, and Jesus was walking ahead of them. 
 And they were amazed, and those who followed were afraid. 
-And taking the twelve again, he began to tell them what was to happen to him, saying, 
-“See, we are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and the scribes, and they will condemn him to death and deliver him over to the Gentiles. 
-And they will mock him and spit on him, and flog him and kill him. And after three days he will rise.”
-And James and John, the sons of Zebedee, came up to him and said to him, “Teacher, we want you to do for us whatever we ask of you.” 
+And taking the twelve again, he began to tell them what was to happen to him, saying,  
+> 
+> **“See, we are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and the scribes, and they will condemn him to death and deliver him over to the Gentiles. 
+> And they will mock him and spit on him, and flog him and kill him. And after three days he will rise.”**  
+>
+> And James and John, the sons of Zebedee, came up to him and said to him, “Teacher, we want you to do for us whatever we ask of you.” 
 And he said to them, “What do you want me to do for you?” 
 And they said to him, “Grant us to sit, one at your right hand and one at your left, in your glory.” 
 Jesus said to them, “You do not know what you are asking. Are you able to drink the cup that I drink, or to be baptized with the baptism with which I am baptized?” 
@@ -227,14 +257,17 @@ And Jesus called them to him and said to them,
 “You know that those who are considered rulers of the Gentiles lord it over them, and their great ones exercise authority over them. 
 But it shall not be so among you. But whoever would be great among you must be your servant, 
 and whoever would be first among you must be slave of all. 
-For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many.”
+>
+> **For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many.”**
 
-Where Peter had rebuked Jesus for talking about the future like this, James and John (and perhaps the rest of the disciples)
-must at this stage believe it is all symbolic. 
-Or maybe they wonder if Jesus is having doubts about the timing of the Messianic age and they are assuring him that they are all in. 
 
-The resurrection prediction here is much the same as in Mark 8 and could be liturgical or an addition. 
-I don't think it has any implications for the topic of this essay. 
+This feels much the same as the earlier predictions,
+and once again is followed by disciples - this time explicitly James and John - petitioning for importance 
+revealing that they must presume Jesus's prediction is symbolic. 
+This is of course consistent with their abandonment of Jesus when he is meekly arrested. 
+
+These repeated examples of the disciples jockeying for position are highly suggestive 
+that this was Peter's motivation when he initially rebuked Jesus. 
 
 
 ### Mark 14:17-31
@@ -249,10 +282,13 @@ And he took a cup, and when he had given thanks he gave it to them, and they all
 And he said to them, “This is my blood of the covenant, which is poured out for many. 
 Truly, I say to you, I will not drink again of the fruit of the vine until that day when I drink it new in the kingdom of God.”
 And when they had sung a hymn, they went out to the Mount of Olives. 
-And Jesus said to them, 
-“You will all fall away, for it is written, ‘I will strike the shepherd, and the sheep will be scattered.’ 
-But after I am raised up, I will go before you to Galilee.” 
-Peter said to him, “Even though they all fall away, I will not.” 
+And Jesus said to them,  
+>
+> **“You will all fall away, for it is written,  
+> ‘I will strike the shepherd, and the sheep will be scattered.’  
+> But after I am raised up, I will go before you to Galilee.”**  
+> 
+> Peter said to him, “Even though they all fall away, I will not.” 
 And Jesus said to him, “Truly, I tell you, this very night, before the rooster crows twice, you will deny me three times.” 
 But he said emphatically, “If I must die with you, I will not deny you.” And they all said the same.
 
@@ -268,9 +304,40 @@ There is also the inference in Jesus's words in the last Supper that Jesus will 
 although arguably this is just creative rewriting of 1 Corinthians 10:23-26. 
 
 
+### Mark 9:1-13
+> And he said to them,
+“Truly, I say to you, there are some standing here who will not taste death until they see the kingdom of God after it has come with power.”
+And after six days Jesus took with him Peter and James and John, and led them up a high mountain by themselves.
+And he was transfigured before them, and his clothes became radiant, intensely white, as no one on earth could bleach them.
+And there appeared to them Elijah with Moses, and they were talking with Jesus.
+And Peter said to Jesus, “Rabbi, it is good that we are here. Let us make three tents, one for you and one for Moses and one for Elijah.”
+For he did not know what to say, for they were terrified.
+And a cloud overshadowed them, and a voice came out of the cloud, “This is my beloved Son; listen to him.”
+And suddenly, looking around, they no longer saw anyone with them but Jesus only.
+And as they were coming down the mountain, he charged them to tell no one what they had seen, until the Son of Man had risen from the dead.
+So they kept the matter to themselves, questioning what this rising from the dead might mean.
+And they asked him, “Why do the scribes say that first Elijah must come?”
+And he said to them, “Elijah does come first to restore all things.
+And how is it written of the Son of Man that he should suffer many things and be treated with contempt?
+But I tell you that Elijah has come, and they did to him whatever they pleased, as it is written of him.”
+
+If any of canonical Mark is reminiscent of Papias's "unordered" Mark it is this passage.
+Is the prediction of some standing there seeing the kingdom of God coming in power immediately fulfilled in the transfiguration? Surely that doesn't make sense dramatically.
+Is the transfiguration meant to be a proof for Peter, James, and John (and the audience) that the future is guaranteed? c.f. 2 Peter 1:17,18
+Why are James and John in Mark 10 so forward about wanting status when it seems they have already been given it? 
+Or could it be that this story began as a resurrection account as in Matthew 28:16 and was repurposed to be used into the main story?
+Certainly Matthew sees fit to have both the transfiguration and the great commissioning which presumably occurred on the same Holy mountain.
+
+Interestingly there is no prediction of the crucifixion here.
+The resurrection prediction feels neither liturgical nor like a side note which made its way into the text.
+The disciples reaction of "questioning what this rising from the dead might mean" does perhaps feel consistent
+with canonical Mark's ambiguous ending.
+
+
 ### Partially fulfilled predictions?  
 
 Let's assume that all the resurrection predictions were in the earliest form of Mark, whether liturgical or more intentional. 
+Is the canonical ending consistent, and if not, why not?
 
 The canonical ending of Mark has some consistency with these predictions - it shows Jesus being killed, provides a symbol of resurrection, 
 and repeats that the disciples will encounter Jesus in Galilee.  
@@ -280,17 +347,20 @@ Could that be a hint that Mark was initially composed when the burial wasn't an 
 Parhaps the Passion Week stories were retold before Easter and there were separate resurrection tellings after Easter.
 
 The resurrection does seem to be after two days rather than three (an issue explicitly fixed in John) 
-so it might be reasonable to infer that the resurrection predictions are original and included liturgically (in line with the liturgy in 1 Corinthians 15).
+so it might be reasonable to infer that the resurrection predictions are original. 
 
 But do the consistencies indicate that when the author wrote the predictions into the script he also knew he was going to fulfil them without appearances? 
-Could he have originally assumed that the predictions themselves were satisfactory to imply the resurrection appearances after the gospel's climax?
-Certainly the enhanced endings in the later gospels (and the longer endings of Mark) 
-imply that within a few decades audiences weren't satisfied with even the inference supplied by the empty tomb.
+Could he have originally assumed that the predictions themselves were satisfactory to imply the resurrection appearances after the gospel's climax? 
+Certainly the original audience would be familiar with some resurrection stories?
+Indeed the enhanced endings in the later gospels (and the longer endings of Mark) 
+imply that within a few decades audiences weren't satisfied with even the inference supplied by the empty tomb
+and were demanding more explicit accounts.
 This is still the case in the modern era, with none less than Bruce Megzter opining that surely this wasn't the intended ending of Mark. **citation needed**
 
-Alternatively, what if what seems to be vaguely fulfilled predictions was actually meant to intend partial fulfilment, 
-with the completion to be expected in the original audiences own timeframe? 
-Or lack of resurrection appearances might be giving permission to anyone to have an encounter with the resurrected Jesus.
+Alternatively, could it be that what appears to be vaguely fulfilled predictions 
+were actually meant to remind the audience that part of the fulfillment was yet to come,  
+perhaps even in the original audiences own timeframe? 
+Or lack of resurrection appearances might be giving permission to anyone to have an encounter with the resurrected Jesus. 
 
 
 ## John's death, burial, and resurrection. 
@@ -329,7 +399,8 @@ for example Jesus walking on the water, or even the transfiguration where Jesus 
 
 This essayist at least finds it implausible that there wasn't some (perhaps non-authoritative) sequels to Mark 
 which contained accounts with restored disciples and perhaps resurrection encounters. 
-
+But if this theory is granted then it raises the question - 
+why did Mark go viral / become authoritative without any of the sequels?
 
 ## The evolution of Mark
 
