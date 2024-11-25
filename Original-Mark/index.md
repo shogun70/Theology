@@ -50,7 +50,7 @@ Two suggestions are offered:
     (Maybe there was also hope that Jews would join christianity as they were told that God had clearly condemned the alternative.) 
 
 
-## Mark 15:40 - 16:8: An epilogue?
+## Mark 15:40 - 16:8: A postscript?
 > There were also women looking on from a distance, 
 among whom were Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome. 
 When he was in Galilee, they followed him and ministered to him, 
@@ -200,7 +200,7 @@ nor does it explicitly include Jesus being seen by disciples.
 (This sets a precedent for most of the rest of Mark and indeed all the gospels.)
 
 This omission of burial feels a little surprising if the burial was an important part of the narrative before Mark was compiled. 
-One might speculate that since the prediction of resurrection is so short it could be added after the proposed epilogue became established. 
+One might speculate that since the prediction of resurrection is so short it could be added after the proposed postscript became established. 
 However, if it was added later, mightn't we also expect it to include a short "and buried"? 
 Moreover, by the time Matthew is written there has been no urge to revise the prediction. 
 
@@ -334,25 +334,27 @@ The disciples reaction of "questioning what this rising from the dead might mean
 with canonical Mark's ambiguous ending.
 
 
-### Partially fulfilled predictions?  
+### Partially fulfilled predictions?
 
-Let's assume that all the resurrection predictions were in the earliest form of Mark, whether liturgical or more intentional. 
-Is the canonical ending consistent, and if not, why not?
+Let's assert that all the resurrection predictions were in the earliest form of Mark, whether liturgical or more intentional. 
+Are they all consistent with the canonical ending, and if not, why not?
 
-The canonical ending of Mark has some consistency with these predictions - it shows Jesus being killed, provides a symbol of resurrection, 
+The predictions of resurrection (or even execution) are never accompanied by burial which might be surprising in the light of 1 Corinthians 15.
+Could that be a hint that Mark was initially composed when the burial wasn't an essential part of contemporary retellings?
+
+The resurrection (or at least the discovery of the empty tomb) does seem to be after two days rather than the three predicted in the liturgy.
+Given that this is explicitly fixed in John it does feel like an unintentional mismatch in Mark and the synoptics.
+This could suggest that the empty tomb account wasn't coupled with the liturgy when Mark was composed.
+
+But the canonical ending of Mark has some overall consistency with these predictions - 
+it shows Jesus being killed, provides a symbol of resurrection, 
 and repeats that the disciples will encounter Jesus in Galilee.  
 
-The predictions never mention that Jesus would be buried which is a little surprising in the light of 1 Corinthians 15. 
-Could that be a hint that Mark was initially composed when the burial wasn't an essential part of contemporary retellings?
-Parhaps the Passion Week stories were retold before Easter and there were separate resurrection tellings after Easter.
-
-The resurrection does seem to be after two days rather than three (an issue explicitly fixed in John) 
-so it might be reasonable to infer that the resurrection predictions are original. 
-
-But do the consistencies indicate that when the author wrote the predictions into the script he also knew he was going to fulfil them without appearances? 
-Could he have originally assumed that the predictions themselves were satisfactory to imply the resurrection appearances after the gospel's climax? 
+Do the consistencies indicate that when the author wrote the predictions into the script he also knew he was going to fulfil them without appearances? 
+Could he have originally assumed that the predictions themselves were satisfactory to imply the resurrection appearances after the gospel's climax?
+Or perhaps the Passion Week stories were retold before Easter and there were separate resurrection tellings after Easter.
 Certainly the original audience would be familiar with some resurrection stories?
-Indeed the enhanced endings in the later gospels (and the longer endings of Mark) 
+Indeed, the enhanced endings in the later gospels (and the longer endings of Mark) 
 imply that within a few decades audiences weren't satisfied with even the inference supplied by the empty tomb
 and were demanding more explicit accounts.
 This is still the case in the modern era, with none less than Bruce Megzter opining that surely this wasn't the intended ending of Mark. **citation needed**
@@ -361,6 +363,8 @@ Alternatively, could it be that what appears to be vaguely fulfilled predictions
 were actually meant to remind the audience that part of the fulfillment was yet to come,  
 perhaps even in the original audiences own timeframe? 
 Or lack of resurrection appearances might be giving permission to anyone to have an encounter with the resurrected Jesus. 
+
+Or maybe the concept of resurrection itself was still under discussion?
 
 
 ## John's death, burial, and resurrection. 
@@ -397,10 +401,11 @@ Perhaps the author was anticipating using a resurrection story which included th
 for example Jesus walking on the water, or even the transfiguration where Jesus is declared the Son of God.
 (As suggested by Dominic Crossan. **citation needed**)
 
-This essayist at least finds it implausible that there wasn't some (perhaps non-authoritative) sequels to Mark 
+This essayist at least finds it implausible that there wasn't some contemporary (and perhaps non-authoritative) sequels to the Passion play
 which contained accounts with restored disciples and perhaps resurrection encounters. 
 But if this theory is granted then it raises the question - 
 why did Mark go viral / become authoritative without any of the sequels?
+
 
 ## The evolution of Mark
 
@@ -442,7 +447,7 @@ were possibly known from other stories about Jesus. Or perhaps they were even we
 
 \[ASIDE: In 1 Corinthians 15 there is a reference to "The Twelve" to whom Jesus appeared but no detail of who is included or even when they became known as such.
 The gospels all claim that Jesus chose The Twelve and provide names, although these are not consistent and they even include Judas who obviously isn't in Paul's "The Twelve". 
-Amongst bible scholars there is some openness to the suggestion that several of those listed were Jesus's brothers. 
+Amongst bible scholars there is some openness to the suggestion that several of those listed were in fact Jesus's brothers. 
 Surprisingly, Papias provides a shorter list of seven - Andrew, Peter, Philip, Thomas, James, John, Matthew. 
 The gospels also have inconsistency (and vagueness) amongst the lists of women who went to the tomb. 
 They all include Mary Magdalene, and the synoptics all include another Mary. They all have hints at other women.
@@ -461,3 +466,11 @@ By the time the epilogue arrives back at the community where the gospel had been
 it is close to fully formed and some people are arguing that it sounds credible and should be added to the gospel. 
 
 This then becomes the final version of Mark which goes viral thus forming the basis for what a gospel must include.
+
+
+## Conclusion
+
+Since there is no manuscript evidence more in favour of an original ending at Mark 15:39, 
+the canonical ending at Mark 16:8 must be preferred by default. 
+Nevertheless, let's argue the case for and against based on the preceding exploration. 
+
