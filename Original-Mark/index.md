@@ -127,7 +127,16 @@ Four explanations are proposed:
 ### Timeline considerations.
 
 Jesus is crucified on the Day of Preparation before the Sabbath, however this information is not disclosed until after his death and the story needs to justify a quick burial. 
-On the other hand, Jesus dies at around 3PM which possibly allows time for the burial arrangements and this information does precede the proposed original ending. 
+On the other hand, Jesus dies at around 3PM (the ninth hour) which possibly allows time for the burial arrangements and this information does precede the proposed original ending. 
+
+It should be noted that there is a strong continuity in the timestamps of the day:
+- Jesus is brought to Pilate "as soon as it was morning";  
+- he is crucified at the third hour;  
+- a darkness covers the land from the sixth hour;  
+- he dies at the ninth hour;  
+- he is taken from the cross when evening had come.  
+
+Once you see the pattern it is hard not to think that the timestamps were deliberately inserted to mark out a **whole** day. 
 
 Jesus is buried on the day before the Sabbath, but the women visit the tomb on the day after, meaning the second day. 
 Yet the liturgy from 1 Corinthians 15 and several predictions in Mark say the resurrection is on (or after) the third day.
@@ -151,9 +160,16 @@ And truly, I say to you, wherever the gospel is proclaimed in the whole world, w
 > -- <cite>Mark 14:3-9</cite>
 
 Alternatively it could be argued that since the anointing at Bethany undermines the explanation 
-for why the women went to the tomb it wouldn't have been included if the author was thinking about the empty tomb scene.
-It also seems strange that when Mark was written this anonymous woman was remembered - 
+for why the women went to the tomb it wouldn't have been included if the author was thinking about the empty tomb scene. 
+It also seems strange that when Mark was written it is this anonymous woman who was remembered - 
 is that likely if in fact the named women who buy spices and find the empty tomb was a well known story?
+
+
+### Stylistic consistency
+
+The postulated postscript feels stylistically consistent, with vivid scenes, dualisms, 
+frequent use of "and" to join sentences, 
+It is easy to imagine the same author is also responsible. 
 
 
 ## Predictions of death and resurrection.
@@ -241,8 +257,10 @@ the disciples arguing about relative importance.
 And they were amazed, and those who followed were afraid. 
 And taking the twelve again, he began to tell them what was to happen to him, saying,  
 > 
-> **“See, we are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and the scribes, and they will condemn him to death and deliver him over to the Gentiles. 
-> And they will mock him and spit on him, and flog him and kill him. And after three days he will rise.”**  
+> “See, we are going up to Jerusalem, and  
+> **the Son of Man will be delivered over to the chief priests and the scribes, and they will condemn him to death and deliver him over to the Gentiles. 
+> And they will mock him and spit on him, and flog him and kill him.  
+> And after three days he will rise.”**  
 >
 > And James and John, the sons of Zebedee, came up to him and said to him, “Teacher, we want you to do for us whatever we ask of you.” 
 And he said to them, “What do you want me to do for you?” 
@@ -284,8 +302,8 @@ Truly, I say to you, I will not drink again of the fruit of the vine until that 
 And when they had sung a hymn, they went out to the Mount of Olives. 
 And Jesus said to them,  
 >
-> **“You will all fall away, for it is written,  
-> ‘I will strike the shepherd, and the sheep will be scattered.’  
+> “You will all fall away, for it is written,  
+> **‘I will strike the shepherd, and the sheep will be scattered.’  
 > But after I am raised up, I will go before you to Galilee.”**  
 > 
 > Peter said to him, “Even though they all fall away, I will not.” 
@@ -314,7 +332,8 @@ And Peter said to Jesus, “Rabbi, it is good that we are here. Let us make thre
 For he did not know what to say, for they were terrified.
 And a cloud overshadowed them, and a voice came out of the cloud, “This is my beloved Son; listen to him.”
 And suddenly, looking around, they no longer saw anyone with them but Jesus only.
-And as they were coming down the mountain, he charged them to tell no one what they had seen, until the Son of Man had risen from the dead.
+And as they were coming down the mountain, he charged them to tell no one what they had seen,  
+**until the Son of Man had risen from the dead.**  
 So they kept the matter to themselves, questioning what this rising from the dead might mean.
 And they asked him, “Why do the scribes say that first Elijah must come?”
 And he said to them, “Elijah does come first to restore all things.
@@ -346,7 +365,7 @@ The resurrection (or at least the discovery of the empty tomb) does seem to be a
 Given that this is explicitly fixed in John it does feel like an unintentional mismatch in Mark and the synoptics.
 This could suggest that the empty tomb account wasn't coupled with the liturgy when Mark was composed.
 
-But the canonical ending of Mark has some overall consistency with these predictions - 
+But the canonical ending of Mark has some general consistency with these predictions - 
 it shows Jesus being killed, provides a symbol of resurrection, 
 and repeats that the disciples will encounter Jesus in Galilee.  
 
@@ -404,7 +423,7 @@ for example Jesus walking on the water, or even the transfiguration where Jesus 
 This essayist at least finds it implausible that there wasn't some contemporary (and perhaps non-authoritative) sequels to the Passion play
 which contained accounts with restored disciples and perhaps resurrection encounters. 
 But if this theory is granted then it raises the question - 
-why did Mark go viral / become authoritative without any of the sequels?
+why did Mark go viral / become authoritative without any such sequels?
 
 
 ## The evolution of Mark
@@ -413,7 +432,7 @@ None of the New Testament letters (or even the letters of the early church fathe
 yet starting with Mark, all the narrative gospels do. Indeed, the story becomes more embellished, 
 presumably as critics or even christians begin to question its trustworthiness.
 
-Assuming, for the sake of argument,that the burial and empty tomb narrative is a late addition, 
+Assuming, for the sake of argument,that the burial and empty tomb narrative is a postscript, 
 let us (wildly) speculate how might Mark have evolved?
 We have no texts to work with - just like Q, the presumed proto-Mark is lost, or rather absorbed into the canonical gospels -
 but we do have Eusebius's quote of Papias's hearsay that the Presbyter John claimed that Mark wrote an unordered collection of Peter's anecdotes on the life of Jesus. **citation needed**
@@ -428,8 +447,8 @@ and ends with a Roman centurion acknowledging that Jesus is a Son of God (a prem
 After a few years the play and some of the other stories from proto-Mark are assembled - perhaps by an acolyte of Mark - 
 into a final written form of "the Good News of Jesus Christ the Son of God".
 
-One Passover / Easter there is a novel addition to a performance of the Passion Week plays - 
-reminiscent of the Graeco-Roman trope of an empty tomb signifying a person has been taken up to the gods, 
+One Passover / Easter there is a novel addition to a performance of the Passion Week plays. 
+Reminiscent of the Graeco-Roman trope of an empty tomb signifying a person has been taken up to the gods, 
 in this scene some anonymous women are going to visit a tomb to mourn and inexplicably find it open. c.f. Robin Faith Walsh **citation needed**
 Perhaps the Passion week play had even been performed as a sequence of short plays in the week before Easter 
 and then the empty tomb scene is really first performed on the first day of the week. 
@@ -458,9 +477,12 @@ We could infer that Luke potentially has four named women at the empty tomb.
 The only other female follower mentioned in the context of Jesus's tomb is Salome in Mark.
 In total we seem to have the potential for five named women at the tomb.
 Add that to Papias's seven male disciples and we have **twelve**. 
-This is probably just coincidence and obviously very tenuous, but it would make sense that 
-if Paul's "The Twelve" contained women then some memory of that could leak into the empty tomb narrative
-when the story tellers aren't happy with an initial anonymous account. \]
+This is probably just coincidence and obviously very tenuous, 
+but if Paul's "The Twelve" included women then it would not be astonishing 
+that some memory of it could leak into the empty tomb narrative
+when the story tellers aren't happy with an initial anonymous account.  
+FIXME: Is "The Twelve" in 1 Cor 15 gendered?
+\]
 
 By the time the epilogue arrives back at the community where the gospel had been first finalized 
 it is close to fully formed and some people are arguing that it sounds credible and should be added to the gospel. 
