@@ -95,7 +95,7 @@ Thus, it seems clear that in Mark these women are introduced, not because they a
 but precisely so some minor (or even hitherto unknown) characters can find the empty tomb.
 (ASIDE: Strangely it seems clear that one of these women is Mary, the mother of Jesus, 
 but here only identified as the mother of James and Joses.
-John seems to be aware of this mistake and explicitly places Jesus's mother at the cross.
+John seems to be aware of this mistake and explicitly places Jesus's mother at the cross. 
 This vagueness about one of the women could be a hint that the story evolved separately to the rest of Mark. )
 
 Similarly, Joseph of Arimathea's role is solely to get Jesus taken down from the cross and placed in a tomb. 
@@ -131,12 +131,14 @@ On the other hand, Jesus dies at around 3PM (the ninth hour) which possibly allo
 
 It should be noted that there is a strong continuity in the timestamps of the day:
 - Jesus is brought to Pilate "as soon as it was morning";  
-- he is crucified at the third hour;  
-- a darkness covers the land from the sixth hour;  
-- he dies at the ninth hour;  
-- he is taken from the cross when evening had come.  
+- he is crucified when "it was the third hour";  
+- a darkness covers the land "when the sixth hour had come";  
+- he dies "at the ninth hour";  
+- he is taken from the cross "when evening had come".  
 
-Once you see the pattern it is hard not to think that the timestamps were deliberately inserted to mark out a **whole** day. 
+Once you see the pattern it is hard not to think that the timestamps were deliberately included to mark out a **whole** day. 
+This doesn't rule out the speculated postscript, 
+but it would probably require also speculating some (minor) reworking of the entire Mark 15.
 
 Jesus is buried on the day before the Sabbath, but the women visit the tomb on the day after, meaning the second day. 
 Yet the liturgy from 1 Corinthians 15 and several predictions in Mark say the resurrection is on (or after) the third day.
@@ -144,7 +146,7 @@ Yet the liturgy from 1 Corinthians 15 and several predictions in Mark say the re
 
 The women's reason to visit the tomb is to anoint the body but that seems implausible - you anoint the body before burial -
 an issue not resolved until John. 
-However, this might actually be an indicator of continuity with the rest of Mark 
+It could be argued that actually this is an indicator of continuity with the rest of Mark 
 as it might be foreshadowed in Jesus's anointing in Bethany:
 
 > And while he was at Bethany in the house of Simon the leper, as he was reclining at table, 
@@ -159,10 +161,10 @@ And truly, I say to you, wherever the gospel is proclaimed in the whole world, w
 >
 > -- <cite>Mark 14:3-9</cite>
 
-Alternatively it could be argued that since the anointing at Bethany undermines the explanation 
-for why the women went to the tomb it wouldn't have been included if the author was thinking about the empty tomb scene. 
-It also seems strange that when Mark was written it is this anonymous woman who was remembered - 
-is that likely if in fact the named women who buy spices and find the empty tomb was a well known story?
+Alternatively, since the anointing at Bethany undermines the explanation for why the women went to the tomb,
+one might ask why would it be included if the author was thinking about the empty tomb scene? 
+It also seems strange that - when Mark was written - it is this anonymous woman who was remembered. 
+Is that likely if in fact the named women who buy spices and find the empty tomb was a well known story?
 
 
 ### Stylistic consistency
@@ -170,6 +172,33 @@ is that likely if in fact the named women who buy spices and find the empty tomb
 The postulated postscript feels stylistically consistent, with vivid scenes, dualisms, 
 frequent use of "and" to join sentences, 
 It is easy to imagine the same author is also responsible. 
+
+The one atypical feature seems to be the frequent and inconsistent repetition of the women by name. 
+
+> There were also women looking on from a distance,
+among whom were **Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome**.
+When he was in Galilee, they followed him and ministered to him ...
+
+> And he rolled a stone against the entrance of the tomb.
+**Mary Magdalene and Mary the mother of Joses** saw where he was laid.  
+When the Sabbath was past, **Mary Magdalene, Mary the mother of James, and Salome** bought spices, so that they might go and anoint him. 
+And very early on the first day of the week, when the sun had risen, they went to the tomb.
+
+If this account is read in one go, this repetition feels clumsy. 
+There is no comparable instance of excessively redundant (and inconsistent) identification of characters in the rest of Mark. 
+Matthew and Luke also seem to have felt the clunkiness - 
+at least Matthew reduces the inconsistency and Luke eliminates redundancy by naming the women only once. 
+
+If the account is treated as a play, 
+with a distinct scene change between the burial and the discovery of the empty tomb, 
+then the repetition is less jarring. 
+However, the inconsistency in identifying **Mary the mother of James and of Joses** 
+might be suggestive of an instance of writer fatigue as the author narrator notices 
+that he missed out James in the first repetition and so deliberately leaves out Joses on the second. 
+
+ASIDE: The apparent clunkiness disappears if the women are completely removed from the scene on the day of crucifixion. 
+This might reflect an earlier draft of the postscript, with Joseph of Arimathea burying Jesus on the Day of Preparation, 
+and the women not being introduced until the first day of the week. 
 
 
 ## Predictions of death and resurrection.
@@ -284,8 +313,16 @@ and once again is followed by disciples - this time explicitly James and John - 
 revealing that they must presume Jesus's prediction is symbolic. 
 This is of course consistent with their abandonment of Jesus when he is meekly arrested. 
 
-These repeated examples of the disciples jockeying for position are highly suggestive 
-that this was Peter's motivation when he initially rebuked Jesus. 
+These repeated examples of the disciples jockeying for position are highly suggestive
+that this was Peter's motivation when he initially rebuked Jesus.
+
+There is a second prediction of death in this excerpt
+where Jesus contrasts the mindset of the Son of Man with that of rulers of the world. 
+Of all the predictions in Mark, this statement that he "gives his life as a ransom for many" 
+comes the closest to the 1 Corinthians 15:3 statement that "Christ died for our sins". 
+
+With such a strong message that the world's (and the disciples) expectations of a Christ are wrong, 
+it could be argued that Mark ending at 15:39 was completely appropriate to drive home this message. 
 
 
 ### Mark 14:17-31
@@ -370,7 +407,7 @@ it shows Jesus being killed, provides a symbol of resurrection,
 and repeats that the disciples will encounter Jesus in Galilee.  
 
 Do the consistencies indicate that when the author wrote the predictions into the script he also knew he was going to fulfil them without appearances? 
-Could he have originally assumed that the predictions themselves were satisfactory to imply the resurrection appearances after the gospel's climax?
+Could he have originally assumed that the predictions themselves were satisfactory to imply the resurrection appearances after the gospel's climax? 
 Or perhaps the Passion Week stories were retold before Easter and there were separate resurrection tellings after Easter.
 Certainly the original audience would be familiar with some resurrection stories?
 Indeed, the enhanced endings in the later gospels (and the longer endings of Mark) 
@@ -430,7 +467,7 @@ why did Mark go viral / become authoritative without any such sequels?
 
 None of the New Testament letters (or even the letters of the early church fathers) mention the tomb, 
 yet starting with Mark, all the narrative gospels do. Indeed, the story becomes more embellished, 
-presumably as critics or even christians begin to question its trustworthiness.
+presumably as critics or even christians begin to question its credibility. 
 
 Assuming, for the sake of argument,that the burial and empty tomb narrative is a postscript, 
 let us (wildly) speculate how might Mark have evolved?
@@ -453,6 +490,7 @@ in this scene some anonymous women are going to visit a tomb to mourn and inexpl
 Perhaps the Passion week play had even been performed as a sequence of short plays in the week before Easter 
 and then the empty tomb scene is really first performed on the first day of the week. 
 The audience, mostly aware of the trope, understands the significance and it feels like a satisfying epilogue.
+Conveniently, it also doesn't preclude continuing the non-authoritative plays regarding resurrection encounters of the male disciples. 
 
 As this well received epilogue spreads in the small network it gets modified to make the links with the gospel stronger. 
 Some new hearers assume it is meant to be true and some apologetic reworking is applied - 
@@ -464,7 +502,7 @@ The day of preparation is used as a reason to get Jesus off the cross (although 
 The female disciples - they have to be female because everyone knows the disciples weren't preaching the empty tomb - 
 were possibly known from other stories about Jesus. Or perhaps they were even well known deceased Jewish women from the community.
 
-\[ASIDE: In 1 Corinthians 15 there is a reference to "The Twelve" to whom Jesus appeared but no detail of who is included or even when they became known as such.
+(ASIDE: In 1 Corinthians 15 there is a reference to "The Twelve" to whom Jesus appeared but no detail of who is included or even when they became known as such.
 The gospels all claim that Jesus chose The Twelve and provide names, although these are not consistent and they even include Judas who obviously isn't in Paul's "The Twelve". 
 Amongst bible scholars there is some openness to the suggestion that several of those listed were in fact Jesus's brothers. 
 Surprisingly, Papias provides a shorter list of seven - Andrew, Peter, Philip, Thomas, James, John, Matthew. 
@@ -482,17 +520,51 @@ but if Paul's "The Twelve" included women then it would not be astonishing
 that some memory of it could leak into the empty tomb narrative
 when the story tellers aren't happy with an initial anonymous account.  
 FIXME: Is "The Twelve" in 1 Cor 15 gendered?
-\]
+)
 
 By the time the epilogue arrives back at the community where the gospel had been first finalized 
 it is close to fully formed and some people are arguing that it sounds credible and should be added to the gospel. 
 
 This then becomes the final version of Mark which goes viral thus forming the basis for what a gospel must include.
 
+### Anticipated manuscript evidence
+
+Even though Mark established the template for narrative gospels,
+we actually have less manuscripts for Mark than the later gospels. 
+The situation is even more bleak for the well accepted sayings gospel, Q. 
+Although it (presumably) was available to Clement of Rome (and the recipients of his letter),
+not to mention the authors of Matthew and Luke, 
+there are no manuscripts at all definitively establishing its historicity. 
+How much less likely is it to find manuscript evidence for earlier drafts of the gospel of Mark? 
+
+No matter, let us consider what forms of manuscript evidence would be supportive of an earlier Mark without the suggested postscript,
+(ordered by approximate weight): 
+
+- a fragment which ends at Mark 15:39. 
+- a fragment of Mark 15 which does not contain the timestamps - the third hour, the sixth hour, the ninth hour. 
+- an ending of Mark which doesn't mention the women at the cross.
+- a fragment of Mark 14 without v28 or v51. 
+- an account of the Transfiguration or Jesus walking on the water which don't align with the gospels.
+- early christian writings which indicate that Mark underwent revisions. 
+    e.g. the Mar Saba letter, if found and dated, would support an early belief that Mark's gospel underwent revision,
+    even if it is unrelated to the topic of this essay.
+
 
 ## Conclusion
 
-Since there is no manuscript evidence more in favour of an original ending at Mark 15:39, 
-the canonical ending at Mark 16:8 must be preferred by default. 
-Nevertheless, let's argue the case for and against based on the preceding exploration. 
+Since there is no manuscript evidence for earlier drafts of Mark, 
+it must remain speculation as to whether one proposition for its evolution is more likely than another. 
+
+This essay has identified arguments possibly in favour of Mark 15:39 being a satisfactory ending to an earlier draft of Mark:
+
+- it is a climax of the gospel and the last explicit mention of Jesus as the Son of God, reflecting the gospel's title. 
+- one intention of Mark's gospel is to contrast Jesus with leaders of the world, and ending at the cross would highlight that. 
+- the preceding accounts in the gospel may not anticipate a burial. 
+
+However, it has also been found that if Mark 15:40-16:8 is a postscript, 
+its addition was probably accompanied by some revision of the previous gospel text:
+
+- timestamps in Mark 15 - the third hour, the sixth hour, the ninth hour.
+- Jesus's prediction of the disciples seeing him in Galilee from Mark 14. 
+- the young man fleeing naked in Mark 14.
 
