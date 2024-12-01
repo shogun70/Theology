@@ -36,7 +36,7 @@ Was it that it addressed a crisis of faith in late first century christianity?
 Two suggestions are offered: 
 1. With the first generation of christians dead, there was no-one around to claim "I saw the risen Jesus"
     or even "I knew one of the disciples - you could tell he was sincere about the resurrection."
-    Fpr sure there would have been stories about resurrection encounters - perhaps like the disciples on the road to Emmaus. 
+    For sure there would have been stories about resurrection encounters - perhaps like the disciples on the road to Emmaus. 
     But perhaps these stories were beginning to sound like hallucinations or even cleverly invented tales (c.f. 2 Peter 1:16).
     Seeing how essential the empty tomb is to later gospels and apologetics, it seems reasonable that this account 
     gave christian communities a defense against fears and critiques that their belief was based more-or-less on ghost stories.
@@ -96,7 +96,7 @@ but precisely so some minor (or even hitherto unknown) characters can find the e
 (ASIDE: Strangely it seems clear that one of these women is Mary, the mother of Jesus, 
 but here only identified as the mother of James and Joses.
 John seems to be aware of this mistake and explicitly places Jesus's mother at the cross. 
-This vagueness about one of the women could be a hint that the story evolved separately to the rest of Mark. )
+This vagueness about one of the women could be a hint that the story evolved separately to the rest of Mark.)
 
 Similarly, Joseph of Arimathea's role is solely to get Jesus taken down from the cross and placed in a tomb. 
 Being supposedly a prominent member of the Council (the same council which condemned Jesus) 
@@ -196,7 +196,7 @@ However, the inconsistency in identifying **Mary the mother of James and of Jose
 might be suggestive of an instance of writer fatigue as the author narrator notices 
 that he missed out James in the first repetition and so deliberately leaves out Joses on the second. 
 
-ASIDE: The apparent clunkiness disappears if the women are completely removed from the scene on the day of crucifixion. 
+It is worth considering that the apparent clunkiness disappears if the women are completely removed from the scene on the day of crucifixion. 
 This might reflect an earlier draft of the postscript, with Joseph of Arimathea burying Jesus on the Day of Preparation, 
 and the women not being introduced until the first day of the week. 
 
@@ -204,7 +204,7 @@ and the women not being introduced until the first day of the week.
 ## Predictions of death and resurrection.
 
 Jesus predicts his death and / or resurrection several times.
-(Perhaps surprisingly the only time his burial is predicted is in the aforementioned "Anointing at Bethany")
+(Perhaps surprisingly, the only time his burial is predicted is in the aforementioned "Anointing at Bethany".)
 While the audience doubtless was familiar with Jesus being crucified and appearing afterward,
 does it make sense for Mark to include the predictions and then only retell the crucifixion?
 On the other hand, would an audience accept an empty tomb but no resurrection appearances 
@@ -261,7 +261,7 @@ _(2a)_    that he was raised on the third day
 _(2b)_        in accordance with the Scriptures,  
 _(2c)_             and that he appeared to Cephas, then to the Twelve.
 
-While this prediction in Mark varies considerably, 
+Whilst the prediction in Mark is clearly different, 
 it could be argued that it is a decent match for the lines (1a and 2a) claimed to be in accordance with scripture. 
 
 ### Mark 9:30-35
@@ -308,21 +308,22 @@ and whoever would be first among you must be slave of all.
 > **For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many.”**
 
 
-This feels much the same as the earlier predictions,
-and once again is followed by disciples - this time explicitly James and John - petitioning for importance 
-revealing that they must presume Jesus's prediction is symbolic. 
+This feels much the same as the earlier predictions, 
+and once again is followed by disciples - this time explicitly James and John - petitioning for importance, 
+thus revealing that they must presume Jesus's prediction is symbolic. 
 This is of course consistent with their abandonment of Jesus when he is meekly arrested. 
 
-These repeated examples of the disciples jockeying for position are highly suggestive
-that this was Peter's motivation when he initially rebuked Jesus.
+These repeated examples of the disciples jockeying for position are highly suggestive 
+that this was Peter's motivation when he initially rebuked Jesus. 
 
-There is a second prediction of death in this excerpt
-where Jesus contrasts the mindset of the Son of Man with that of rulers of the world. 
-Of all the predictions in Mark, this statement that he "gives his life as a ransom for many" 
+There is a second prediction of death in this excerpt 
+where Jesus contrasts the mindset of the Son of Man with that of rulers of the world.  
+Of all the predictions in Mark, this statement that he "gives his life as a ransom for many"  
 comes the closest to the 1 Corinthians 15:3 statement that "Christ died for our sins". 
 
-With such a strong message that the world's (and the disciples) expectations of a Christ are wrong, 
+With such a strong focus that the world's (and the disciples) expectations of a Christ are wrong, 
 it could be argued that Mark ending at 15:39 was completely appropriate to drive home this message. 
+This wouldn't preclude having resurrection encounters, just not in the Passion play. 
 
 
 ### Mark 14:17-31
@@ -377,17 +378,17 @@ And he said to them, “Elijah does come first to restore all things.
 And how is it written of the Son of Man that he should suffer many things and be treated with contempt?
 But I tell you that Elijah has come, and they did to him whatever they pleased, as it is written of him.”
 
-If any of canonical Mark is reminiscent of Papias's "unordered" Mark it is this passage.
-Is the prediction of some standing there seeing the kingdom of God coming in power immediately fulfilled in the transfiguration? Surely that doesn't make sense dramatically.
-Is the transfiguration meant to be a proof for Peter, James, and John (and the audience) that the future is guaranteed? c.f. 2 Peter 1:17,18
+If any of canonical Mark is reminiscent of Papias's "unordered" Mark it is this passage. 
+Is the prediction of some standing there seeing the kingdom of God coming in power immediately fulfilled in the transfiguration? Surely that doesn't make sense dramatically. 
+Is the transfiguration meant to be a proof for Peter, James, and John (and the audience) that the future is guaranteed? c.f. 2 Peter 1:17,18 
 Why are James and John in Mark 10 so forward about wanting status when it seems they have already been given it? 
-Or could it be that this story began as a resurrection account as in Matthew 28:16 and was repurposed to be used into the main story?
-Certainly Matthew sees fit to have both the transfiguration and the great commissioning which presumably occurred on the same Holy mountain.
+Or could it be that this story began as a resurrection account as in Matthew 28:16 and was repurposed to be used into the main story? 
+Certainly Matthew sees fit to have both the transfiguration and the great commissioning which presumably occurred on the same Holy mountain. 
 
-Interestingly there is no prediction of the crucifixion here.
-The resurrection prediction feels neither liturgical nor like a side note which made its way into the text.
-The disciples reaction of "questioning what this rising from the dead might mean" does perhaps feel consistent
-with canonical Mark's ambiguous ending.
+Interestingly there is no prediction of the crucifixion here. 
+The resurrection prediction feels neither liturgical nor like a side note which made its way into the text. 
+The disciples reaction of "questioning what this rising from the dead might mean" does perhaps feel consistent 
+with canonical Mark's ambiguous ending. 
 
 
 ### Partially fulfilled predictions?
@@ -413,7 +414,7 @@ Certainly the original audience would be familiar with some resurrection stories
 Indeed, the enhanced endings in the later gospels (and the longer endings of Mark) 
 imply that within a few decades audiences weren't satisfied with even the inference supplied by the empty tomb
 and were demanding more explicit accounts.
-This is still the case in the modern era, with none less than Bruce Megzter opining that surely this wasn't the intended ending of Mark. **citation needed**
+This is still the case in the modern era, with none less than Bruce Megzter opining that surely this wasn't the intended ending of Mark. **[citation needed]**  
 
 Alternatively, could it be that what appears to be vaguely fulfilled predictions 
 were actually meant to remind the audience that part of the fulfillment was yet to come,  
@@ -444,7 +445,7 @@ Considering the potential comparisons between John's and Jesus's resurrections i
 In fact the manifestation of the resurrected John the Baptist - that is Jesus's miracles - are presented before the account of John's death. 
 At the very least this pericope demonstrates that stories about resurrection did not need to be accompanied by an empty tomb. 
 It is perhaps also indicative that the concept of resurrection was amorphous - maybe even flexible - in first century Judeo-Christian communities.
-c.f. Josephus's descriptions of the range of Jewish belief's about the afterlife and the possible hints at transmigration or reincarnation. **citation needed**
+c.f. Josephus's descriptions of the range of Jewish belief's about the afterlife and the possible hints at transmigration or reincarnation. **[citation needed]**  
 
 
 ## Hopeless disciples
@@ -455,7 +456,7 @@ Of course, the audience could be expected to be familiar with the disciples cont
 but did the author know how he was going to confirm those inferences when he included the predictions? 
 Perhaps the author was anticipating using a resurrection story which included the disciples -  
 for example Jesus walking on the water, or even the transfiguration where Jesus is declared the Son of God.
-(As suggested by Dominic Crossan. **citation needed**)
+(As suggested by Dominic Crossan. **[citation needed]**)
 
 This essayist at least finds it implausible that there wasn't some contemporary (and perhaps non-authoritative) sequels to the Passion play
 which contained accounts with restored disciples and perhaps resurrection encounters. 
@@ -469,10 +470,10 @@ None of the New Testament letters (or even the letters of the early church fathe
 yet starting with Mark, all the narrative gospels do. Indeed, the story becomes more embellished, 
 presumably as critics or even christians begin to question its credibility. 
 
-Assuming, for the sake of argument,that the burial and empty tomb narrative is a postscript, 
+Assuming, for the sake of argument, that the burial and empty tomb narrative is a postscript, 
 let us (wildly) speculate how might Mark have evolved?
 We have no texts to work with - just like Q, the presumed proto-Mark is lost, or rather absorbed into the canonical gospels -
-but we do have Eusebius's quote of Papias's hearsay that the Presbyter John claimed that Mark wrote an unordered collection of Peter's anecdotes on the life of Jesus. **citation needed**
+but we do have Eusebius's quote of Papias's hearsay that the Presbyter John claimed that Mark wrote an unordered collection of Peter's anecdotes on the life of Jesus. **[citation needed]**  
 It seems reasonable that such a text would have some perceived authority, and it begins to be shared amongst a small network of christian communities.
 
 After the fall of Jerusalem - and the temple - there is a faith crisis regarding the apparent invincibility of the Roman empire 
@@ -486,7 +487,7 @@ into a final written form of "the Good News of Jesus Christ the Son of God".
 
 One Passover / Easter there is a novel addition to a performance of the Passion Week plays. 
 Reminiscent of the Graeco-Roman trope of an empty tomb signifying a person has been taken up to the gods, 
-in this scene some anonymous women are going to visit a tomb to mourn and inexplicably find it open. c.f. Robin Faith Walsh **citation needed**
+in this scene some anonymous women are going to visit a tomb to mourn and inexplicably find it open. c.f. Robin Faith Walsh **[citation needed]**  
 Perhaps the Passion week play had even been performed as a sequence of short plays in the week before Easter 
 and then the empty tomb scene is really first performed on the first day of the week. 
 The audience, mostly aware of the trope, understands the significance and it feels like a satisfying epilogue.
@@ -519,8 +520,7 @@ This is probably just coincidence and obviously very tenuous,
 but if Paul's "The Twelve" included women then it would not be astonishing 
 that some memory of it could leak into the empty tomb narrative
 when the story tellers aren't happy with an initial anonymous account.  
-FIXME: Is "The Twelve" in 1 Cor 15 gendered?
-)
+TODO: Is "The Twelve" in 1 Cor 15 gendered?)
 
 By the time the epilogue arrives back at the community where the gospel had been first finalized 
 it is close to fully formed and some people are arguing that it sounds credible and should be added to the gospel. 
@@ -559,9 +559,9 @@ This essay has identified arguments possibly in favour of Mark 15:39 being a sat
 
 - it is a climax of the gospel and the last explicit mention of Jesus as the Son of God, reflecting the gospel's title. 
 - one intention of Mark's gospel is to contrast Jesus with leaders of the world, and ending at the cross would highlight that. 
-- the preceding accounts in the gospel may not anticipate a burial. 
+- the preceding accounts in the gospel may not anticipate the burial as recorded. 
 
-However, it has also been found that if Mark 15:40-16:8 is a postscript, 
+However, it has also been found that if Mark 15:40-16:8 were indeed a postscript, 
 its addition was probably accompanied by some revision of the previous gospel text:
 
 - timestamps in Mark 15 - the third hour, the sixth hour, the ninth hour.
