@@ -520,7 +520,8 @@ This is probably just coincidence and obviously very tenuous,
 but if Paul's "The Twelve" included women then it would not be astonishing 
 that some memory of it could leak into the empty tomb narrative
 when the story tellers aren't happy with an initial anonymous account.  
-TODO: Is "The Twelve" in 1 Cor 15 gendered?)
+Strongly against this theory would be that "The Twelve" are obviously reminiscent of the Twelve Tribes of Israel
+and thus the twelve **sons** of Jacob.)
 
 By the time the epilogue arrives back at the community where the gospel had been first finalized 
 it is close to fully formed and some people are arguing that it sounds credible and should be added to the gospel. 
@@ -558,11 +559,13 @@ it must remain speculation as to whether one proposition for its evolution is mo
 This essay has identified arguments possibly in favour of Mark 15:39 being a satisfactory ending to an earlier draft of Mark:
 
 - it is a climax of the gospel and the last explicit mention of Jesus as the Son of God, reflecting the gospel's title. 
+- important characters in the remainder of the story were not introduced beforehand, 
+    and are referenced relatively clumsily.
 - one intention of Mark's gospel is to contrast Jesus with leaders of the world, and ending at the cross would highlight that. 
 - the preceding accounts in the gospel may not anticipate the burial as recorded. 
 
 However, it has also been found that if Mark 15:40-16:8 were indeed a postscript, 
-its addition was probably accompanied by some revision of the previous gospel text:
+its addition may well have been accompanied by some revision of the previous gospel text:
 
 - timestamps in Mark 15 - the third hour, the sixth hour, the ninth hour.
 - Jesus's prediction of the disciples seeing him in Galilee from Mark 14. 
