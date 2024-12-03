@@ -1,5 +1,9 @@
 # An earlier form of the Gospel according to Mark?
 
+> My proposal is that the original version of Mark's Gospel ended with the centurion's confession in 15:39.
+> 
+> <cite>-- John Dominic Crossan, The Historical Life of Jesus p. 415</cite>
+
 The gospel according to Mark is titled "The beginning of the Good News of Jesus Christ, the Son of God" (Mark 1:1).
 Whether this title was written first or added last, it is clear from the gospel's content 
 and the several matching pronouncements that the author knew what the title would be. 
