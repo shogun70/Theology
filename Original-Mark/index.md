@@ -12,11 +12,11 @@ the temple curtain is torn in two, and a Roman centurion proclaims "Surely this 
 Perhaps surprisingly, this is also the last explicit pronouncement that Jesus is either the Christ or the Son of God. 
 This essay will investigate the proposition that this was in fact the original ending of Mark. 
 
-The approach for this investigation will be to look at various pericopes while asking the question:
+The approach for this investigation will be to look at various pericopaes while asking the question:
 "did the author know about the tomb when composing this part of the account?"
 
 This exploration must remain inconclusive since there is no definitive gospel narrative material preceding Mark,
-but we can compare and contrast these final scenes with the presumed church liturgy in 1 Corinthians 15:3-5.
+but we can compare and contrast with the presumed church liturgy in 1 Corinthians 15:3-5.
 
 > For I delivered to you as of first importance what I also received:  
 that Christ died for our sins in accordance with the Scriptures,  
@@ -149,8 +149,8 @@ Yet the liturgy from 1 Corinthians 15 and several predictions in Mark say the re
 (This contradiction isn't fixed until John.)
 
 The women's reason to visit the tomb is to anoint the body but that seems implausible - you anoint the body before burial -
-an issue not resolved until John. 
-It could be argued that actually this is an indicator of continuity with the rest of Mark 
+a detail resolved in Matthew by not mentioning it, and in the John by having Joseph of Arimathea and Nicodemus perform it. 
+It could be argued that in Mark this is actually an indicator of continuity 
 as it might be foreshadowed in Jesus's anointing in Bethany:
 
 > And while he was at Bethany in the house of Simon the leper, as he was reclining at table, 
@@ -167,8 +167,8 @@ And truly, I say to you, wherever the gospel is proclaimed in the whole world, w
 
 Alternatively, since the anointing at Bethany undermines the explanation for why the women went to the tomb,
 one might ask why would it be included if the author was thinking about the empty tomb scene? 
-It also seems strange that - when Mark was written - it is this anonymous woman who was remembered. 
-Is that likely if in fact the named women who buy spices and find the empty tomb was a well known story?
+It also seems strange that - when Mark was written - it is this **anonymous** woman who was remembered. 
+Is that likely if in fact the **named** women who buy spices and find the empty tomb was a well known story?
 
 
 ### Stylistic consistency
@@ -203,6 +203,16 @@ that he missed out James in the first repetition and so deliberately leaves out 
 It is worth considering that the apparent clunkiness disappears if the women are completely removed from the scene on the day of crucifixion. 
 This might reflect an earlier draft of the postscript, with Joseph of Arimathea burying Jesus on the Day of Preparation, 
 and the women not being introduced until the first day of the week. 
+
+One last possibly discrepancy:  
+Benard Muller has pointed out that the young man's instruction to "go, tell his disciples and Peter"
+is not consistent with the rest of the text, 
+but is a decent match for the 1 Corinthians 15 liturgy 
+where Christ "appeared to Cephas, then to the Twelve." 
+Is this a hint that it formed from a different tradition? 
+The counter to this would be that it could have been intentionally phrased so as
+to differentiate Peter as the most faithful - being the last to desert Jesus - 
+and / or providing a special message of restoration from his shame of denying Jesus at the end. 
 
 
 ## Predictions of death and resurrection.
@@ -575,3 +585,26 @@ its addition may well have been accompanied by some revision of the previous gos
 - Jesus's prediction of the disciples seeing him in Galilee from Mark 14. 
 - the young man fleeing naked in Mark 14.
 
+
+## Links
+
+(Embarrassingly, I found most of these after writing.)
+
+- Bernard Muller seems to have covered a lot of the same territory (twenty years ago).  
+    [Original site - dead](http://historical-jesus.info/) | 
+    [Archived](https://web.archive.org/web/20140707162233/http://historical-jesus.info/index.html)
+- Bernard Muller empty tomb if I can't find it again:  
+    [Who wrote the 'empty tomb' passage in Mark's gospel?](https://web.archive.org/web/20140823025404/http://historical-jesus.sosblogs.com/Historical-Jesus-Blo-b1/79-Who-wrote-the-empty-tomb-passage-in-Mark-s-gospel-b1-p84.htm)
+- Bernard Muller again:
+    [Jesus last days](https://web.archive.org/web/20140713065553/http://historical-jesus.info/hjes3.html)
+- Discussion on Muller:
+    [Bernard Muller's Theological Method](https://theos.org/forum/viewtopic.php?t=1367)
+- Discussion on Muller's empty tomb:
+    [Empty Tomb in Mark's gospel not written by original author](https://earlywritings.com/forum/viewtopic.php?t=271)
+- Interesting discussion on the Epistle of Barnabas hinting resurrection was the 8th day.  
+    [The ascension in the epistle of Barnabas.](https://earlywritings.com/forum/viewtopic.php?t=1805)
+- Stephan Huller on Crossan's proposition.  
+    [John Dominic Crossan on Canonical Mark and Secret Mark](https://stephanhuller.blogspot.com/2011/07/john-dominic-crossan-on-canonical-mark.html)
+- Robert Stein on the Transfiguration  
+    [Is the transfiguration a misplaced resurrection account?](https://biblicalstudies.org.uk/pdf/jbl/1976_stein.pdf)
+- 
