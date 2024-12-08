@@ -87,6 +87,8 @@ Mark 15:40-43 introduces several new characters who are critical to the rest of 
 - many female disciples from Galilee, and 
 - Joseph of Arimathea.
 
+#### Female disciples
+
 If we read the New Testament chronologically according to when it was written, 
 this is the first occasion where it was recorded that the earthly Jesus even had female followers.
 At a minimum this is consistent with what we would expect if this scene was appended later.
@@ -102,14 +104,50 @@ but here only identified as the mother of James and Joses.
 John seems to be aware of this mistake and explicitly places Jesus's mother at the cross. 
 This vagueness about one of the women could be a hint that the story evolved separately to the rest of Mark.)
 
-Similarly, Joseph of Arimathea's role is solely to get Jesus taken down from the cross and placed in a tomb. 
+#### Joseph from Arimathea 
+
+Similarly, Joseph of Arimathea's solitary role is to get Jesus taken down from the cross and placed in a tomb. 
 Being supposedly a prominent member of the Council (the same council which condemned Jesus) 
-and according to later gospels someone who at minimum respected Jesus,
 he would have been ideally placed to confirm that the tomb in which he placed Jesus was indeed empty. 
 It seems that when this ending to Mark was written it was convenient that the empty tomb was a women's secret.  
-TODO: Explore the implications of Joseph of Arimathea's role being so stable in the canonical gospels. 
-Also Acts 13:29:
->  And when **they** had carried out all that was written of him, **they** took him down from the tree and laid him in a tomb.
+
+Unlike the women, Joseph of Arimathea's role is extraordinarily stable in all the canonical gospels. 
+The only significant variation in the synoptics is that he is called a disciple of Jesus in Matthew
+compared to "waiting for the Kingdom of God" in Mark and Luke.
+
+In John he is called a secret disciple, and of course he is accompanied by Nicodemus who brings pickles, 
+and they wrap the body with strips of linen rather than the implied shroud of the synoptics. 
+
+The less obvious but more significant variation in John is that 
+it was "the Jewish leaders \[who\] did not want the bodies left on the crosses during the Sabbath"
+- this also implies that all the crucified men were buried on the same day. 
+This actually aligns with what we would expect (c.f. Josephus **[citation needed]**) 
+and it also feels more consistent with Paul's speech in the synagogue at Pisidian Antioch 
+
+> **For those who live in Jerusalem and their rulers**,  
+> because they did not recognize him nor understand the utterances of the prophets, which are read every Sabbath, 
+> fulfilled them by condemning him.  
+> And though they found in him no guilt worthy of death, they asked Pilate to have him executed.  
+> And when they had carried out all that was written of him,  
+> **they took him down from the tree and laid him in a tomb**.
+> 
+> -- <cite>Acts 13:27-29</cite>
+
+If we order these accounts of Jesus's burial from generic to specific we see:
+
+1. he was buried (1 Corinthians 15)
+2. he was buried by the Jewish leaders who had condemned him (Acts 13, hinted at in John 19)
+3. he was buried by a Jewish leader - Joseph of Arimathea - who hadn't condemned him (Mark 15 and all the synoptics)
+4. he was buried by two Jewish leaders - Joseph of Arimathea and Nicodemus - who were followers (John 19)
+
+This usage is suggestive - to this essayist at least - 
+that Joseph of Arimathea is incorporated into the accounts only when he becomes convenient to the story. 
+This is not to say that he was a made up character - 
+like Nicodemus, there may have been a Joseph of Arimathea in the Sandhedrin, 
+and he may well have been in charge of burying criminals, even of Jesus. 
+
+
+#### Returning characters
 
 It isn't a complete change of cast - Pilate and the centurion are prominent in the preceding scene and also have parts in this epilogue.
 This might suggest original continuity in Mark 15 but it could just as easily be explained by an intelligent playwright 
@@ -191,7 +229,8 @@ And very early on the first day of the week, when the sun had risen, they went t
 If this account is read in one go, this repetition feels clumsy. 
 There is no comparable instance of excessively redundant (and inconsistent) identification of characters in the rest of Mark. 
 Matthew and Luke also seem to have felt the clunkiness - 
-at least Matthew reduces the inconsistency and Luke eliminates redundancy by naming the women only once. 
+at least Matthew reduces the inconsistency and Luke eliminates redundancy by naming the women only once.
+(It is probably oversight that John doesn't include the women witnessing the actual burial in the tomb.)
 
 If the account is treated as a play, 
 with a distinct scene change between the burial and the discovery of the empty tomb, 
@@ -206,7 +245,7 @@ and the women not being introduced until the first day of the week.
 
 One last possibly discrepancy:  
 Benard Muller has pointed out that the young man's instruction to "go, tell his disciples and Peter"
-is not consistent with the rest of the text, 
+is not consistent with the rest of Mark, 
 but is a decent match for the 1 Corinthians 15 liturgy 
 where Christ "appeared to Cephas, then to the Twelve." 
 Is this a hint that it formed from a different tradition? 
@@ -437,12 +476,23 @@ Or lack of resurrection appearances might be giving permission to anyone to have
 
 Or maybe the concept of resurrection itself was still under discussion?
 
+> Now if Christ is proclaimed as raised from the dead, how can some of you say that there is no resurrection of the dead?
+> 
+> -- <cite>1 Corinthians 15:12</cite>
+
+> But someone will ask, “How are the dead raised? With what kind of body do they come?”
+> 
+> -- <cite>1 Corinthians 15:35</cite>
+
+>  I tell you this, brothers: flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable.
+> 
+> -- <cite>1 Corinthians 15:50</cite>
+
 
 ## John's death, burial, and resurrection. 
 
 Perhaps surprisingly, Jesus is not the only prophet to be executed, buried in a tomb, and have resurrection appearances. 
 
-### Mark 16:14-29
 > King Herod heard about this, for Jesus’ name had become well known. 
 Some were saying, “John the Baptist has been raised from the dead, and that is why miraculous powers are at work in him.”
 Others said, “He is Elijah.”
@@ -453,7 +503,8 @@ For Herod himself had given orders to have John arrested, and
 he sent an executioner with orders to bring John’s head. The man went, beheaded John in the prison, and brought back his head on a platter. 
 ...
 On hearing of this, John’s disciples came and took his body and laid it in a tomb.
-
+>
+> -- <cite>Mark 16:14-29</cite>
 
 Considering the potential comparisons between John's and Jesus's resurrections it is perhaps surprising that John's story is almost an afterthought. 
 In fact the manifestation of the resurrected John the Baptist - that is Jesus's miracles - are presented before the account of John's death. 
@@ -475,7 +526,7 @@ for example Jesus walking on the water, or even the transfiguration where Jesus 
 This essayist at least finds it implausible that there wasn't some contemporary (and perhaps non-authoritative) sequels to the Passion play
 which contained accounts with restored disciples and perhaps resurrection encounters. 
 But if this theory is granted then it raises the question - 
-why did Mark go viral / become authoritative without any such sequels?
+why did Mark go viral / become authoritative **without** any such sequels?
 
 
 ## The evolution of Mark
@@ -512,7 +563,7 @@ Some new hearers assume it is meant to be true and some apologetic reworking is 
 this requires making it flow on from the crucifixion scene (when they are performed together) and also some deanonymizing.  
 A less well versed person has asked what is the significance of the empty tomb
 so a "young man dressed in white" is introduced to give a more direct explanation (initially this is probably simply the narrator).
-Joseph of Arimathea may well have been a Sanhedrin delegate for arranging burials of criminals.
+As acknowledged above, Joseph of Arimathea may well have been a Sanhedrin delegate for arranging burials of criminals. 
 The day of preparation is used as a reason to get Jesus off the cross (although it results in the resurrection being after only two days - an issue not fixed until John).
 The female disciples - they have to be female because everyone knows the disciples weren't preaching the empty tomb - 
 were possibly known from other stories about Jesus. Or perhaps they were even well known deceased Jewish women from the community.
@@ -561,7 +612,8 @@ No matter, let us consider what forms of manuscript evidence would be supportive
 - a fragment of Mark 14 without v28 or v51. 
 - an account of the Transfiguration or Jesus walking on the water which don't align with the gospels.
 - early christian writings which indicate that Mark underwent revisions. 
-    e.g. the Mar Saba letter, if found and dated, would support an early belief that Mark's gospel underwent revision,
+    e.g. the Mar Saba letter, if found and accepted as plausibly Clementine, 
+    would support an early belief that Mark's gospel underwent revision,
     even if it is unrelated to the topic of this essay.
 
 
