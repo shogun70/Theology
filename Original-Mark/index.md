@@ -642,6 +642,8 @@ its addition may well have been accompanied by some revision of the previous gos
 
 (Embarrassingly, I found most of these after writing.)
 
+- Tony Costa starts with the 1 Corinthians 15 creed.
+    [The burial of Jesus and it's relation and importance to the gospel message](https://www.biblicaltheology.com/Research/CostaT04.pdf)
 - Bernard Muller seems to have covered a lot of the same territory (twenty years ago).  
     [Original site - dead](http://historical-jesus.info/) | 
     [Archived](https://web.archive.org/web/20140707162233/http://historical-jesus.info/index.html)
@@ -659,4 +661,3 @@ its addition may well have been accompanied by some revision of the previous gos
     [John Dominic Crossan on Canonical Mark and Secret Mark](https://stephanhuller.blogspot.com/2011/07/john-dominic-crossan-on-canonical-mark.html)
 - Robert Stein on the Transfiguration  
     [Is the transfiguration a misplaced resurrection account?](https://biblicalstudies.org.uk/pdf/jbl/1976_stein.pdf)
-- 
