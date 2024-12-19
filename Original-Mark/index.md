@@ -408,6 +408,9 @@ Some might say this demonstrates a tell towards the empty tomb scene.
 Others might assert that it suggests there was going to be an ending in Galilee, much like Matthew 28. 
 Alternatively, the sentence "But after I am raised up, I will go before you to Galilee" 
 doesn't break the flow of the text whether it is included or left out - it isn't impossible that it was a later addition.
+(Bernard Muller notes that Peter's response is specific to the first part of Jesus's prediction - 
+regarding the disciples falling away - but doesn't address the resurrection prediction at all - 
+even though that also seems to include him. )
 
 There is also the inference in Jesus's words in the last Supper that Jesus will drink wine in the kingdom of God, 
 although arguably this is just creative rewriting of 1 Corinthians 10:23-26. 
