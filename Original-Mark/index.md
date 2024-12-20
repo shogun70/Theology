@@ -780,7 +780,8 @@ Mary Magdalene and Mary the mother of Joses saw where he was laid.
 And very early on the first day of the week, when the sun had risen, they went to the tomb.
 And they were saying to one another, “Who will roll away the stone for us from the entrance of the tomb?”  
 And looking up, they saw that the stone had been rolled back.  
-And entering the tomb, they saw the young man sitting on the right side, and they were alarmed. And he said to them,  
+And entering the tomb, they saw a young man sitting on the right side, dressed in a white robe, and they were alarmed. 
+And he said to them,  
 “Do not be alarmed. You seek Jesus of Nazareth, who was crucified. 
 He has risen; he is not here. See the place where they laid him.”  
 And they went out and fled from the tomb, for trembling and astonishment had seized them.
@@ -793,7 +794,7 @@ And they seized him, but he left the linen cloth and ran away naked.
 ### Stage 5 - Final
 
 This will be the same as our current form of Mark 15:40-16:8. 
-This is the same as the previous stage, with the exception of Mark 16:6-8. 
+This is the same as the previous stage, except for Mark 16:6-8. 
 
 > And he said to them,  
 “Do not be alarmed. You seek Jesus of Nazareth, who was crucified. He has risen; he is not here. See the place where they laid him.
@@ -805,3 +806,4 @@ The matching prediction is added to Mark 14:27-28
 > And Jesus said to them, “You will all fall away, for it is written, 
 ‘I will strike the shepherd, and the sheep will be scattered.’ 
 **But after I am raised up, I will go before you to Galilee.**”
+
