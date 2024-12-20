@@ -150,7 +150,7 @@ and he may well have been in charge of burying criminals, even of Jesus.
 #### Returning characters
 
 It isn't a complete change of cast - Pilate and the centurion are prominent in the preceding scene and also have parts in this epilogue.
-This might suggest original continuity in Mark 15 but it could just as easily be explained by an intelligent playwright 
+This might suggest original continuity in Mark 15, but it could just as easily be explained by an intelligent playwright 
 seeking to make the scenes flow. 
 
 There is however, one essential character who may have already been introduced - the young man at the tomb in Mark 16:5. 
@@ -163,7 +163,9 @@ Four explanations are proposed:
     This might be reasonable as clearly later gospels interpret the latter "young man" as an angel.
 4. The aside in Mark 14 was inserted after the empty tomb story was, perhaps as a border annotation. 
     This might be reasonable as the account of Jesus's arrest flows better without it, 
-    not to mention that all the later gospels exclude it.
+    not to mention that all the later gospels exclude it.  
+    It also seems unlikely that the arresting committee don't seek to arrest Jesus's disciples 
+    but do chase after this poor juvenile. 
 
 
 ### Timeline considerations.
@@ -243,7 +245,36 @@ It is worth considering that the apparent clunkiness disappears if the women are
 This might reflect an earlier draft of the postscript, with Joseph of Arimathea burying Jesus on the Day of Preparation, 
 and the women not being introduced until the first day of the week. 
 
-One last possibly discrepancy:  
+### Other questions
+
+In Mark 16 it is implied that both the women and the young man had heard Jesus say that he would go before them to Galilee.
+Yet in the Last Supper scene - where Jesus says this - we don't hear about either party. 
+Harmonising this requires that either:
+
+- the audience understands that Jesus made this pronouncement at other unmentioned times, or 
+- there were other anonymous disciples at the Last Supper.  
+
+This second option is actually plausible, see Mark 14:12-20. 
+
+> ... his disciples said to him,  
+> “Where will you have us go and prepare for you to eat the Passover?”  
+> And he sent two of his disciples   
+> ...  
+> And the disciples set out and went to the city ... and they prepared the Passover.  
+> And when it was evening, he came with the twelve.  
+> And as they were reclining at table and eating, Jesus said,  
+> “Truly, I say to you, one of you will betray me, one who is eating with me.”   
+> ...  
+> He said to them, “It is one of the twelve, one who is dipping bread into the dish with me.”
+
+Assuming this second option does raise other questions though, e.g. 
+if the women had heard Jesus's prediction and had just heard that it was fulfilled - 
+and perhaps knew the young man (if he was at the Last Supper) - 
+why do they run away and tell no-one? 
+Their behavior wouldn't be a surprise though if, say, in the early evolution of the scene 
+the women simply came to a tomb and found it open and empty.  
+
+One last possible discrepancy:  
 Benard Muller has pointed out that the young man's instruction to "go, tell his disciples and Peter"
 is not consistent with the rest of Mark, 
 but is a decent match for the 1 Corinthians 15 liturgy 
@@ -558,18 +589,32 @@ Reminiscent of the Graeco-Roman trope of an empty tomb signifying a person has b
 in this scene some anonymous women are going to visit a tomb to mourn and inexplicably find it open. c.f. Robin Faith Walsh **[citation needed]**  
 Perhaps the Passion week play had even been performed as a sequence of short plays in the week before Easter 
 and then the empty tomb scene is really first performed on the first day of the week. 
-The audience, mostly aware of the trope, understands the significance and it feels like a satisfying epilogue.
+The audience - mostly aware of the trope - understands the significance, and it feels like a satisfying epilogue.
 Conveniently, it also doesn't preclude continuing the non-authoritative plays regarding resurrection encounters of the male disciples. 
 
 As this well received epilogue spreads in the small network it gets modified to make the links with the gospel stronger. 
-Some new hearers assume it is meant to be true and some apologetic reworking is applied - 
+Some new hearers assume it is intended to be historical and some apologetic reworking is applied - 
 this requires making it flow on from the crucifixion scene (when they are performed together) and also some deanonymizing.  
-A less well versed person has asked what is the significance of the empty tomb
-so a "young man dressed in white" is introduced to give a more direct explanation (initially this is probably simply the narrator).
-As acknowledged above, Joseph of Arimathea may well have been a Sanhedrin delegate for arranging burials of criminals. 
-The day of preparation is used as a reason to get Jesus off the cross (although it results in the resurrection being after only two days - an issue not fixed until John).
-The female disciples - they have to be female because everyone knows the disciples weren't preaching the empty tomb - 
-were possibly known from other stories about Jesus. Or perhaps they were even well known deceased Jewish women from the community.
+
+Possibly the first adjustment was that the burial was undertaken by the anonymous Jewish leaders. 
+As in John, they seek to get all the crucified men down and buried. 
+
+Then there is the question of how the women found the right tomb? 
+Initially a young man is added to follow the Jewish leaders and see where they bury the crucified men. 
+Then this same juvenile is in the garden on the first day of the week 
+to show the women where the tomb is, where Jesus's body was laid, and to announce that "He is not here, he is risen."
+Maybe his original speech included - as in Luke - "Why do you seek the living among the dead?"
+
+Someone is dissatisfied that if three men were buried there could be questions about which body was actually missing. 
+Thus, there is a desire for the burial to be just Jesus. 
+Joseph of Arimathea is chosen as a good man who feels Jesus deserves an honourable burial. 
+Because Joseph doesn't sound like the kind of man who would chase away a poor juvenile, 
+the young man is moved to the post-arrest scene, 
+and it is the women who follow Joseph from the cross to the tomb. 
+
+Finally, there is a need to connect this empty tomb scene in Jerusalem with the resurrection encounters in Galilee. 
+Jesus's prediction of rising and going to Galilee is appended to his Last Supper forecast of his betrayal, 
+and the young man gets to remind the women of the quote. 
 
 (ASIDE: In 1 Corinthians 15 there is a reference to "The Twelve" to whom Jesus appeared but no detail of who is included or even when they became known as such.
 The gospels all claim that Jesus chose The Twelve and provide names, although these are not consistent and they even include Judas who obviously isn't in Paul's "The Twelve". 
@@ -595,6 +640,7 @@ By the time the epilogue arrives back at the community where the gospel had been
 it is close to fully formed and some people are arguing that it sounds credible and should be added to the gospel. 
 
 This then becomes the final version of Mark which goes viral thus forming the basis for what a gospel must include.
+
 
 ### Anticipated manuscript evidence
 
@@ -664,3 +710,4 @@ its addition may well have been accompanied by some revision of the previous gos
     [John Dominic Crossan on Canonical Mark and Secret Mark](https://stephanhuller.blogspot.com/2011/07/john-dominic-crossan-on-canonical-mark.html)
 - Robert Stein on the Transfiguration  
     [Is the transfiguration a misplaced resurrection account?](https://biblicalstudies.org.uk/pdf/jbl/1976_stein.pdf)
+
