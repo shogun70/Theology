@@ -245,7 +245,27 @@ It is worth considering that the apparent clunkiness disappears if the women are
 This might reflect an earlier draft of the postscript, with Joseph of Arimathea burying Jesus on the Day of Preparation, 
 and the women not being introduced until the first day of the week. 
 
+A similar, though less obvious, inconsistency is found in the young man's advice to 
+
+> "... see the place where **they** laid him." 
+
+This plural "they" contradicts with the presentation of a single person responsible for the burial in Mark 15.  
+
+> **Joseph** bought a linen shroud, and taking him down, wrapped him in the linen shroud 
+and laid him in a tomb that had been cut out of the rock. 
+And **he** rolled a stone against the entrance of the tomb.
+
+It is consistent, however, with Paul's speech in Acts 13. 
+This could be suggestive that the empty tomb scene predated the burial scene. 
+
+
 ### Other questions
+
+Joseph of Arimathea wraps Jesus in a linen shroud. 
+The young man fleeing the arrest scene is wearing a linen cloth, and it is taken from him. 
+These are the only times linen (or any fabric) is mentioned in Mark. 
+It is hard not to believe that there is some connection between these two, 
+especially if one takes into account that there is also an anonymous young man in the empty tomb scene. 
 
 In Mark 16 it is implied that both the women and the young man had heard Jesus say that he would go before them to Galilee.
 Yet in the Last Supper scene - where Jesus says this - we don't hear about either party. 
@@ -719,8 +739,9 @@ These follow the evolution of Mark (speculatively) proposed above.
 
 ### Stage 1 
 
-> Very early on the first day of the week some women who had followed Jesus from Galilee went to the tomb where Jesus was buried. 
-And they were saying to one another, “Who will roll away the stone for us from the entrance of the tomb?”  
+> Very early on the first day of the week 
+some women who had followed Jesus from Galilee 
+went to the tomb where Jesus was buried. 
 And looking up, they saw that the stone had been rolled back.  
 And entering the tomb, they saw the place where he had been laid.  
 And they went out and fled from the tomb, for trembling and astonishment had seized them. 
@@ -731,13 +752,14 @@ And they went out and fled from the tomb, for trembling and astonishment had sei
 the scribes and elders asked Pilate for the bodies of Jesus and the others who had been crucified with him.  
 And taking them down, they laid them in a tomb that had been cut out of the rock.   
 And they rolled a stone against the entrance of the tomb.  
-> 
-> Very early on the first day of the week Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome 
-went to the tomb where Jesus was buried. 
+>
+> When the Sabbath was past, Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome
+bought spices, so that they might go and anoint him.  
+And very early on the first day of the week, when the sun had risen, they went to the tomb.  
 And they were saying to one another, “Who will roll away the stone for us from the entrance of the tomb?”  
 And looking up, they saw that the stone had been rolled back.  
 And entering the tomb, they saw the place where he had been laid.  
-And they went out and fled from the tomb, for trembling and astonishment had seized them. 
+And they went out and fled from the tomb, for trembling and astonishment had seized them.  
 
 ### Stage 3
 
@@ -746,16 +768,19 @@ the scribes and elders asked Pilate for the bodies of Jesus and the others who h
 And taking them down, they laid them in a tomb that had been cut out of the rock.  
 And a young man followed them, with nothing but a linen cloth about his body. 
 And they seized him, but he left the linen cloth and ran away naked.  
-And they rolled a stone against the entrance of the tomb.  
+And they wrapped Jesus's body in the linen cloth, 
+and they rolled a stone against the entrance of the tomb.  
 > 
-> When the Sabbath was past, Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome 
+> When the Sabbath was past, 
+Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome, who had followed Jesus from Galilee, 
 bought spices, so that they might go and anoint him.  
 And very early on the first day of the week, when the sun had risen, they went to the tomb.
 And they were saying to one another, “Who will roll away the stone for us from the entrance of the tomb?”  
 And looking up, they saw that the stone had been rolled back.  
-And entering the tomb, they saw the young man sitting on the right side, and they were alarmed. And he said to them,  
+And entering the tomb, they saw the young man sitting on the right side, and they were alarmed. 
+And he said to them,  
 “Why do you seek the living among the dead?  
-He has risen; he is not here. See the place where they laid him.”  
+He has risen; he is not here. See the linen cloth they wrapped him in.”  
 And they went out and fled from the tomb, for trembling and astonishment had seized them. 
 
 ### Stage 4
@@ -776,7 +801,9 @@ and laid him in a tomb that had been cut out of the rock.
 And he rolled a stone against the entrance of the tomb.  
 Mary Magdalene and Mary the mother of Joses saw where he was laid.  
 > 
-> When the Sabbath was past, Mary Magdalene, Mary the mother of James, and Salome bought spices, so that they might go and anoint him.
+> When the Sabbath was past, 
+Mary Magdalene, Mary the mother of James, and Salome, who had followed Jesus from Galilee, 
+bought spices, so that they might go and anoint him.
 And very early on the first day of the week, when the sun had risen, they went to the tomb.
 And they were saying to one another, “Who will roll away the stone for us from the entrance of the tomb?”  
 And looking up, they saw that the stone had been rolled back.  
