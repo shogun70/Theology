@@ -245,7 +245,7 @@ It is worth considering that the apparent clunkiness disappears if the women are
 This might reflect an earlier draft of the postscript, with Joseph of Arimathea burying Jesus on the Day of Preparation, 
 and the women not being introduced until the first day of the week. 
 
-A similar, though less obvious, inconsistency is found in the young man's advice to 
+A similar, though less obvious, inconsistency is found in the young man's admonition to 
 
 > "... see the place where **they** laid him." 
 
@@ -256,7 +256,7 @@ and laid him in a tomb that had been cut out of the rock.
 And **he** rolled a stone against the entrance of the tomb.
 
 It is consistent, however, with Paul's speech in Acts 13. 
-This could be suggestive that the empty tomb scene predated the burial scene. 
+This is suggestive that the empty tomb scene predated the burial scene, at least as it exists in canonical Mark.  
 
 
 ### Other questions
