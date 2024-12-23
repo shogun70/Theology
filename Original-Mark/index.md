@@ -2,7 +2,7 @@
 
 > My proposal is that the original version of Mark's Gospel ended with the centurion's confession in 15:39.
 > 
-> <cite>-- John Dominic Crossan, The Historical Life of Jesus p. 415</cite>
+> -- <cite>John Dominic Crossan, The Historical Jesus p. 415</cite>
 
 The gospel according to Mark is titled "The beginning of the Good News of Jesus Christ, the Son of God" (Mark 1:1).
 Whether this title was written first or added last, it is clear from the gospel's content 
@@ -100,10 +100,13 @@ or at least while Jesus is dying (fixed in John 19:25).
 Thus, it seems clear that in Mark these women are introduced, not because they are followers 
 but precisely so some minor (or even hitherto unknown) characters can find the empty tomb.  
 
-<small>ASIDE: Strangely it seems clear that one of these women is Mary, the mother of Jesus, 
+<details>
+<summary>Mary, the mother of ...</summary>
+Strangely it seems clear that one of these women is Mary, the mother of Jesus, 
 but here only identified as the mother of James and Joses.
 John seems to be aware of this mistake and explicitly places Jesus's mother at the cross. 
-This vagueness about one of the women could be a hint that the story evolved separately to the rest of Mark.</small>
+This vagueness about one of the women could be a hint that the story evolved separately to the rest of Mark.
+</details>
 
 #### Joseph from Arimathea 
 
@@ -655,7 +658,9 @@ As this well received epilogue spreads in the small network it gets modified to 
 Some new hearers assume it is intended to be historical and some apologetic reworking is applied - 
 this requires making it flow on from the crucifixion scene (when they are performed together) and also some deanonymizing.  
 
-<small>ASIDE: In 1 Corinthians 15 there is a reference to "The Twelve" to whom Jesus appeared but no detail of who is included or even when they became known as such.
+<details>
+<summary>On the women's names</summary>
+In 1 Corinthians 15 there is a reference to "The Twelve" to whom Jesus appeared but no detail of who is included or even when they became known as such.
 The gospels all claim that Jesus chose The Twelve and provide names, although these are not consistent and they even include Judas who obviously isn't in Paul's "The Twelve".
 Amongst bible scholars there is some openness to the suggestion that several of those listed were in fact Jesus's brothers.
 Surprisingly, Papias provides a shorter list of seven - Andrew, Peter, Philip, Thomas, James, John, Matthew.
@@ -673,7 +678,8 @@ but if Paul's "The Twelve" included women then it would not be astonishing
 that some memory of it could leak into the empty tomb narrative
 when the story tellers aren't happy with an initial anonymous account.  
 Strongly against this theory would be that "The Twelve" are obviously reminiscent of the Twelve Tribes of Israel
-and thus the twelve **sons** of Jacob.</small>
+and thus the twelve **sons** of Jacob.
+</details>
 
 Possibly the first adjustment was that the burial was undertaken by the anonymous Jewish leaders. 
 As in John, they seek to get all the crucified men down and buried. 
@@ -738,6 +744,7 @@ This essay has identified arguments possibly in favour of Mark 15:39 being a sat
     and are referenced relatively clumsily.
 - one intention of Mark's gospel is to contrast Jesus with leaders of the world, and ending at the cross would highlight that. 
 - the preceding accounts in the gospel may not anticipate the burial as recorded. 
+- The accounts in later gospels show signs of ongoing controversy regarding the details of Mark's burial and resurrection. 
 
 However, it has also been found that if Mark 15:40-16:8 were indeed a postscript, 
 its addition may well have been accompanied by some revision of the previous gospel text:
