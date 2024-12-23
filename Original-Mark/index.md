@@ -731,24 +731,6 @@ No matter, let us consider what forms of manuscript evidence would be supportive
     would support an early belief that Mark's gospel underwent revision,
     even if it is unrelated to the topic of this essay.
 
-#### Codex Washintonianus
-
-Intriguingly, Codex Washintonianus is missing a page which would contain Mark 15:13-38. 
-This implies that in this codex there was a page-break at Mark 15:38. 
-What should we make of this? 
-
-Firstly, by itself it, we cannot rule out coincidence 
-(especially if the estimated length of the missing text would naturally fill the page). 
-
-Secondly, this highlights how cautious we need to be with drawing conclusions from the sparse set of ancient manuscripts. 
-Imagine if we **did not** have this codex but the missing page did turn up? 
-We might call this strong evidence for the proposal when in fact the canonical ending was actually present. 
-
-If, however, there are other manuscripts which contain the same page break, 
-this would be a strong hint that the page break reflects something in the evolution of the text. 
-Even then, it could still be speculated that the page break indicated an intentional scene change, 
-rather than a postscript. 
-
 
 ## Conclusion
 
