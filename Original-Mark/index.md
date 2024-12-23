@@ -731,6 +731,24 @@ No matter, let us consider what forms of manuscript evidence would be supportive
     would support an early belief that Mark's gospel underwent revision,
     even if it is unrelated to the topic of this essay.
 
+#### Codex Washintonianus
+
+Intriguingly, Codex Washintonianus is missing a page which would contain Mark 15:13-38. 
+This implies that in this codex there was a page-break at Mark 15:38. 
+What should we make of this? 
+
+Firstly, by itself it, we cannot rule out coincidence 
+(especially if the estimated length of the missing text would naturally fill the page). 
+
+Secondly, this highlights how cautious we need to be with drawing conclusions from the sparse set of ancient manuscripts. 
+Imagine if we **did not** have this codex but the missing page did turn up? 
+We might call this strong evidence for the proposal when in fact the canonical ending was actually present. 
+
+If, however, there are other manuscripts which contain the same page break, 
+this would be a strong hint that the page break reflects something in the evolution of the text. 
+Even then, it could still be speculated that the page break indicated an intentional scene change, 
+rather than a postscript. 
+
 
 ## Conclusion
 
@@ -767,14 +785,16 @@ its addition may well have been accompanied by some revision of the previous gos
 - Bernard Muller seems to have covered a lot of the same territory (twenty years ago).  
     [Original site - dead](http://historical-jesus.info/) | 
     [Archived](https://web.archive.org/web/20140707162233/http://historical-jesus.info/index.html)
+- Discussion on Muller's empty tomb:
+    [Empty Tomb in Mark's gospel not written by original author](https://earlywritings.com/forum/viewtopic.php?t=271)
+- Another discussion:
+    [Be Afraid. Be Very Afraid For. Confirmation 16:8 Original](https://earlywritings.com/forum/viewtopic.php?t=294)
 - Bernard Muller empty tomb if I can't find it again:  
     [Who wrote the 'empty tomb' passage in Mark's gospel?](https://web.archive.org/web/20140823025404/http://historical-jesus.sosblogs.com/Historical-Jesus-Blo-b1/79-Who-wrote-the-empty-tomb-passage-in-Mark-s-gospel-b1-p84.htm)
 - Bernard Muller again:
     [Jesus last days](https://web.archive.org/web/20140713065553/http://historical-jesus.info/hjes3.html)
 - Discussion on Muller:
     [Bernard Muller's Theological Method](https://theos.org/forum/viewtopic.php?t=1367)
-- Discussion on Muller's empty tomb:
-    [Empty Tomb in Mark's gospel not written by original author](https://earlywritings.com/forum/viewtopic.php?t=271)
 - Discussion on "after three days" vs "on the third day".
     [Three days and three nights (for Bernard)](https://earlywritings.com/forum/viewtopic.php?p=54918#p54918)
 - Interesting discussion on the Epistle of Barnabas hinting resurrection was the 8th day.  
