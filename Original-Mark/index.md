@@ -98,18 +98,22 @@ one would strongly expect that there would be some detail regarding these female
 and that these women might be mentioned during the crucifixion procession (somewhat addressed in Luke 23:27)
 or at least while Jesus is dying (fixed in John 19:25).
 Thus, it seems clear that in Mark these women are introduced, not because they are followers 
-but precisely so some minor (or even hitherto unknown) characters can find the empty tomb.
-(ASIDE: Strangely it seems clear that one of these women is Mary, the mother of Jesus, 
+but precisely so some minor (or even hitherto unknown) characters can find the empty tomb.  
+
+<small>ASIDE: Strangely it seems clear that one of these women is Mary, the mother of Jesus, 
 but here only identified as the mother of James and Joses.
 John seems to be aware of this mistake and explicitly places Jesus's mother at the cross. 
-This vagueness about one of the women could be a hint that the story evolved separately to the rest of Mark.)
+This vagueness about one of the women could be a hint that the story evolved separately to the rest of Mark.</small>
 
 #### Joseph from Arimathea 
 
 Similarly, Joseph of Arimathea's solitary role is to get Jesus taken down from the cross and placed in a tomb. 
 Being supposedly a prominent member of the Council (the same council which condemned Jesus) 
 he would have been ideally placed to confirm that the tomb in which he placed Jesus was indeed empty. 
-It seems that when this ending to Mark was written it was convenient that the empty tomb was a women's secret.  
+It seems that when this ending to Mark was written it was convenient that the empty tomb was a women's secret. 
+While it could be argued that this is consistent with the theme of the Messianic Secret, 
+it does match what we would expect if the ending was designed for plausible consistency 
+with the contemporary model of post-crucifixion events. 
 
 Unlike the women, Joseph of Arimathea's role is extraordinarily stable in all the canonical gospels. 
 The only significant variation in the synoptics is that he is called a disciple of Jesus in Matthew
@@ -142,9 +146,14 @@ If we order these accounts of Jesus's burial from generic to specific we see:
 
 This usage is suggestive - to this essayist at least - 
 that Joseph of Arimathea is incorporated into the accounts only when he becomes convenient to the story. 
-This is not to say that he was a made up character - 
-like Nicodemus, there may have been a Joseph of Arimathea in the Sandhedrin, 
-and he may well have been in charge of burying criminals, even of Jesus. 
+This is not to say that he was a made up character - quite the opposite: 
+the stability of his role surely suggests there was no controversy about the claim that he could have buried Jesus. 
+John's handling of the burial implies that if there was controversy it was whether:  
+- the other crucified men would be left on their crosses while Jesus is taken down, and 
+- Matthew's addition that Joseph was a disciple of Jesus. 
+
+If John's additions are in response to controversy this actually strengthens the case for Joseph of Arimathea being 
+- like Nicodemus - a real member of the Sanhedrin who probably was involved in burying executed people. 
 
 
 #### Returning characters
@@ -263,7 +272,8 @@ This is suggestive that the empty tomb scene predated the burial scene, at least
 
 Joseph of Arimathea wraps Jesus in a linen shroud. 
 The young man fleeing the arrest scene is wearing a linen cloth, and it is taken from him. 
-These are the only times linen (or any fabric) is mentioned in Mark. 
+These are the only times linen is mentioned in Mark 
+(or any fabric apart from John's camel hair coat and leather belt). 
 It is hard not to believe that there is some connection between these two, 
 especially if one takes into account that there is also an anonymous young man in the empty tomb scene. 
 
@@ -506,11 +516,14 @@ Are they all consistent with the canonical ending, and if not, why not?
 The predictions of resurrection (or even execution) are never accompanied by burial which might be surprising in the light of 1 Corinthians 15.
 Could that be a hint that Mark was initially composed when the burial wasn't an essential part of contemporary retellings?
 
-The resurrection (or at least the discovery of the empty tomb) does seem to be after two days rather than the three predicted in the liturgy.
-Given that this is explicitly fixed in John it does feel like an unintentional mismatch in Mark and the synoptics.
+The resurrection (or at least the discovery of the empty tomb) does seem to be after two days rather than the three predicted in the liturgy. 
 This could suggest that the empty tomb account wasn't coupled with the liturgy when Mark was composed.
+It is sometimes argued that this is not inconsistent because it is "on the third day" if you count the day of death as day one. 
+But given that this is explicitly fixed in John it does feel like an unintentional mismatch in Mark and the synoptics. 
+The counter to this is that John wasn't fixing the timing, rather he wanted to present Jesus as the Passover lamb. (But why not both?)
+**[citations needed]**
 
-But the canonical ending of Mark has some general consistency with these predictions - 
+Still, the canonical ending of Mark has some general consistency with these predictions - 
 it shows Jesus being killed, provides a symbol of resurrection, 
 and repeats that the disciples will encounter Jesus in Galilee.  
 
@@ -562,9 +575,35 @@ On hearing of this, John’s disciples came and took his body and laid it in a t
 
 Considering the potential comparisons between John's and Jesus's resurrections it is perhaps surprising that John's story is almost an afterthought. 
 In fact the manifestation of the resurrected John the Baptist - that is Jesus's miracles - are presented before the account of John's death. 
-At the very least this pericope demonstrates that stories about resurrection did not need to be accompanied by an empty tomb. 
+At the very least this pericopae demonstrates that stories about resurrection did not need to be accompanied by an empty tomb. 
 It is perhaps also indicative that the concept of resurrection was amorphous - maybe even flexible - in first century Judeo-Christian communities.
 c.f. Josephus's descriptions of the range of Jewish belief's about the afterlife and the possible hints at transmigration or reincarnation. **[citation needed]**  
+
+Certainly it isn't until Luke that we get a flesh-and-blood resurrected Jesus, 
+and Luke still has the ambiguous account of the stranger on the road to Emmaus 
+and, of course, the terse "appeared to Simon". 
+
+By the time John's gospel is written it seems that christians are being pressured to get on board with this flesh-and-blood resurrection. 
+
+> Now Thomas ... was not with them when Jesus came. So the other disciples told him,  
+> “We have seen the Lord.”  
+> But he said to them,  
+> “Unless I see in his hands the mark of the nails, and place my finger into the mark of the nails, and place my hand into his side, I will never believe.”  
+> 
+> Eight days later ... Thomas was with them. ... Jesus came and stood among them and said,  
+> “Peace be with you.”  
+> Then he said to Thomas,  
+> “Put your finger here, and see my hands; and put out your hand, and place it in my side. Do not disbelieve, but believe.” 
+> Thomas answered him,  
+> “My Lord and my God!”  
+> Jesus said to him,  
+> “Have you believed because you have seen me? Blessed are those who have not seen and yet have believed.”
+>
+> -- <cite>John 20:24-29</cite>
+
+Interpolating between the nature of resurrection in 1 Corinthians 15 and Matthew, Luke, and John, 
+does this suggest the nature of resurrection was up for debate in Mark's time? 
+If so, it wouldn't be surprising if this was a factor in why Mark doesn't include any resurrection encounters. 
 
 
 ## Hopeless disciples
@@ -616,6 +655,26 @@ As this well received epilogue spreads in the small network it gets modified to 
 Some new hearers assume it is intended to be historical and some apologetic reworking is applied - 
 this requires making it flow on from the crucifixion scene (when they are performed together) and also some deanonymizing.  
 
+<small>ASIDE: In 1 Corinthians 15 there is a reference to "The Twelve" to whom Jesus appeared but no detail of who is included or even when they became known as such.
+The gospels all claim that Jesus chose The Twelve and provide names, although these are not consistent and they even include Judas who obviously isn't in Paul's "The Twelve".
+Amongst bible scholars there is some openness to the suggestion that several of those listed were in fact Jesus's brothers.
+Surprisingly, Papias provides a shorter list of seven - Andrew, Peter, Philip, Thomas, James, John, Matthew.
+The gospels also have inconsistency (and vagueness) amongst the lists of women who went to the tomb.
+They all include Mary Magdalene, and the synoptics all include another Mary. They all have hints at other women.
+Now if we look at Luke 23:55 he says it was "the women who had come with Jesus from Galilee"
+and in Luke 24:10 he reports that "it was Mary Magdalene, Joanna, Mary the mother of James, and the others with them".
+If we look back at Luke 8:1-3 he notes that the female followers included Mary Magadelene, Joanna, Susanna, and others.
+We could infer that Luke potentially has four named women at the empty tomb.
+The only other female follower mentioned in the context of Jesus's tomb is Salome in Mark.
+In total we seem to have the potential for five named women at the tomb.
+Add that to Papias's seven male disciples and we have **twelve**.
+This is probably just coincidence and obviously very tenuous,
+but if Paul's "The Twelve" included women then it would not be astonishing
+that some memory of it could leak into the empty tomb narrative
+when the story tellers aren't happy with an initial anonymous account.  
+Strongly against this theory would be that "The Twelve" are obviously reminiscent of the Twelve Tribes of Israel
+and thus the twelve **sons** of Jacob.</small>
+
 Possibly the first adjustment was that the burial was undertaken by the anonymous Jewish leaders. 
 As in John, they seek to get all the crucified men down and buried. 
 
@@ -635,26 +694,6 @@ and it is the women who follow Joseph from the cross to the tomb.
 Finally, there is a need to connect this empty tomb scene in Jerusalem with the resurrection encounters in Galilee. 
 Jesus's prediction of rising and going to Galilee is appended to his Last Supper forecast of his betrayal, 
 and the young man gets to remind the women of the quote. 
-
-(ASIDE: In 1 Corinthians 15 there is a reference to "The Twelve" to whom Jesus appeared but no detail of who is included or even when they became known as such.
-The gospels all claim that Jesus chose The Twelve and provide names, although these are not consistent and they even include Judas who obviously isn't in Paul's "The Twelve". 
-Amongst bible scholars there is some openness to the suggestion that several of those listed were in fact Jesus's brothers. 
-Surprisingly, Papias provides a shorter list of seven - Andrew, Peter, Philip, Thomas, James, John, Matthew. 
-The gospels also have inconsistency (and vagueness) amongst the lists of women who went to the tomb. 
-They all include Mary Magdalene, and the synoptics all include another Mary. They all have hints at other women.
-Now if we look at Luke 23:55 he says it was "the women who had come with Jesus from Galilee" 
-and in Luke 24:10 he reports that "it was Mary Magdalene, Joanna, Mary the mother of James, and the others with them". 
-If we look back at Luke 8:1-3 he notes that the female followers included Mary Magadelene, Joanna, Susanna, and others. 
-We could infer that Luke potentially has four named women at the empty tomb. 
-The only other female follower mentioned in the context of Jesus's tomb is Salome in Mark.
-In total we seem to have the potential for five named women at the tomb.
-Add that to Papias's seven male disciples and we have **twelve**. 
-This is probably just coincidence and obviously very tenuous, 
-but if Paul's "The Twelve" included women then it would not be astonishing 
-that some memory of it could leak into the empty tomb narrative
-when the story tellers aren't happy with an initial anonymous account.  
-Strongly against this theory would be that "The Twelve" are obviously reminiscent of the Twelve Tribes of Israel
-and thus the twelve **sons** of Jacob.)
 
 By the time the epilogue arrives back at the community where the gospel had been first finalized 
 it is close to fully formed and some people are arguing that it sounds credible and should be added to the gospel. 
@@ -712,6 +751,10 @@ its addition may well have been accompanied by some revision of the previous gos
 
 (Embarrassingly, I found most of these after writing.)
 
+- Stephan Huller on Crossan's proposition.  
+    [John Dominic Crossan on Canonical Mark and Secret Mark](https://stephanhuller.blogspot.com/2011/07/john-dominic-crossan-on-canonical-mark.html)
+- Paul Snow addresses Crossan's proposal and concludes that 15:40-16:8 is the dramatic topsy-turvy we should expect. 
+    [https://uncertaintist.wordpress.com/2017/05/13/the-longer-ending-of-gmark-ii-marks-many-boffo-curtains/](https://uncertaintist.wordpress.com/2017/05/13/the-longer-ending-of-gmark-ii-marks-many-boffo-curtains/)
 - Tony Costa starts with the 1 Corinthians 15 creed.
     [The burial of Jesus and it's relation and importance to the gospel message](https://www.biblicaltheology.com/Research/CostaT04.pdf)
 - Bernard Muller seems to have covered a lot of the same territory (twenty years ago).  
@@ -725,10 +768,10 @@ its addition may well have been accompanied by some revision of the previous gos
     [Bernard Muller's Theological Method](https://theos.org/forum/viewtopic.php?t=1367)
 - Discussion on Muller's empty tomb:
     [Empty Tomb in Mark's gospel not written by original author](https://earlywritings.com/forum/viewtopic.php?t=271)
+- Discussion on "after three days" vs "on the third day".
+    [Three days and three nights (for Bernard)](https://earlywritings.com/forum/viewtopic.php?p=54918#p54918)
 - Interesting discussion on the Epistle of Barnabas hinting resurrection was the 8th day.  
     [The ascension in the epistle of Barnabas.](https://earlywritings.com/forum/viewtopic.php?t=1805)
-- Stephan Huller on Crossan's proposition.  
-    [John Dominic Crossan on Canonical Mark and Secret Mark](https://stephanhuller.blogspot.com/2011/07/john-dominic-crossan-on-canonical-mark.html)
 - Robert Stein on the Transfiguration  
     [Is the transfiguration a misplaced resurrection account?](https://biblicalstudies.org.uk/pdf/jbl/1976_stein.pdf)
 
