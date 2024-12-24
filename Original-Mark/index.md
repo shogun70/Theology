@@ -279,6 +279,11 @@ These are the only times linen is mentioned in Mark
 (or any fabric apart from John's camel hair coat and leather belt). 
 It is hard not to believe that there is some connection between these two, 
 especially if one takes into account that there is also an anonymous young man in the empty tomb scene. 
+Moreover, the linen shroud feels like Chekhov's rifle - 
+surely there is an implicit stage direction that when the young man is telling the women to "see where they laid him" 
+he is also gesturing towards an empty linen shroud. 
+It is easy to imagine that this was the origin of the explicit finding of the burial cloths 
+by Peter (Luke 24:12) and John (John 20:4). 
 
 In Mark 16 it is implied that both the women and the young man had heard Jesus say that he would go before them to Galilee.
 Yet in the Last Supper scene - where Jesus says this - we don't hear about either party. 
@@ -681,34 +686,158 @@ Strongly against this theory would be that "The Twelve" are obviously reminiscen
 and thus the twelve **sons** of Jacob.
 </details>
 
-Possibly the first adjustment was that the burial was undertaken by the anonymous Jewish leaders. 
-As in John, they seek to get all the crucified men down and buried. 
-
-Then there is the question of how the women found the right tomb? 
-Initially a young man is added to follow the Jewish leaders and see where they bury the crucified men. 
-Then this same juvenile is in the garden on the first day of the week 
-to show the women where the tomb is, where Jesus's body was laid, and to announce that "He is not here, he is risen."
-Maybe his original speech included - as in Luke - "Why do you seek the living among the dead?"
-
-Someone is dissatisfied that if three men were buried there could be questions about which body was actually missing. 
-Thus, there is a desire for the burial to be just Jesus. 
-Joseph of Arimathea is chosen as a good man who feels Jesus deserves an honourable burial. 
-Because Joseph doesn't sound like the kind of man who would chase away a poor juvenile, 
-the young man is moved to the post-arrest scene, 
-and it is the women who follow Joseph from the cross to the tomb. 
-
-Finally, there is a need to connect this empty tomb scene in Jerusalem with the resurrection encounters in Galilee. 
-Jesus's prediction of rising and going to Galilee is appended to his Last Supper forecast of his betrayal, 
-and the young man gets to remind the women of the quote. 
-
 By the time the epilogue arrives back at the community where the gospel had been first finalized 
 it is close to fully formed and some people are arguing that it sounds credible and should be added to the gospel. 
+Or maybe it is just the primitive form which has popular demand to be integrated into the script, 
+and the original compiler reworks the ending several times until it reaches the current state. 
 
 This then becomes the final version of Mark which goes viral thus forming the basis for what a gospel must include.
-(Speculative texts matching the evolution presented above are found at the end of this essay.)
 
 
-### Anticipated manuscript evidence
+## Evolution of the postscript
+
+Redaction layers in the postscript can be inferred from mismatches and other curiosities discovered in the preceding exploration. 
+Of course, it must be remembered that without manuscript evidence this is all speculation. 
+Plus, sometimes authors just make mistakes - 
+we have multi-million dollar movies with plot holes big enough to let a T-Rex escape through. 
+
+1. The non-anonymous women who watch the crucifixion, observe the burial, and find the tomb empty, 
+    are named three times, and this naming is inconsistent. It feels clumsy and later gospel authors seek to "fix" it. 
+    This clunkiness disappears if the women are simply announced in the empty tomb scene.  
+    **Postulate 1:** There was an earlier redaction where the women didn't appear in the burial scene. 
+2. The burial is performed by Joseph of Arimathea, and **he** (singular) rolls a stone in front of the tomb. 
+    Yet the young man at the tomb tells the women to see where **they** (plural) laid Jesus's body. 
+    This plural is consistent with Acts 13:29 where anonymous Jewish leaders bury Jesus. 
+    It is also consistent with what would we expect - 
+    if the concern is about leaving bodies up on the Sabbath then all of them would be taken down 
+    and it wouldn't be a one man task. 
+    **Postulate 2:** In an earlier redaction where anonymous Jewish leaders buried all the crucified men. 
+3. The arresting committee in the Garden of Gethsemane bizarrely chases an anonymous young man and he loses his linen cloth garment. 
+    This cameo doesn't flow with it's context, and a linen cloth is needed for the burial scene.    
+    **Postulate 3:** In an earlier redaction the young man in a linen cloth in the garden is actually at the burial.**
+4. If the young man was removed from the burial scene when Joseph of Arimathea was inserted, 
+    then he was a plot device - which makes sense since he was anonymous - as was the linen cloth / shroud. 
+    **Postulate 4:** In an early redaction there was no young man and no linen shroud.**
+5. If there is no young man then there is no-one to tell the women to go to Galilee to see the risen Jesus. 
+    If they weren't told this at the empty tomb, then maybe Jesus didn't say it at the last Supper. 
+    The Last Supper scene flows better without this short enhancement. 
+    **Postulate 5:** In the original Last Supper scene Jesus did not tell his disciples that after he had risen he would go ahead of them to Galilee.
+6. In the burial scene we find out that it is the Day of Preparation for the Sabbath and so bodies must be taken down from crosses. 
+    This seems too convenient - if the Jewish authorities were ok to arrest and try Jesus and have Pilate order his execution 
+    it hardly seems plausible that they will have qualms about a regular Sabbath. 
+    The author of the gospel of John at least seems to feel the need to correct this. 
+    **Postulate 6:** In an early redaction there was no burial scene. 
+7. In the anointing at Bethany, it seems implausible that where-ever the gospel is told this anonymous women would be honored if 
+    there were known stories of the **named** women who intended to anoint Jesus body 
+    and instead found what would become important evidence for the resurrection. 
+    **Postulate 7a:** In an early redaction the women did not buy spices to anoint Jesus body.
+    **Postulate 7b:** In an early redaction the women at the tomb were not named.
+    **Postulate 7c:** In the original version of Mark there was no empty tomb scene. 
+
+
+## Stages of Redaction
+
+These are derived by attempting to resolve the mismatches and connections identified in the preceding analysis.
+
+### Stage 1
+
+> Very early on the first day of the week
+some women who had followed Jesus from Galilee
+went to the tomb where Jesus was buried.
+And looking up, they saw that the stone had been rolled back.  
+And entering the tomb, they saw the place where he had been laid.  
+And they went out and fled from the tomb, for trembling and astonishment had seized them.
+
+### Stage 2
+
+> Since it was the day of Preparation, that is, the day before the Sabbath,  
+the scribes and elders asked Pilate for the bodies of Jesus and the others who had been crucified with him.  
+And taking them down, they laid them in a tomb that had been cut out of the rock.   
+And they rolled a stone against the entrance of the tomb.
+>
+> When the Sabbath was past, Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome
+bought spices, so that they might go and anoint him.  
+And very early on the first day of the week, when the sun had risen, they went to the tomb.  
+And they were saying to one another, “Who will roll away the stone for us from the entrance of the tomb?”  
+And looking up, they saw that the stone had been rolled back.  
+And entering the tomb, they saw the place where he had been laid.  
+And they went out and fled from the tomb, for trembling and astonishment had seized them.
+
+### Stage 3
+
+> Since it was the day of Preparation, that is, the day before the Sabbath,  
+the scribes and elders asked Pilate for the bodies of Jesus and the others who had been crucified with him.  
+And taking them down, they laid them in a tomb that had been cut out of the rock.  
+And a young man followed them, with nothing but a linen cloth about his body.
+And they seized him, but he left the linen cloth and ran away naked.  
+And they wrapped Jesus's body in the linen cloth,
+and they rolled a stone against the entrance of the tomb.
+>
+> When the Sabbath was past,
+Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome, who had followed Jesus from Galilee,
+bought spices, so that they might go and anoint him.  
+And very early on the first day of the week, when the sun had risen, they went to the tomb.
+And they were saying to one another, “Who will roll away the stone for us from the entrance of the tomb?”  
+And looking up, they saw that the stone had been rolled back.  
+And entering the tomb, they saw the young man sitting on the right side, and they were alarmed.
+And he said to them,  
+“Why do you seek the living among the dead?  
+He has risen; he is not here. See the linen cloth they wrapped him in.”  
+And they went out and fled from the tomb, for trembling and astonishment had seized them.
+
+### Stage 4
+
+> There were also women looking on from a distance,
+among whom were Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome.
+When he was in Galilee, they followed him and ministered to him,
+and there were also many other women who came up with him to Jerusalem.
+>
+> And when evening had come, since it was the day of Preparation, that is, the day before the Sabbath,
+Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of God,
+took courage and went to Pilate and asked for the body of Jesus.
+Pilate was surprised to hear that he should have already died.
+And summoning the centurion, he asked him whether he was already dead.
+And when he learned from the centurion that he was dead, he granted the corpse to Joseph.
+And Joseph bought a linen shroud, and taking him down, wrapped him in the linen shroud
+and laid him in a tomb that had been cut out of the rock.
+And he rolled a stone against the entrance of the tomb.  
+Mary Magdalene and Mary the mother of Joses saw where he was laid.
+>
+> When the Sabbath was past,
+Mary Magdalene, Mary the mother of James, and Salome, who had followed Jesus from Galilee,
+bought spices, so that they might go and anoint him.
+And very early on the first day of the week, when the sun had risen, they went to the tomb.
+And they were saying to one another, “Who will roll away the stone for us from the entrance of the tomb?”  
+And looking up, they saw that the stone had been rolled back.  
+And entering the tomb, they saw a young man sitting on the right side, dressed in a white robe, and they were alarmed.
+And he said to them,  
+“Do not be alarmed. You seek Jesus of Nazareth, who was crucified.
+He has risen; he is not here. See the place where they laid him.”  
+And they went out and fled from the tomb, for trembling and astonishment had seized them.
+
+Also, the young man running away is moved to Mark 14:51-52.
+
+> And a young man followed them, with nothing but a linen cloth about his body.
+And they seized him, but he left the linen cloth and ran away naked.
+
+### Stage 5 - Final
+
+This will be the same as our current form of Mark 15:40-16:8.
+This is the same as the previous stage, except for Mark 16:6-8.
+
+> And he said to them,  
+“Do not be alarmed. You seek Jesus of Nazareth, who was crucified. He has risen; he is not here. See the place where they laid him.
+**But go, tell his disciples and Peter that he is going before you to Galilee. There you will see him, just as he told you.**”
+And they went out and fled from the tomb, for trembling and astonishment had seized them,
+**and they said nothing to anyone, for they were afraid**.
+
+The matching prediction is added to Mark 14:27-28
+> And Jesus said to them, “You will all fall away, for it is written,
+‘I will strike the shepherd, and the sheep will be scattered.’
+**But after I am raised up, I will go before you to Galilee.**”
+
+
+## Anticipated manuscript evidence
 
 Even though Mark established the template for narrative gospels,
 we actually have less manuscripts for Mark than the later gospels. 
@@ -783,106 +912,4 @@ its addition may well have been accompanied by some revision of the previous gos
     [The ascension in the epistle of Barnabas.](https://earlywritings.com/forum/viewtopic.php?t=1805)
 - Robert Stein on the Transfiguration  
     [Is the transfiguration a misplaced resurrection account?](https://biblicalstudies.org.uk/pdf/jbl/1976_stein.pdf)
-
-
-## Reconstructions
-
-These follow the evolution of Mark (speculatively) proposed above.
-
-### Stage 1 
-
-> Very early on the first day of the week 
-some women who had followed Jesus from Galilee 
-went to the tomb where Jesus was buried. 
-And looking up, they saw that the stone had been rolled back.  
-And entering the tomb, they saw the place where he had been laid.  
-And they went out and fled from the tomb, for trembling and astonishment had seized them. 
-
-### Stage 2
-
-> Since it was the day of Preparation, that is, the day before the Sabbath,  
-the scribes and elders asked Pilate for the bodies of Jesus and the others who had been crucified with him.  
-And taking them down, they laid them in a tomb that had been cut out of the rock.   
-And they rolled a stone against the entrance of the tomb.  
->
-> When the Sabbath was past, Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome
-bought spices, so that they might go and anoint him.  
-And very early on the first day of the week, when the sun had risen, they went to the tomb.  
-And they were saying to one another, “Who will roll away the stone for us from the entrance of the tomb?”  
-And looking up, they saw that the stone had been rolled back.  
-And entering the tomb, they saw the place where he had been laid.  
-And they went out and fled from the tomb, for trembling and astonishment had seized them.  
-
-### Stage 3
-
-> Since it was the day of Preparation, that is, the day before the Sabbath,  
-the scribes and elders asked Pilate for the bodies of Jesus and the others who had been crucified with him.  
-And taking them down, they laid them in a tomb that had been cut out of the rock.  
-And a young man followed them, with nothing but a linen cloth about his body. 
-And they seized him, but he left the linen cloth and ran away naked.  
-And they wrapped Jesus's body in the linen cloth, 
-and they rolled a stone against the entrance of the tomb.  
-> 
-> When the Sabbath was past, 
-Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome, who had followed Jesus from Galilee, 
-bought spices, so that they might go and anoint him.  
-And very early on the first day of the week, when the sun had risen, they went to the tomb.
-And they were saying to one another, “Who will roll away the stone for us from the entrance of the tomb?”  
-And looking up, they saw that the stone had been rolled back.  
-And entering the tomb, they saw the young man sitting on the right side, and they were alarmed. 
-And he said to them,  
-“Why do you seek the living among the dead?  
-He has risen; he is not here. See the linen cloth they wrapped him in.”  
-And they went out and fled from the tomb, for trembling and astonishment had seized them. 
-
-### Stage 4
-
-> There were also women looking on from a distance,
-among whom were Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome.
-When he was in Galilee, they followed him and ministered to him,
-and there were also many other women who came up with him to Jerusalem.
->
-> And when evening had come, since it was the day of Preparation, that is, the day before the Sabbath, 
-Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of God, 
-took courage and went to Pilate and asked for the body of Jesus. 
-Pilate was surprised to hear that he should have already died.
-And summoning the centurion, he asked him whether he was already dead. 
-And when he learned from the centurion that he was dead, he granted the corpse to Joseph. 
-And Joseph bought a linen shroud, and taking him down, wrapped him in the linen shroud 
-and laid him in a tomb that had been cut out of the rock. 
-And he rolled a stone against the entrance of the tomb.  
-Mary Magdalene and Mary the mother of Joses saw where he was laid.  
-> 
-> When the Sabbath was past, 
-Mary Magdalene, Mary the mother of James, and Salome, who had followed Jesus from Galilee, 
-bought spices, so that they might go and anoint him.
-And very early on the first day of the week, when the sun had risen, they went to the tomb.
-And they were saying to one another, “Who will roll away the stone for us from the entrance of the tomb?”  
-And looking up, they saw that the stone had been rolled back.  
-And entering the tomb, they saw a young man sitting on the right side, dressed in a white robe, and they were alarmed. 
-And he said to them,  
-“Do not be alarmed. You seek Jesus of Nazareth, who was crucified. 
-He has risen; he is not here. See the place where they laid him.”  
-And they went out and fled from the tomb, for trembling and astonishment had seized them.
-
-Also, the young man running away is moved to Mark 14:51-52.
-
-> And a young man followed them, with nothing but a linen cloth about his body.
-And they seized him, but he left the linen cloth and ran away naked.  
-
-### Stage 5 - Final
-
-This will be the same as our current form of Mark 15:40-16:8. 
-This is the same as the previous stage, except for Mark 16:6-8. 
-
-> And he said to them,  
-“Do not be alarmed. You seek Jesus of Nazareth, who was crucified. He has risen; he is not here. See the place where they laid him.
-**But go, tell his disciples and Peter that he is going before you to Galilee. There you will see him, just as he told you.**”
-And they went out and fled from the tomb, for trembling and astonishment had seized them, 
-**and they said nothing to anyone, for they were afraid**.
-
-The matching prediction is added to Mark 14:27-28
-> And Jesus said to them, “You will all fall away, for it is written, 
-‘I will strike the shepherd, and the sheep will be scattered.’ 
-**But after I am raised up, I will go before you to Galilee.**”
 
