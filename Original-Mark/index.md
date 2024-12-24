@@ -710,29 +710,29 @@ we have multi-million dollar movies with plot holes big enough to let a T-Rex es
     This plural is consistent with Acts 13:29 where anonymous Jewish leaders bury Jesus. 
     It is also consistent with what would we expect - 
     if the concern is about leaving bodies up on the Sabbath then all of them would be taken down 
-    and it wouldn't be a one man task. 
+    and it wouldn't be a one man task.  
     **Postulate 2:** In an earlier redaction where anonymous Jewish leaders buried all the crucified men. 
 3. The arresting committee in the Garden of Gethsemane bizarrely chases an anonymous young man and he loses his linen cloth garment. 
-    This cameo doesn't flow with it's context, and a linen cloth is needed for the burial scene.    
+    This cameo doesn't flow with it's context, and a linen cloth is needed for the burial scene.  
     **Postulate 3:** In an earlier redaction the young man in a linen cloth in the garden is actually at the burial.**
 4. If the young man was removed from the burial scene when Joseph of Arimathea was inserted, 
-    then he was a plot device - which makes sense since he was anonymous - as was the linen cloth / shroud. 
+    then he was a plot device - which makes sense since he was anonymous - as was the linen cloth / shroud.  
     **Postulate 4:** In an early redaction there was no young man and no linen shroud.**
 5. If there is no young man then there is no-one to tell the women to go to Galilee to see the risen Jesus. 
     If they weren't told this at the empty tomb, then maybe Jesus didn't say it at the last Supper. 
-    The Last Supper scene flows better without this short enhancement. 
+    The Last Supper scene flows better without this short postfix.  
     **Postulate 5:** In the original Last Supper scene Jesus did not tell his disciples that after he had risen he would go ahead of them to Galilee.
 6. In the burial scene we find out that it is the Day of Preparation for the Sabbath and so bodies must be taken down from crosses. 
     This seems too convenient - if the Jewish authorities were ok to arrest and try Jesus and have Pilate order his execution 
     it hardly seems plausible that they will have qualms about a regular Sabbath. 
-    The author of the gospel of John at least seems to feel the need to correct this. 
+    The author of the gospel of John at least seems to feel the need to correct this.  
     **Postulate 6:** In an early redaction there was no burial scene. 
 7. In the anointing at Bethany, it seems implausible that where-ever the gospel is told this anonymous women would be honored if 
     there were known stories of the **named** women who intended to anoint Jesus body 
-    and instead found what would become important evidence for the resurrection. 
-    **Postulate 7a:** In an early redaction the women did not buy spices to anoint Jesus body.
-    **Postulate 7b:** In an early redaction the women at the tomb were not named.
-    **Postulate 7c:** In the original version of Mark there was no empty tomb scene. 
+    and instead found what would become important evidence for the resurrection.  
+    **Postulate 7a:** In an early redaction the women did not buy spices to anoint Jesus body.  
+    **Postulate 7b:** In an early redaction the women at the tomb were not named.  
+    **Postulate 7c:** In the original version of Mark there was no empty tomb scene.  
 
 
 ## Stages of Redaction
