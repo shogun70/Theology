@@ -528,10 +528,12 @@ Of course, the audience could be expected to be familiar with the disciples cont
 but did the author know how he was going to confirm those inferences when he included the predictions?
 Perhaps the author was anticipating using a resurrection story which included the disciples -  
 for example Jesus walking on the water, or even the transfiguration where Jesus is declared the Son of God.
-(As suggested by Dominic Crossan. **[citation needed]**)
+**[citation needed]**
 
 This essayist at least finds it implausible that there wasn't some contemporary (and perhaps non-authoritative) sequels to the Passion play
-which contained accounts with restored disciples and perhaps resurrection encounters.
+which contained accounts with restored disciples and perhaps resurrection encounters. 
+After all, this work is titled "The **beginning** of the Good News ...". 
+
 But if this theory is granted then it raises the question -
 why did Mark go viral / become authoritative **without** any such sequels?
 
@@ -662,6 +664,7 @@ Perhaps the Passion week play had even been performed as a sequence of short pla
 and then the empty tomb scene is really first performed on the first day of the week. 
 The audience - mostly aware of the trope - understands the significance, and it feels like a satisfying epilogue.
 Conveniently, it also doesn't preclude continuing the non-authoritative plays regarding resurrection encounters of the male disciples. 
+After all, this is just "the beginning of the Good News ...". 
 
 As this well received epilogue spreads in the small network it gets modified to make the links with the gospel stronger. 
 Some new hearers assume it is intended to be historical and some apologetic reworking is applied - 
@@ -698,11 +701,11 @@ and the original compiler reworks the ending several times until it reaches the 
 This then becomes the final version of Mark which goes viral thus forming the basis for what a gospel must include.
 
 
-### Evolution of the postscript
+### Evolutionary artefacts in the postscript
 
 The mismatches and other curiosities discovered in the preceding exploration could be evolutionary artefacts. 
 Identifying these artefacts and postulating how they got into the text and then persisted 
-will allow us to propose more detailed stages of the evolution. 
+will allow us to propose more detailed stages of development. 
 Of course, it must be remembered that without manuscript evidence this is all speculation. 
 Plus, sometimes authors just make mistakes - 
 we have multi-million dollar movies with plot holes big enough to let a T-Rex escape through.
@@ -720,12 +723,13 @@ we have multi-million dollar movies with plot holes big enough to let a T-Rex es
     if the concern is about leaving bodies up on the Sabbath then all of them would be taken down 
     and it wouldn't be a one-man task.  
     **Postulate 2:** In an earlier revision it was anonymous Jewish leaders who buried all the crucified men. 
-3. The arresting committee in the Garden of Gethsemane bizarrely chases an anonymous young man, and takes his linen cloth garment. 
+3. The arresting committee in the Garden of Gethsemane bizarrely chases an anonymous young man, and takes his linen cloth. 
     This cameo doesn't flow with its context, and a linen cloth is needed for the burial scene.  
-    **Postulate 3:** In an earlier revision the young man in a linen cloth in the garden is actually at the burial. 
+    **Postulate 3:** In an earlier revision the incident of the mob chasing the young man in a linen cloth 
+    is incorporated into the burial scene and not the arrest scene.  
 4. If the young man was removed from the burial scene when Joseph of Arimathea was inserted, 
-    then he was a plot device - which makes sense since he was anonymous - as was the linen cloth / shroud.  
-    **Postulate 4:** In an early revision there was no young man and no linen shroud.
+    then he was a plot device as was the linen cloth / shroud. Given this, his anonymity is unsurprising.  
+    **Postulate 4:** In an early revision there was no young man and no linen cloth /shroud. 
 5. If there is no young man then there is no-one to tell the women to go to Galilee to see the risen Jesus. 
     If they weren't told this at the empty tomb, then maybe Jesus didn't say it at the last Supper. 
     The Last Supper scene flows better without this short postfix.  
@@ -747,7 +751,7 @@ we have multi-million dollar movies with plot holes big enough to let a T-Rex es
 
 ### Stages of development
 
-These are derived by attempting to resolve the mismatches and connections identified in the preceding analysis.
+These are derived by attempting to resolve the purported evolutionary artefacts identified in the preceding analysis.
 
 #### Stage 1
 
