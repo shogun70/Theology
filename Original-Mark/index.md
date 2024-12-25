@@ -257,6 +257,10 @@ It is worth considering that the apparent clunkiness disappears if the women are
 This might reflect an earlier draft of the postscript, with Joseph of Arimathea burying Jesus on the Day of Preparation, 
 and the women not being introduced until the first day of the week. 
 
+Moreover, it is superfluous to have the young men tell the women to "see where they laid him" 
+when in the burial scene just before we are assured that the women "saw where he was laid." 
+Again, this would not be surprising if an earlier draft did not introduce the women until the empty tomb scene. 
+
 A similar, though less obvious, inconsistency is found in the young man's admonition to 
 
 > "... see the place where **they** laid him." 
@@ -705,7 +709,9 @@ we have multi-million dollar movies with plot holes big enough to let a T-Rex es
 
 1. The non-anonymous women who watch the crucifixion, observe the burial, and find the tomb empty, 
     are named three times, and this naming is inconsistent. It feels clumsy and later gospel authors seek to "fix" it. 
-    This clunkiness disappears if the women are simply announced in the empty tomb scene.  
+    This clunkiness disappears if the women are simply announced in the empty tomb scene. 
+    Moreover, the young man tells the women to see where Jesus was laid 
+    even though in the burial scene they already had seen where he was laid.  
     **Postulate 1:** There was an earlier revision where the women didn't appear in the burial scene. 
 2. The burial is performed by Joseph of Arimathea, and **he** (singular) rolls a stone in front of the tomb. 
     Yet the young man at the tomb tells the women to see where **they** (plural) laid Jesus's body. 
