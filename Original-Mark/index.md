@@ -707,29 +707,30 @@ The mismatches and other curiosities discovered in the preceding exploration cou
 Identifying these artefacts and postulating how they got into the text and then persisted 
 will allow us to propose more detailed stages of development. 
 Of course, it must be remembered that without manuscript evidence this is all speculation. 
-Plus, sometimes authors just make mistakes - 
+Plus, sometimes script-writers just make mistakes - 
 we have multi-million dollar movies with plot holes big enough to let a T-Rex escape through.
 
 1. The non-anonymous women who watch the crucifixion, observe the burial, and find the tomb empty, 
     are named three times, and this naming is inconsistent. It feels clumsy and later gospel authors seek to "fix" it. 
     This clunkiness disappears if the women are simply announced in the empty tomb scene. 
-    Moreover, the young man tells the women to see where Jesus was laid 
+    Moreover, the young man redundantly tells the women to see where Jesus was laid 
     even though in the burial scene they already had seen where he was laid.  
-    **Postulate 1:** There was an earlier revision where the women didn't appear in the burial scene. 
+    **Postulate 1:** The women were added to the burial scene in one of the revisions.  
 2. The burial is performed by Joseph of Arimathea, and **he** (singular) rolls a stone in front of the tomb. 
     Yet the young man at the tomb tells the women to see where **they** (plural) laid Jesus's body. 
     This plural is consistent with Acts 13:29 where anonymous Jewish leaders bury Jesus. 
     It is also consistent with what would we expect - 
     if the concern is about leaving bodies up on the Sabbath then all of them would be taken down 
     and it wouldn't be a one-man task.  
-    **Postulate 2:** In an earlier revision it was anonymous Jewish leaders who buried all the crucified men. 
+    **Postulate 2:** In one of the revisions Joseph of Arimathea is swapped in for anonymous Jewish leaders 
+    (who would have buried all the crucified men as implied in John). 
 3. The arresting committee in the Garden of Gethsemane bizarrely chases an anonymous young man, and takes his linen cloth. 
-    This cameo doesn't flow with its context, and a linen cloth is needed for the burial scene.  
-    **Postulate 3:** In an earlier revision the incident of the mob chasing the young man in a linen cloth 
+    This incident doesn't flow with its context, and a linen cloth is needed for the burial scene.  
+    **Postulate 3:** In an earlier revision, the incident of the mob chasing the young man in a linen cloth 
     is incorporated into the burial scene and not the arrest scene.  
-4. If the young man was removed from the burial scene when Joseph of Arimathea was inserted, 
-    then he was a plot device as was the linen cloth / shroud. Given this, his anonymity is unsurprising.  
-    **Postulate 4:** In an early revision there was no young man and no linen cloth /shroud. 
+4. If the young man and his linen cloth was removed from the burial scene when Joseph of Arimathea was inserted, 
+    then he was a theatrical device as was the linen cloth / shroud. Given this, his anonymity is unsurprising.  
+    **Postulate 4:** In the earliest revisions there was no young man and no linen cloth / shroud.
 5. If there is no young man then there is no-one to tell the women to go to Galilee to see the risen Jesus. 
     If they weren't told this at the empty tomb, then maybe Jesus didn't say it at the last Supper. 
     The Last Supper scene flows better without this short postfix.  
@@ -740,12 +741,16 @@ we have multi-million dollar movies with plot holes big enough to let a T-Rex es
     if the Jewish authorities were ok to arrest and try Jesus and have Pilate order his execution all on the Passover, 
     it hardly seems plausible that they will have qualms about a regular Sabbath. 
     The author of the gospel of John at least seems to feel the need to correct this.  
-    **Postulate 6:** In an early revision there was no burial scene. 
+    If the young man with the linen cloth was initially added as a link between burial and empty tomb scenes  
+    then those two scenes were decoupled at first which implies one was added later.  
+    Since almost all the identified anomalies seem to have the purpose of authenticating that Jesus's body went missing, 
+    it seems reasonable to infer that the burial scene was added for this purpose too.  
+    **Postulate 6:** The burial scene was added in one of the (early) revisions. 
 7. In the anointing at Bethany, it seems implausible that where-ever the gospel is told this anonymous women would be honored if 
     there were known stories of the **named** women who intended to anoint Jesus body 
     and instead found what would become important evidence for the resurrection.  
-    **Postulate 7a:** In an early revision the women did not buy spices to anoint Jesus body.  
-    **Postulate 7b:** In an early revision the women at the tomb were not named.  
+    **Postulate 7a:** The women buying spices to anoint Jesus body was added in a revision.  
+    **Postulate 7b:** In the earliest revision the women at the tomb were not named.  
     **Postulate 7c:** In the original version of Mark there was no empty tomb scene.  
 
 
@@ -769,9 +774,10 @@ the scribes and elders asked Pilate for the bodies of Jesus and the others who h
 And taking them down, they laid them in a tomb that had been cut out of the rock.   
 And they rolled a stone against the entrance of the tomb.
 >
-> When the Sabbath was past, Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome
+> When the Sabbath was past, Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome, 
+who had followed Jesus from Galilee, 
 bought spices, so that they might go and anoint him.  
-And very early on the first day of the week, when the sun had risen, they went to the tomb.  
+And very early on the first day of the week they went to the tomb.  
 And they were saying to one another, “Who will roll away the stone for us from the entrance of the tomb?”  
 And looking up, they saw that the stone had been rolled back.  
 And entering the tomb, they saw the place where he had been laid.  
@@ -780,7 +786,7 @@ And they went out and fled from the tomb, for trembling and astonishment had sei
 #### Stage 3
 
 > Since it was the day of Preparation, that is, the day before the Sabbath,  
-the scribes and elders asked Pilate for the bodies of Jesus and the others who had been crucified with him.  
+the Jewish leaders asked Pilate for the bodies of Jesus and the others who had been crucified with him.  
 And taking them down, they laid them in a tomb that had been cut out of the rock.  
 And a young man followed them, with nothing but a linen cloth about his body.
 And they seized him, but he left the linen cloth and ran away naked.  
@@ -790,7 +796,7 @@ and they rolled a stone against the entrance of the tomb.
 > When the Sabbath was past,
 Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome, who had followed Jesus from Galilee,
 bought spices, so that they might go and anoint him.  
-And very early on the first day of the week, when the sun had risen, they went to the tomb.
+And very early on the first day of the week they went to the tomb.
 And they were saying to one another, “Who will roll away the stone for us from the entrance of the tomb?”  
 And looking up, they saw that the stone had been rolled back.  
 And entering the tomb, they saw the young man sitting on the right side, and they were alarmed.
@@ -815,10 +821,11 @@ And when he learned from the centurion that he was dead, he granted the corpse t
 And Joseph bought a linen shroud, and taking him down, wrapped him in the linen shroud
 and laid him in a tomb that had been cut out of the rock.
 And he rolled a stone against the entrance of the tomb.  
-Mary Magdalene and Mary the mother of Joses saw where he was laid.
+> 
+> Mary Magdalene and Mary the mother of Joses saw where he was laid.
 >
 > When the Sabbath was past,
-Mary Magdalene, Mary the mother of James, and Salome, who had followed Jesus from Galilee,
+Mary Magdalene, Mary the mother of James, and Salome, 
 bought spices, so that they might go and anoint him.
 And very early on the first day of the week, when the sun had risen, they went to the tomb.
 And they were saying to one another, “Who will roll away the stone for us from the entrance of the tomb?”  
@@ -858,7 +865,8 @@ we actually have less manuscripts for Mark than the later gospels.
 The situation is even more bleak for the well accepted sayings gospel, Q. 
 Although it (presumably) was available to Clement of Rome (and the recipients of his letter),
 not to mention the authors of Matthew and Luke, 
-there are no manuscripts at all definitively establishing its historicity. 
+there are no manuscripts at all definitively establishing its historicity.
+(Imagine how we would approach Matthew and Luke if Mark had similarly disappeared.)
 How much less likely is it to find manuscript evidence for earlier drafts of the gospel of Mark? 
 
 No matter, let us consider what forms of manuscript evidence would be supportive of an earlier Mark without the suggested postscript,
@@ -882,12 +890,13 @@ it must remain speculation whether one proposition for its evolution is more lik
 
 This essay has identified arguments possibly in favour of Mark 15:39 being a satisfactory ending to an earlier draft of Mark:
 
-- it is a climax of the gospel and the last explicit mention of Jesus as the Son of God, reflecting the gospel's title. 
+- it is a climax of the gospel and the last explicit mention of Jesus as the Son of God, reflecting the gospel's title.   
 - important characters in the remainder of the story were not introduced beforehand, 
-    and are referenced relatively clumsily.
-- one intention of Mark's gospel is to contrast Jesus with leaders of the world, and ending at the cross would highlight that. 
-- the preceding accounts in the gospel may not anticipate the burial as recorded. 
-- The accounts in later gospels show signs of ongoing controversy regarding the details of Mark's burial and resurrection. 
+    and are referenced relatively clumsily.  
+- there are other mismatches and curiosities in burial and empty tomb scene which could be evolutionary artefacts.   
+- one intention of Mark's gospel is to contrast Jesus with leaders of the world, and ending at the cross would highlight that.   
+- the preceding accounts in the gospel may not anticipate the burial as recorded.  
+- The accounts in later gospels show signs of ongoing controversy regarding the details of Mark's burial and resurrection.  
 
 However, it has also been found that if Mark 15:40-16:8 were indeed a postscript, 
 its addition may well have been accompanied by some revision of the previous gospel text:
