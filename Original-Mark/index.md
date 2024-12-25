@@ -516,7 +516,23 @@ The disciples reaction of "questioning what this rising from the dead might mean
 with canonical Mark's ambiguous ending. 
 
 
-### Partially fulfilled predictions?
+### Hopeless disciples
+
+Jesus not only predicts his own death and resurrection, but also the desertion of his disciples.
+But implied in the predictions is that they aren't going to be left in their hopelessness.  
+Of course, the audience could be expected to be familiar with the disciples continued role in the spreading of the Good News,
+but did the author know how he was going to confirm those inferences when he included the predictions?
+Perhaps the author was anticipating using a resurrection story which included the disciples -  
+for example Jesus walking on the water, or even the transfiguration where Jesus is declared the Son of God.
+(As suggested by Dominic Crossan. **[citation needed]**)
+
+This essayist at least finds it implausible that there wasn't some contemporary (and perhaps non-authoritative) sequels to the Passion play
+which contained accounts with restored disciples and perhaps resurrection encounters.
+But if this theory is granted then it raises the question -
+why did Mark go viral / become authoritative **without** any such sequels?
+
+
+## Partially fulfilled predictions?
 
 Let's assert that all the resurrection predictions were in the earliest form of Mark, whether liturgical or more intentional. 
 Are they all consistent with the canonical ending, and if not, why not?
@@ -614,22 +630,6 @@ does this suggest the nature of resurrection was up for debate in Mark's time?
 If so, it wouldn't be surprising if this was a factor in why Mark doesn't include any resurrection encounters. 
 
 
-## Hopeless disciples
-
-Jesus not only predicts his own death and resurrection, but also the desertion of his disciples. 
-But implied in the predictions is that they aren't going to be left in their hopelessness.  
-Of course, the audience could be expected to be familiar with the disciples continued role in the spreading of the Good News, 
-but did the author know how he was going to confirm those inferences when he included the predictions? 
-Perhaps the author was anticipating using a resurrection story which included the disciples -  
-for example Jesus walking on the water, or even the transfiguration where Jesus is declared the Son of God.
-(As suggested by Dominic Crossan. **[citation needed]**)
-
-This essayist at least finds it implausible that there wasn't some contemporary (and perhaps non-authoritative) sequels to the Passion play
-which contained accounts with restored disciples and perhaps resurrection encounters. 
-But if this theory is granted then it raises the question - 
-why did Mark go viral / become authoritative **without** any such sequels?
-
-
 ## The evolution of Mark
 
 None of the New Testament letters (or even the letters of the early church fathers) mention the tomb, 
@@ -694,49 +694,52 @@ and the original compiler reworks the ending several times until it reaches the 
 This then becomes the final version of Mark which goes viral thus forming the basis for what a gospel must include.
 
 
-## Evolution of the postscript
+### Evolution of the postscript
 
-Redaction layers in the postscript can be inferred from mismatches and other curiosities discovered in the preceding exploration. 
+The mismatches and other curiosities discovered in the preceding exploration could be evolutionary artefacts. 
+Identifying these artefacts and postulating how they got into the text and then persisted 
+will allow us to propose more detailed stages of the evolution. 
 Of course, it must be remembered that without manuscript evidence this is all speculation. 
 Plus, sometimes authors just make mistakes - 
-we have multi-million dollar movies with plot holes big enough to let a T-Rex escape through. 
+we have multi-million dollar movies with plot holes big enough to let a T-Rex escape through.
 
 1. The non-anonymous women who watch the crucifixion, observe the burial, and find the tomb empty, 
     are named three times, and this naming is inconsistent. It feels clumsy and later gospel authors seek to "fix" it. 
     This clunkiness disappears if the women are simply announced in the empty tomb scene.  
-    **Postulate 1:** There was an earlier redaction where the women didn't appear in the burial scene. 
+    **Postulate 1:** There was an earlier revision where the women didn't appear in the burial scene. 
 2. The burial is performed by Joseph of Arimathea, and **he** (singular) rolls a stone in front of the tomb. 
     Yet the young man at the tomb tells the women to see where **they** (plural) laid Jesus's body. 
     This plural is consistent with Acts 13:29 where anonymous Jewish leaders bury Jesus. 
     It is also consistent with what would we expect - 
     if the concern is about leaving bodies up on the Sabbath then all of them would be taken down 
     and it wouldn't be a one-man task.  
-    **Postulate 2:** In an earlier redaction it was anonymous Jewish leaders who buried all the crucified men. 
+    **Postulate 2:** In an earlier revision it was anonymous Jewish leaders who buried all the crucified men. 
 3. The arresting committee in the Garden of Gethsemane bizarrely chases an anonymous young man, and takes his linen cloth garment. 
     This cameo doesn't flow with its context, and a linen cloth is needed for the burial scene.  
-    **Postulate 3:** In an earlier redaction the young man in a linen cloth in the garden is actually at the burial.**
+    **Postulate 3:** In an earlier revision the young man in a linen cloth in the garden is actually at the burial. 
 4. If the young man was removed from the burial scene when Joseph of Arimathea was inserted, 
     then he was a plot device - which makes sense since he was anonymous - as was the linen cloth / shroud.  
-    **Postulate 4:** In an early redaction there was no young man and no linen shroud.
+    **Postulate 4:** In an early revision there was no young man and no linen shroud.
 5. If there is no young man then there is no-one to tell the women to go to Galilee to see the risen Jesus. 
     If they weren't told this at the empty tomb, then maybe Jesus didn't say it at the last Supper. 
     The Last Supper scene flows better without this short postfix.  
     **Postulate 5:** In the original Last Supper scene Jesus did not tell his disciples that after he had risen he would go ahead of them to Galilee.
-6. In the burial scene we find out that it is the Day of Preparation for the Sabbath and so bodies must be taken down from crosses. 
+6. In the burial scene we find out that it is the Day of Preparation for the Sabbath. 
+    Importantly this will require Jesus's body to be taken down from the cross. 
     This seems too convenient: 
     if the Jewish authorities were ok to arrest and try Jesus and have Pilate order his execution all on the Passover, 
     it hardly seems plausible that they will have qualms about a regular Sabbath. 
     The author of the gospel of John at least seems to feel the need to correct this.  
-    **Postulate 6:** In an early redaction there was no burial scene. 
+    **Postulate 6:** In an early revision there was no burial scene. 
 7. In the anointing at Bethany, it seems implausible that where-ever the gospel is told this anonymous women would be honored if 
     there were known stories of the **named** women who intended to anoint Jesus body 
     and instead found what would become important evidence for the resurrection.  
-    **Postulate 7a:** In an early redaction the women did not buy spices to anoint Jesus body.  
-    **Postulate 7b:** In an early redaction the women at the tomb were not named.  
+    **Postulate 7a:** In an early revision the women did not buy spices to anoint Jesus body.  
+    **Postulate 7b:** In an early revision the women at the tomb were not named.  
     **Postulate 7c:** In the original version of Mark there was no empty tomb scene.  
 
 
-## Stages of Redaction
+### Stages of development
 
 These are derived by attempting to resolve the mismatches and connections identified in the preceding analysis.
 
@@ -838,7 +841,7 @@ The matching prediction is added to Mark 14:27-28
 **But after I am raised up, I will go before you to Galilee.**”
 
 
-## Anticipated manuscript evidence
+### Anticipated manuscript evidence
 
 Even though Mark established the template for narrative gospels,
 we actually have less manuscripts for Mark than the later gospels. 
