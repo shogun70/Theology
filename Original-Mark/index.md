@@ -743,7 +743,7 @@ we have multi-million dollar movies with plot holes big enough to let a T-Rex es
 
 These are derived by attempting to resolve the mismatches and connections identified in the preceding analysis.
 
-### Stage 1
+#### Stage 1
 
 > Very early on the first day of the week
 some women who had followed Jesus from Galilee
@@ -752,7 +752,7 @@ And looking up, they saw that the stone had been rolled back.
 And entering the tomb, they saw the place where he had been laid.  
 And they went out and fled from the tomb, for trembling and astonishment had seized them.
 
-### Stage 2
+#### Stage 2
 
 > Since it was the day of Preparation, that is, the day before the Sabbath,  
 the scribes and elders asked Pilate for the bodies of Jesus and the others who had been crucified with him.  
@@ -767,7 +767,7 @@ And looking up, they saw that the stone had been rolled back.
 And entering the tomb, they saw the place where he had been laid.  
 And they went out and fled from the tomb, for trembling and astonishment had seized them.
 
-### Stage 3
+#### Stage 3
 
 > Since it was the day of Preparation, that is, the day before the Sabbath,  
 the scribes and elders asked Pilate for the bodies of Jesus and the others who had been crucified with him.  
@@ -789,7 +789,7 @@ And he said to them,
 He has risen; he is not here. See the linen cloth they wrapped him in.”  
 And they went out and fled from the tomb, for trembling and astonishment had seized them.
 
-### Stage 4
+#### Stage 4
 
 > There were also women looking on from a distance,
 among whom were Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome.
@@ -824,7 +824,7 @@ Also, the young man running away is moved to Mark 14:51-52.
 > And a young man followed them, with nothing but a linen cloth about his body.
 And they seized him, but he left the linen cloth and ran away naked.
 
-### Stage 5 - Final
+#### Stage 5 - Final
 
 This will be the same as our current form of Mark 15:40-16:8.
 This is the same as the previous stage, except for Mark 16:6-8.
