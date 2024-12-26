@@ -164,8 +164,8 @@ In John he is called a secret disciple, and of course he is accompanied by Nicod
 and they wrap the body with strips of linen rather than the implied shroud of the synoptics. 
 
 The less obvious but more significant variation in John is that 
-it was "the Jewish leaders \[who\] did not want the bodies left on the crosses during the Sabbath"
-- this also implies that all the crucified men were buried on the same day. 
+it was "the Jewish leaders \[who\] did not want the bodies left on the crosses during the Sabbath" - 
+this also implies that all the crucified men were buried on the same day. 
 This actually aligns with what we would expect (c.f. Josephus **[citation needed]**) 
 and it also feels more consistent with Paul's speech in the synagogue at Pisidian Antioch 
 
@@ -183,7 +183,7 @@ If we order these accounts of Jesus's burial from generic to specific we see:
 1. he was buried (1 Corinthians 15)
 2. he was buried by the Jewish leaders who had condemned him (Acts 13, hinted at in John 19)
 3. he was buried by a Jewish leader - Joseph of Arimathea - who hadn't condemned him (Mark 15 and all the synoptics)
-4. he was buried by two Jewish leaders - Joseph of Arimathea and Nicodemus - who were followers (John 19)
+4. he was buried by two Jewish leaders - Joseph of Arimathea and Nicodemus - who were secret followers (John 19)
 
 This usage is suggestive - to this essayist at least - 
 that Joseph of Arimathea is incorporated into the accounts only when he becomes convenient to the story. 
@@ -208,8 +208,9 @@ John's handling of the burial implies that if there was controversy it was wheth
 - the other crucified men would be left on their crosses while Jesus is taken down, and 
 - Matthew's addition that Joseph was a disciple of Jesus. 
 
-If John's additions are in response to controversy this actually strengthens the case for Joseph of Arimathea being 
-- like Nicodemus - a real member of the Sanhedrin who probably was involved in burying executed people. 
+If John's additions are in response to controversy 
+this actually strengthens the case for Joseph of Arimathea being - like Nicodemus - 
+a real member of the Sanhedrin who probably was involved in burying executed people. 
 
 
 #### Returning characters
