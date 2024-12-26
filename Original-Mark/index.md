@@ -100,6 +100,41 @@ or at least while Jesus is dying (fixed in John 19:25).
 Thus, it seems clear that in Mark these women are introduced, not because they are followers 
 but precisely so some minor (or even hitherto unknown) characters can find the empty tomb.  
 
+There is a possible anomaly regarding the frequent and inconsistent repetition of the named women. 
+
+> There were also women looking on from a distance,
+among whom were **Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome**.
+When he was in Galilee, they followed him and ministered to him ...
+
+> And he rolled a stone against the entrance of the tomb.
+**Mary Magdalene and Mary the mother of Joses** saw where he was laid.  
+When the Sabbath was past, **Mary Magdalene, Mary the mother of James, and Salome** bought spices, so that they might go and anoint him.
+And very early on the first day of the week, when the sun had risen, they went to the tomb.
+
+If this account is read in one go, this repetition feels clumsy.
+There is no comparable instance of excessively redundant (and inconsistent) identification of characters in the rest of Mark.
+Matthew and Luke also seem to have felt the clunkiness -
+at least Matthew reduces the inconsistency and Luke eliminates redundancy by naming the women only once.
+(It is probably oversight that John doesn't include the women witnessing the actual burial in the tomb.)
+
+If the account is treated as a play -
+with a distinct scene change between the burial and the discovery of the empty tomb -
+then the repetition is less jarring.
+However, the inconsistency in identifying **Mary the mother of James and of Joses**
+might be suggestive of an instance of writer fatigue as the author narrator notices
+that he missed out James in the first repetition and so deliberately leaves out Joses on the second.
+
+It is worth considering that the apparent clunkiness disappears if the women are completely removed from the scene on the day of crucifixion.
+This might reflect an earlier draft of the postscript, with Jesus being buried on the Day of Preparation,
+and the women not being introduced until the first day of the week.
+
+Along the same lines, it is superfluous to have the young men tell the women to "see where they laid him"
+when in the burial scene just before we are assured that the women "saw where he was laid."
+A similar redundancy can be observed in the young man's comment to the women that they
+"seek Jesus of Nazareth, who was crucified".
+Again, this would not be surprising if an earlier draft did not introduce the women until the empty tomb scene.
+On the other hand, these redundancies could be seen as justified for the purpose of dramatization.
+
 <details>
 <summary>Mary, the mother of ...</summary>
 Strangely it seems clear that one of these women is Mary, the mother of Jesus, 
@@ -107,6 +142,7 @@ but here only identified as the mother of James and Joses.
 John seems to be aware of this mistake and explicitly places Jesus's mother at the cross. 
 This vagueness about one of the women could be a hint that the story evolved separately to the rest of Mark.
 </details>
+
 
 #### Joseph from Arimathea 
 
@@ -216,7 +252,7 @@ Yet the liturgy from 1 Corinthians 15 and several predictions in Mark say the re
 (This contradiction isn't fixed until John.)
 
 The women's reason to visit the tomb is to anoint the body but that seems implausible - you anoint the body before burial -
-a detail resolved in Matthew by not mentioning it, and in the John by having Joseph of Arimathea and Nicodemus perform it. 
+a detail resolved in Matthew by not mentioning it, and in John by having Joseph of Arimathea and Nicodemus perform it. 
 It could be argued that in Mark this is actually an indicator of continuity 
 as it might be foreshadowed in Jesus's anointing in Bethany:
 
@@ -236,48 +272,6 @@ Alternatively, since the anointing at Bethany undermines the explanation for why
 one might ask why would it be included if the author was thinking about the empty tomb scene? 
 It also seems strange that - when Mark was written - it is this **anonymous** woman who was remembered. 
 Is that likely if in fact the **named** women who buy spices and find the empty tomb was a well known story?
-
-
-### Stylistic consistency
-
-The postulated postscript feels stylistically consistent, with vivid scenes, dualisms, 
-frequent use of "and" to join sentences, 
-It is easy to imagine the same author is also responsible. 
-
-The one atypical feature seems to be the frequent and inconsistent repetition of the women by name. 
-
-> There were also women looking on from a distance,
-among whom were **Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome**.
-When he was in Galilee, they followed him and ministered to him ...
-
-> And he rolled a stone against the entrance of the tomb.
-**Mary Magdalene and Mary the mother of Joses** saw where he was laid.  
-When the Sabbath was past, **Mary Magdalene, Mary the mother of James, and Salome** bought spices, so that they might go and anoint him. 
-And very early on the first day of the week, when the sun had risen, they went to the tomb.
-
-If this account is read in one go, this repetition feels clumsy. 
-There is no comparable instance of excessively redundant (and inconsistent) identification of characters in the rest of Mark. 
-Matthew and Luke also seem to have felt the clunkiness - 
-at least Matthew reduces the inconsistency and Luke eliminates redundancy by naming the women only once.
-(It is probably oversight that John doesn't include the women witnessing the actual burial in the tomb.)
-
-If the account is treated as a play - 
-with a distinct scene change between the burial and the discovery of the empty tomb - 
-then the repetition is less jarring. 
-However, the inconsistency in identifying **Mary the mother of James and of Joses** 
-might be suggestive of an instance of writer fatigue as the author narrator notices 
-that he missed out James in the first repetition and so deliberately leaves out Joses on the second. 
-
-It is worth considering that the apparent clunkiness disappears if the women are completely removed from the scene on the day of crucifixion. 
-This might reflect an earlier draft of the postscript, with Jesus being buried on the Day of Preparation, 
-and the women not being introduced until the first day of the week. 
-
-Moreover, it is superfluous to have the young men tell the women to "see where they laid him" 
-when in the burial scene just before we are assured that the women "saw where he was laid." 
-A similar redundancy can be observed in the young man's comment to the women that they 
-"seek Jesus of Nazareth, who was crucified". 
-Again, this would not be surprising if an earlier draft did not introduce the women until the empty tomb scene. 
-On the other hand, these redundancies could be seen as justified for the purpose of dramatization. 
 
 
 ### Other questions
@@ -330,6 +324,14 @@ Is this a hint that it formed from a different tradition?
 The counter to this would be that it could have been intentionally phrased so as
 to differentiate Peter as the most faithful - being the last to desert Jesus - 
 and / or providing a special message of restoration from his shame of denying Jesus at the end. 
+
+
+### Stylistic consistency
+
+The preceding exploration not-with-standing, 
+reading or imagining the postscript does feel stylistically consistent, with vivid scenes, dualisms,
+frequent use of "and" to join sentences. 
+It is easy to imagine the same author is also responsible.
 
 
 ## Predictions of death and resurrection.
