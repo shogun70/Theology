@@ -50,9 +50,9 @@ Two suggestions are offered:
     some christians must have felt as though their script had been torn up.  
     Another Caesar, another triumph. Pax Romana. Peace through the sword. The gospel of Caesar is just getting started.  
     With Mark able to present the Passion week as largely a story of the temple against Jesus (and against God) 
-    and with Rome in fact being manipulated by the Jewish leaders 
-    this could have assured the community that actually things were on track - one opponent defeated, 
-    the other will surely either confess Jesus is God's true son or be swept aside in due course.
+    - and with Rome in fact being manipulated by the Jewish leaders -
+    this could have assured the community that actually things were on track. 
+    With one opponent defeated, the other will surely either confess Jesus is God's true son or be swept aside in due course.
     (Maybe there was also hope that Jews would join christianity as they were told that God had clearly condemned the alternative.) 
 
 
