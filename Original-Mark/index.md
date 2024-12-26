@@ -149,8 +149,23 @@ If we order these accounts of Jesus's burial from generic to specific we see:
 
 This usage is suggestive - to this essayist at least - 
 that Joseph of Arimathea is incorporated into the accounts only when he becomes convenient to the story. 
-This is not to say that he was a made up character - quite the opposite: 
-the stability of his role surely suggests there was no controversy about the claim that he could have buried Jesus. 
+
+This suggestion is perhaps strengthened by a small mismatch between the burial and empty tomb scenes - 
+in the latter the young man urges the women to
+
+> "... see the place where **they** laid him."
+
+This plural "they" contradicts with the presentation of a single person responsible for the burial in Mark 15:
+
+> **Joseph** bought a linen shroud, and taking him down, wrapped him in the linen shroud
+and laid him in a tomb that had been cut out of the rock.
+And **he** rolled a stone against the entrance of the tomb.
+
+This could be a hint that the empty tomb scene predated the burial scene,
+or at least a burial scene which relies on Joseph of Arimathea.
+
+The preceding analysis does not imply that he was a made up character - quite the opposite: 
+the stability of his role surely argues there was no controversy about the claim that he could have buried Jesus. 
 John's handling of the burial implies that if there was controversy it was whether:  
 - the other crucified men would be left on their crosses while Jesus is taken down, and 
 - Matthew's addition that Joseph was a disciple of Jesus. 
@@ -246,33 +261,23 @@ Matthew and Luke also seem to have felt the clunkiness -
 at least Matthew reduces the inconsistency and Luke eliminates redundancy by naming the women only once.
 (It is probably oversight that John doesn't include the women witnessing the actual burial in the tomb.)
 
-If the account is treated as a play, 
-with a distinct scene change between the burial and the discovery of the empty tomb, 
+If the account is treated as a play - 
+with a distinct scene change between the burial and the discovery of the empty tomb - 
 then the repetition is less jarring. 
 However, the inconsistency in identifying **Mary the mother of James and of Joses** 
 might be suggestive of an instance of writer fatigue as the author narrator notices 
 that he missed out James in the first repetition and so deliberately leaves out Joses on the second. 
 
 It is worth considering that the apparent clunkiness disappears if the women are completely removed from the scene on the day of crucifixion. 
-This might reflect an earlier draft of the postscript, with Joseph of Arimathea burying Jesus on the Day of Preparation, 
+This might reflect an earlier draft of the postscript, with Jesus being buried on the Day of Preparation, 
 and the women not being introduced until the first day of the week. 
 
 Moreover, it is superfluous to have the young men tell the women to "see where they laid him" 
 when in the burial scene just before we are assured that the women "saw where he was laid." 
+A similar redundancy can be observed in the young man's comment to the women that they 
+"seek Jesus of Nazareth, who was crucified". 
 Again, this would not be surprising if an earlier draft did not introduce the women until the empty tomb scene. 
-
-A similar, though less obvious, inconsistency is found in the young man's admonition to 
-
-> "... see the place where **they** laid him." 
-
-This plural "they" contradicts with the presentation of a single person responsible for the burial in Mark 15.  
-
-> **Joseph** bought a linen shroud, and taking him down, wrapped him in the linen shroud 
-and laid him in a tomb that had been cut out of the rock. 
-And **he** rolled a stone against the entrance of the tomb.
-
-It is consistent, however, with Paul's speech in Acts 13. 
-This is suggestive that the empty tomb scene predated the burial scene, at least as it exists in canonical Mark.  
+On the other hand, these redundancies could be seen as justified for the purpose of dramatization. 
 
 
 ### Other questions
@@ -283,7 +288,7 @@ These are the only times linen is mentioned in Mark
 (or any fabric apart from John's camel hair coat and leather belt). 
 It is hard not to believe that there is some connection between these two, 
 especially if one takes into account that there is also an anonymous young man in the empty tomb scene. 
-Moreover, the linen shroud feels like Chekhov's rifle - 
+Moreover, the linen shroud feels like Chekhov's gun - 
 surely there is an implicit stage direction that when the young man is telling the women to "see where they laid him" 
 he is also gesturing towards an empty linen shroud. 
 It is easy to imagine that this was the origin of the explicit finding of the burial cloths 
