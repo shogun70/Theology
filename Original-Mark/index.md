@@ -49,8 +49,8 @@ Two suggestions are offered:
     When instead - by the year 70 - Rome had crushed the Judean revolt, overrun Jerusalem and destroyed the temple 
     some christians must have felt as though their script had been torn up.  
     Another Caesar, another triumph. Pax Romana. Peace through the sword. The gospel of Caesar is just getting started.  
-    With Mark able to present the Passion week as largely a story of the temple against Jesus (and against God) 
-    - and with Rome in fact being manipulated by the Jewish leaders -
+    With Mark able to present the Passion week as largely a story of the temple against Jesus (and against God) - 
+    and with Rome in fact being manipulated by the Jewish leaders -
     this could have assured the community that actually things were on track. 
     With one opponent defeated, the other will surely either confess Jesus is God's true son or be swept aside in due course.
     (Maybe there was also hope that Jews would join christianity as they were told that God had clearly condemned the alternative.) 
@@ -98,11 +98,9 @@ Even if this story predated the composition of Mark
 one would strongly expect that there would be some detail regarding these female disciples from Galilee when Jesus was in Galilee 
 (an omission finally addressed by Luke 8:1-3)
 and that these women might be mentioned during the crucifixion procession (somewhat addressed in Luke 23:27)
-or at least while Jesus is dying (fixed in John 19:25).
-Thus, it seems clear that in Mark these women are introduced, not because they are followers 
-but precisely so some minor (or even hitherto unknown) characters can find the empty tomb.  
+or at least while Jesus is dying (fixed in John 19:25). 
 
-There is a possible anomaly regarding the frequent and inconsistent repetition of the named women. 
+There is an anomaly regarding the frequent and inconsistent repetition of the named women. 
 
 > There were also women looking on from a distance,
 among whom were **Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome**.
@@ -123,12 +121,14 @@ If the account is treated as a play -
 with a distinct scene change between the burial and the discovery of the empty tomb -
 then the repetition is less jarring.
 However, the inconsistency in identifying **Mary the mother of James and of Joses**
+combined with the omission of Salome one time 
 might be suggestive of an instance of writer fatigue as the author narrator notices
 that he missed out James in the first repetition and so deliberately leaves out Joses on the second.
 
 It is worth considering that the apparent clunkiness disappears if the women are completely removed from the scene on the day of crucifixion.
 This might reflect an earlier draft of the postscript, with Jesus being buried on the Day of Preparation,
-and the women not being introduced until the first day of the week.
+and the women not being introduced until the first day of the week 
+and thus only named once. 
 
 Along the same lines, it is superfluous to have the young men tell the women to "see where they laid him"
 when in the burial scene just before we are assured that the women "saw where he was laid."
@@ -153,7 +153,7 @@ Being supposedly a prominent member of the Council (the same council which conde
 he would have been ideally placed to confirm that the tomb in which he placed Jesus was indeed empty. 
 It seems that when this ending to Mark was written it was convenient that the empty tomb was a women's secret. 
 While it could be argued that this is consistent with the theme of the Messianic Secret, 
-it does match what we would expect if the ending was designed for plausible consistency 
+it does match what we would expect if the ending was designed not to blatantly contradict 
 with the contemporary model of post-crucifixion events. 
 
 Unlike the women, Joseph of Arimathea's role is extraordinarily stable in all the canonical gospels. 
@@ -188,7 +188,7 @@ If we order these accounts of Jesus's burial from generic to specific we see:
 This usage is suggestive - to this essayist at least - 
 that Joseph of Arimathea is incorporated into the accounts only when he becomes convenient to the story. 
 
-This suggestion is perhaps strengthened by a small mismatch between the burial and empty tomb scenes - 
+This suggestion is perhaps strengthened by a small mismatch between Mark's burial and empty tomb scenes - 
 in the latter the young man urges the women to
 
 > "... see the place where **they** laid him."
@@ -235,8 +235,11 @@ Four explanations are proposed:
 
 ### Timeline considerations.
 
-Jesus is crucified on the Day of Preparation before the Sabbath, however this information is not disclosed until after his death and the story needs to justify a quick burial. 
-On the other hand, Jesus dies at around 3PM (the ninth hour) which possibly allows time for the burial arrangements and this information does precede the proposed original ending. 
+Jesus is crucified on the Day of Preparation before the Sabbath, 
+however this information is not disclosed until after his death and the story needs to justify a quick burial. 
+On the other hand, Jesus dies at around 3PM (the ninth hour) 
+which possibly allows time for the burial arrangements; 
+and this information does precede the proposed original ending. 
 
 It should be noted that there is a strong continuity in the timestamps of the day:
 - Jesus is brought to Pilate "as soon as it was morning";  
@@ -279,7 +282,7 @@ Is that likely if in fact the **named** women who buy spices and find the empty 
 ### Other questions
 
 Joseph of Arimathea wraps Jesus in a linen shroud. 
-The young man fleeing the arrest scene is wearing a linen cloth, and it is taken from him. 
+The young man fleeing the arrest scene is wearing a linen cloth; and it is taken from him. 
 These are the only times linen is mentioned in Mark 
 (or any fabric apart from John's camel hair coat and leather belt). 
 It is hard not to believe that there is some connection between these two, 
