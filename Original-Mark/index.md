@@ -40,9 +40,9 @@ Was it that it addressed a crisis of faith in late first century christianity?
 Two suggestions are offered: 
 1. With the first generation of christians dead, there was no-one around to claim "I saw the risen Jesus"
     or even "I knew one of the disciples - you could tell he was sincere about the resurrection."
-    For sure there would have been stories about resurrection encounters - perhaps like the disciples on the road to Emmaus. 
+    For sure there were stories about resurrection encounters - perhaps like the disciples on the road to Emmaus. 
     But perhaps these stories were beginning to sound like hallucinations or even cleverly invented tales (c.f. 2 Peter 1:16).
-    Seeing how essential the empty tomb is to later gospels and apologetics, it seems reasonable that this account 
+    Knowing how essential the empty tomb is to later gospels and apologetics, it seems reasonable that this account 
     gave christian communities a defense against fears and critiques that their belief was based more-or-less on ghost stories.
 2. In the year 64, when Nero was blaming christians for the fire in Rome, and then persecuting them (perhaps even executing Peter and Paul), 
     the community must have been thinking that surely God's judgement of Rome and Jesus's return as ruler must be imminent. 
@@ -724,7 +724,7 @@ we have multi-million dollar movies with plot holes big enough to let a T-Rex es
 
 1. The non-anonymous women who watch the crucifixion, observe the burial, and find the tomb empty, 
     are named three times, and this naming is inconsistent. It feels clumsy and later gospel authors seek to "fix" it. 
-    This clunkiness disappears if the women are simply announced in the empty tomb scene. 
+    This clunkiness disappears if the women are simply announced the once in the empty tomb scene. 
     Moreover, the young man redundantly tells the women to see where Jesus was laid 
     even though in the burial scene they already had seen where he was laid.  
     **Postulate 1:** The women were added to the burial scene in one of the revisions.  
@@ -747,8 +747,8 @@ we have multi-million dollar movies with plot holes big enough to let a T-Rex es
     If they weren't told this at the empty tomb, then maybe Jesus didn't say it at the last Supper. 
     The Last Supper scene flows better without this short postfix.  
     **Postulate 5:** In the original Last Supper scene Jesus did not tell his disciples that after he had risen he would go ahead of them to Galilee.
-6. In the burial scene we find out that it is the Day of Preparation for the Sabbath. 
-    Importantly this will require Jesus's body to be taken down from the cross. 
+6. In the burial scene (and not before) we find out that it is the Day of Preparation for the Sabbath. 
+    According to the script this provides motivation for Jesus's body to be taken down from the cross. 
     This seems too convenient: 
     if the Jewish authorities were ok to arrest and try Jesus and have Pilate order his execution all on the Passover, 
     it hardly seems plausible that they will have qualms about a regular Sabbath. 
