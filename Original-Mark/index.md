@@ -53,7 +53,7 @@ Two suggestions are offered:
     and with Rome in fact being manipulated by the Jewish leaders -
     this could have assured the community that actually things were on track. 
     With one opponent defeated, the other will surely either confess Jesus is God's true son or be swept aside in due course.
-    (Maybe there was also hope that Jews would join christianity as they were told that God had clearly condemned the alternative.) 
+    (Maybe there was also hope that Jews would join christianity as they were told that God had clearly judged the alternative.) 
 
 
 ## Mark 15:40 - 16:8: A postscript?
@@ -622,11 +622,12 @@ At the very least this pericopae demonstrates that stories about resurrection di
 It is perhaps also indicative that the concept of resurrection was amorphous - maybe even flexible - in first century Judeo-Christian communities.
 c.f. Josephus's descriptions of the range of Jewish belief's about the afterlife and the possible hints at transmigration or reincarnation. **[citation needed]**  
 
-Certainly it isn't until Luke that we get a flesh-and-blood resurrected Jesus, 
+Certainly it isn't until Luke that we get a flesh-and-blood resurrected Jesus,
+(or should we call it a heavenly-body, earthly-body fusion?)
 and Luke still has the ambiguous account of the stranger on the road to Emmaus 
 and, of course, the terse "appeared to Simon". 
 
-By the time John's gospel is written it seems that christians are being pressured to get on board with this flesh-and-blood resurrection. 
+By the time John's gospel is written it almost seems that christians are being pressured to get on board with this flesh-and-blood resurrection. 
 
 > Now Thomas ... was not with them when Jesus came. So the other disciples told him,  
 > “We have seen the Lord.”  
