@@ -239,11 +239,15 @@ Four explanations are proposed:
 
 ### Timeline considerations.
 
+#### Day of Preparation 
+
 Jesus is crucified on the Day of Preparation before the Sabbath, 
 however this information is not disclosed until after his death and the story needs to justify a quick burial. 
 On the other hand, Jesus dies at around 3PM (the ninth hour) 
 which possibly allows time for the burial arrangements; 
 and this information does precede the proposed original ending. 
+
+#### Regular timestamps
 
 It should be noted that there is a strong continuity in the timestamps of the day:
 - Jesus is brought to Pilate "as soon as it was morning";  
@@ -256,9 +260,13 @@ Once you see the pattern it is hard not to think that the timestamps were delibe
 This doesn't rule out the speculated postscript, 
 but it would probably require also speculating some (minor) reworking of the entire Mark 15.
 
+#### "After three days"
+
 Jesus is buried on the day before the Sabbath, but the women visit the tomb on the day after, meaning the second day. 
-Yet the liturgy from 1 Corinthians 15 and several predictions in Mark say the resurrection is on (or after) the third day.
+Yet the liturgy from 1 Corinthians 15 and several predictions in Mark say the resurrection is on (or after) the third day. 
 (This contradiction isn't fixed until John.)
+
+#### Anointing the body for burial
 
 The women's reason to visit the tomb is to anoint the body but that seems implausible - you anoint the body before burial -
 a detail resolved in Matthew by not mentioning it, and in John by having Joseph of Arimathea and Nicodemus perform it. 
@@ -285,6 +293,8 @@ Is that likely if in fact the **named** women who buy spices and find the empty 
 
 ### Other questions
 
+#### The young man wearing a linen cloth
+
 Joseph of Arimathea wraps Jesus in a linen cloth (typically translated shroud). 
 The young man fleeing the arrest scene is wearing a linen cloth; and it is taken from him. 
 These are the only times linen is mentioned in Mark 
@@ -297,14 +307,27 @@ he is also gesturing towards an empty linen shroud.
 It is easy to imagine that this stage direction was the origin of the explicit finding of the burial cloths 
 by Peter (Luke 24:12) and John (John 20:4). 
 
-In Mark 16 it is implied that both the women and the young man had heard Jesus say that he would go before them to Galilee.
-Yet in the Last Supper scene - where Jesus says this - we don't hear about either party. 
-Harmonising this requires that either:
+#### "I will go before you to Galilee"
 
+In Mark 16:7 it is implied that both the women and the young man had heard Jesus say that he would go before them to Galilee.
+Yet when Jesus does say this - at the Last Supper or while leaving it - we don't hear about either party.
+In fact, neither the women nor the young man have even been introduced.  
+
+Matthew - perhaps seeking to address this potential confusion -
+has an angel (instead of the young man) say "There you will see him. **See, I have told you**."
+
+I guess an angel can be presumed to know Jesus's movements without being at the Last Supper. 
+And perhaps - as has been suggested **[citation needed]** - 
+the young man is meant to be an angel, or at least the omniscient narrator. 
+
+But how can the women be meant to already know? A few suggestions are offered: 
+
+- the women didn't know but the young man is really reminding the audience of Jesus's words. 
+- the women didn't know and this was just an oversight by the author. 
 - the audience understands that Jesus made this pronouncement at other unmentioned times, or 
-- there were other anonymous disciples at the Last Supper.  
+- the women were at the Last Supper (and maybe the young man was too).  
 
-This second option is actually plausible, see Mark 14:12-20. 
+Arguably this last option is plausible, see Mark 14:12-20. 
 
 > ... his disciples said to him,  
 > “Where will you have us go and prepare for you to eat the Passover?”  
@@ -317,23 +340,46 @@ This second option is actually plausible, see Mark 14:12-20.
 > ...  
 > He said to them, “It is one of the twelve, one who is dipping bread into the dish with me.”
 
-Assuming this second option does raise other questions though, e.g. 
-if the women had heard Jesus's prediction and had just heard that it was fulfilled - 
+In a dramatization of this scene there will be an implicit stage direction 
+that the women (and young man) are present when Jesus makes his pronouncement about going to Galilee. 
+
+Assuming this does raise other questions though, e.g. 
+if the women had heard Jesus's prediction in front of the Twelve, and had just heard that it was fulfilled - 
 and perhaps knew the young man (if he was at the Last Supper) - 
 why do they run away and tell no-one? 
-Their behavior wouldn't be a surprise though if, say, in the early evolution of the scene 
-the women simply came to a tomb and found it open and empty.  
 
-One last possible discrepancy:  
+Perhaps the young man's directive to go to Galilee is really just a reminder to the audience 
+that the Galilee is the setting for the resurrection encounter re-enactments? 
+
+#### The disciples and Peter
+
 Benard Muller has pointed out that the young man's instruction to "go, tell his disciples and Peter"
-is not consistent with the rest of Mark, 
-but is a decent match for the 1 Corinthians 15 liturgy 
-where Christ "appeared to Cephas, then to the Twelve." 
-Is this a hint that it formed from a different tradition? 
+is not consistent with the rest of Mark,
+but is a decent match for the 1 Corinthians 15 liturgy
+where Christ "appeared to Cephas, then to the Twelve."
+Is this a hint that it formed from a different tradition?
 The counter to this would be that it could have been intentionally phrased so as
-to differentiate Peter as the most faithful - being the last to desert Jesus - 
-and / or providing a special message of restoration from his shame of denying Jesus at the end. 
+to differentiate Peter as the most faithful - being the last to desert Jesus -
+and / or providing a special message of restoration from his shame of denying Jesus at the end.
 
+#### The location of appearances
+
+Is it significant that the prediction that it is in Galilee "you will see him" seems to include the women? 
+Could this reflect some memory that the women were amongst the first to experience the risen Jesus in Galilee? 
+
+No matter; based on Mark we would assume that all the resurrection appearances were in Galilee.  
+But then, in Matthew, the women actually meet Jesus at the tomb, before the disciples see him in Galilee.  
+Finally, in Luke and John, the disciples (and Mary Magdalene in John) only meet Jesus in (or near) Jerusalem. 
+
+Excluding the obvious postscript of John 21 it would seem that, starting in Mark, 
+Jerusalem gradually but completely replaces Galilee in resurrection encounters. 
+
+Could this be a hint that - as some have suggested **[citation needed]** - 
+Mark appropriated the Galilean resurrection stories within his main account? 
+
+Alternatively - with the new-found significance of the empty-tomb in resurrection apologetics - 
+it should not be surprising that Jerusalem based resurrection legends were now readily received,
+e.g. the resurrected saints in Matthew 27:52-53. 
 
 ### Stylistic consistency
 
@@ -501,7 +547,7 @@ doesn't break the flow of the text whether it is included or left out - it isn't
 regarding the disciples falling away - but doesn't address the resurrection prediction at all - 
 even though that also seems to include him. )
 
-There is also the inference in Jesus's words in the last Supper that Jesus will drink wine in the kingdom of God, 
+There is also the inference in Jesus's words in the Last Supper that Jesus will drink wine in the kingdom of God, 
 although arguably this is just creative rewriting of 1 Corinthians 10:23-26. 
 
 
@@ -749,7 +795,7 @@ we have multi-million dollar movies with plot holes big enough to let a T-Rex es
     then he was a theatrical device as was the linen cloth / shroud. Given this, his anonymity is unsurprising.  
     **Postulate 4:** In the earliest revisions there was no young man and no linen cloth / shroud.
 5. If there is no young man then there is no-one to tell the women to go to Galilee to see the risen Jesus. 
-    If they weren't told this at the empty tomb, then maybe Jesus didn't say it at the last Supper. 
+    If they weren't told this at the empty tomb, then maybe Jesus didn't say it at the Last Supper. 
     The Last Supper scene flows better without this short postfix.  
     **Postulate 5:** In the original Last Supper scene Jesus did not tell his disciples that after he had risen he would go ahead of them to Galilee.
 6. In the burial scene (and not before) we find out that it is the Day of Preparation for the Sabbath. 
