@@ -293,7 +293,7 @@ Is that likely if in fact the **named** women who buy spices and find the empty 
 
 ### Other questions
 
-#### The young man wearing a linen cloth
+#### The linen cloth
 
 Joseph of Arimathea wraps Jesus in a linen cloth (typically translated shroud). 
 The young man fleeing the arrest scene is wearing a linen cloth; and it is taken from him. 
@@ -374,17 +374,18 @@ Finally, in Luke and John, the disciples (and Mary Magdalene in John) only meet 
 Excluding the obvious postscript of John 21 it would seem that, starting in Mark, 
 Jerusalem gradually but completely replaces Galilee in resurrection encounters. 
 
-Could this be a hint that - as some have suggested **[citation needed]** - 
-Mark appropriated the Galilean resurrection stories within his main account? 
+Could this be a hint - as some have suggested **[citation needed]** - 
+that Mark appropriated the Galilean resurrection stories within his main account? 
 
 Alternatively - with the new-found significance of the empty-tomb in resurrection apologetics - 
 it should not be surprising that Jerusalem based resurrection legends were now readily received,
 e.g. the resurrected saints in Matthew 27:52-53. 
 
+
 ### Stylistic consistency
 
 The preceding exploration not-with-standing, 
-reading or imagining the postscript does feel stylistically consistent, with vivid scenes, dualisms,
+when reading or imagining the postscript it does feel stylistically consistent, with vivid scenes, dualisms,
 frequent use of "and" to join sentences. 
 It is easy to imagine the same author is also responsible.
 
@@ -571,7 +572,8 @@ But I tell you that Elijah has come, and they did to him whatever they pleased, 
 
 If any of canonical Mark is reminiscent of Papias's "unordered" Mark it is this passage. 
 Is the prediction of some standing there seeing the kingdom of God coming in power immediately fulfilled in the transfiguration? Surely that doesn't make sense dramatically. 
-Is the transfiguration meant to be a proof for Peter, James, and John (and the audience) that the future is guaranteed? c.f. 2 Peter 1:17,18 
+Is the transfiguration meant to be a proof for Peter, James, and John (and the audience) that the future is guaranteed? c.f. 2 Peter 1:17,18  
+
 Why are James and John in Mark 10 so forward about wanting status when it seems they have already been given it? 
 Or could it be that this story began as a resurrection account as in Matthew 28:16 and was repurposed to be used into the main story? 
 Certainly Matthew sees fit to have both the transfiguration and the great commissioning which presumably occurred on the same Holy mountain. 
@@ -586,9 +588,10 @@ with canonical Mark's ambiguous ending.
 
 Jesus not only predicts his own death and resurrection, but also the desertion of his disciples.
 But implied in the predictions is that they aren't going to be left in their hopelessness.  
+
 Of course, the audience could be expected to be familiar with the disciples continued role in the spreading of the Good News,
 but did the author know how he was going to confirm those inferences when he included the predictions?
-Perhaps the author was anticipating using a resurrection story which included the disciples -  
+Perhaps the author was anticipating using a resurrection story which included the disciples - 
 for example Jesus walking on the water, or even the transfiguration where Jesus is declared the Son of God.
 **[citation needed]**
 
@@ -788,13 +791,13 @@ we have multi-million dollar movies with plot holes big enough to let a T-Rex es
     **Postulate 2:** In one of the revisions Joseph of Arimathea is swapped in for anonymous Jewish leaders 
     (who would have buried all the crucified men as implied in John). 
 3. The arresting committee in the Garden of Gethsemane bizarrely chases an anonymous young man, and takes his linen cloth. 
-    This incident doesn't flow with its context, and a linen cloth is needed for the burial scene.  
+    This incident doesn't flow with its context, and the burial scene - without Joseph of Arimathea - needs his linen cloth.  
     **Postulate 3:** In an earlier revision, the incident of the mob chasing the young man in a linen cloth 
     is incorporated into the burial scene and not the arrest scene.  
 4. If the young man and his linen cloth was removed from the burial scene when Joseph of Arimathea was inserted, 
     then he was a theatrical device as was the linen cloth / shroud. Given this, his anonymity is unsurprising.  
     **Postulate 4:** In the earliest revisions there was no young man and no linen cloth / shroud.
-5. If there is no young man then there is no-one to tell the women to go to Galilee to see the risen Jesus. 
+5. If there is no young man at the empty-tomb then there is no-one to tell the women to go to Galilee to see the risen Jesus. 
     If they weren't told this at the empty tomb, then maybe Jesus didn't say it at the Last Supper. 
     The Last Supper scene flows better without this short postfix.  
     **Postulate 5:** In the original Last Supper scene Jesus did not tell his disciples that after he had risen he would go ahead of them to Galilee.
