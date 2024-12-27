@@ -130,7 +130,7 @@ This might reflect an earlier draft of the postscript, with Jesus being buried o
 and the women not being introduced until the first day of the week 
 and thus only named once. 
 
-Along the same lines, it is superfluous to have the young men tell the women to "see where they laid him"
+Along the same lines, it is superfluous to have the young men tell the women to "see the place where they laid him"
 when in the burial scene just before we are assured that the women "saw where he was laid."
 A similar redundancy can be observed in the young man's comment to the women that they
 "seek Jesus of Nazareth, who was crucified".
@@ -201,8 +201,11 @@ And **he** rolled a stone against the entrance of the tomb.
 
 This could be a hint that the empty tomb scene predated the burial scene,
 or at least a burial scene which relies on Joseph of Arimathea.
+(While it is possible that "they laid him" is more-or-less a turn of phrase, 
+it should also be noted that Matthew changes this direction to "see the place where he lay!" 
+and Luke removes it completely.)
 
-The preceding analysis does not imply that he was a made up character - quite the opposite: 
+The preceding analysis does not imply that Joseph was not a historical person - quite the opposite: 
 the stability of his role surely argues there was no controversy about the claim that he could have buried Jesus. 
 John's handling of the burial implies that if there was controversy it was whether:  
 - the other crucified men would be left on their crosses while Jesus is taken down, and 
@@ -282,16 +285,16 @@ Is that likely if in fact the **named** women who buy spices and find the empty 
 
 ### Other questions
 
-Joseph of Arimathea wraps Jesus in a linen shroud. 
+Joseph of Arimathea wraps Jesus in a linen cloth (typically translated shroud). 
 The young man fleeing the arrest scene is wearing a linen cloth; and it is taken from him. 
 These are the only times linen is mentioned in Mark 
 (or any fabric apart from John's camel hair coat and leather belt). 
 It is hard not to believe that there is some connection between these two, 
 especially if one takes into account that there is also an anonymous young man in the empty tomb scene. 
 Moreover, the linen shroud feels like Chekhov's gun - 
-surely there is an implicit stage direction that when the young man is telling the women to "see where they laid him" 
+surely there is an implicit stage direction that when the young man is telling the women to "see the place where they laid him" 
 he is also gesturing towards an empty linen shroud. 
-It is easy to imagine that this was the origin of the explicit finding of the burial cloths 
+It is easy to imagine that this stage direction was the origin of the explicit finding of the burial cloths 
 by Peter (Luke 24:12) and John (John 20:4). 
 
 In Mark 16 it is implied that both the women and the young man had heard Jesus say that he would go before them to Galilee.
@@ -949,4 +952,6 @@ its addition may well have been accompanied by some revision of the previous gos
     [The ascension in the epistle of Barnabas.](https://earlywritings.com/forum/viewtopic.php?t=1805)
 - Robert Stein on the Transfiguration  
     [Is the transfiguration a misplaced resurrection account?](https://biblicalstudies.org.uk/pdf/jbl/1976_stein.pdf)
+- Bratcher and Nida suggest the young man's "they laid him" is the impersonal plural.
+    [Translation commentary on Mark 16:6](https://demo-tips.translation.bible/story/translation-commentary-on-mark-166/)
 
