@@ -365,7 +365,7 @@ and / or providing a special message of restoration from his shame of denying Je
 #### The location of appearances
 
 Is it significant that the prediction that it is in Galilee "you will see him" seems to include the women? 
-Could this reflect some memory that the women were amongst the first to experience the risen Jesus in Galilee? 
+Could this reflect some memory that the women were amongst the first to experience the risen Jesus in Galilee?
 
 No matter; based on Mark we would assume that all the resurrection appearances were in Galilee.  
 But then, in Matthew, the women actually meet Jesus at the tomb, before the disciples see him in Galilee.  
@@ -385,10 +385,25 @@ e.g. the resurrected saints in Matthew 27:52-53.
 ### Stylistic consistency
 
 The preceding exploration not-with-standing, 
-when reading or imagining the postscript it does feel stylistically consistent, with vivid scenes, dualisms,
+when reading or imagining the "postscript" it does feel stylistically consistent, with vivid scenes, dualisms,
 frequent use of "and" to join sentences. 
 It is easy to imagine the same author is also responsible.
 
+There is one possible mismatch in the term for corpse between Mark 15:43 where Joseph of Arimathea
+"went to Pilate and asked for the **body** of Jesus",
+and the toing-and-froing in Mark 15:44-45 where Pilate - after confirming Jesus has died -
+"granted the **corpse** to Joseph."
+This could be a hint at a more primitive version of the scene where
+the burying of Jesus on the day of crucifixion wasn't being justified.
+
+Neither Matthew nor Luke even have this interaction but John does have a vaguely similar account
+with both Pilate and a soldier being involved in verifying Jesus was dead.
+
+This seems like an important detail - especially since John also includes something like it -
+so it is hard to explain Matthew and Luke leaving it out if it was in their copies of Mark.
+We could propose that it got added late,
+but this raises the question of why it seems to be in all our copies. 
+Intriguingly this would imply that the centurion initially had no role in the post-crucifixion accounts. 
 
 ## Predictions of death and resurrection.
 
@@ -782,26 +797,31 @@ we have multi-million dollar movies with plot holes big enough to let a T-Rex es
     Moreover, the young man redundantly tells the women to see where Jesus was laid 
     even though in the burial scene they already had seen where he was laid.  
     **Postulate 1:** The women were added to the burial scene in one of the revisions.  
-2. The burial is performed by Joseph of Arimathea, and **he** (singular) rolls a stone in front of the tomb. 
+2. Joseph of Arimathea asks Pilate for the **body** of Jesus,  
+    but after confirming (via the centurion) that Jesus was actually dead, Pilate grants him the **corpse**. 
+    A related account appears in John, but there is no matching detail in Matthew or Luke. 
+    **Postulate 2:** A very late revision introduces the verification that Jesus was actually dead on the day of crucifixion.
+    This is the only time the centurion is included in the postscript. 
+3. The burial is performed by Joseph of Arimathea, and **he** (singular) rolls a stone in front of the tomb. 
     Yet the young man at the tomb tells the women to see where **they** (plural) laid Jesus's body. 
     This plural is consistent with Acts 13:29 where anonymous Jewish leaders bury Jesus. 
     It is also consistent with what would we expect - 
     if the concern is about leaving bodies up on the Sabbath then all of them would be taken down 
     and it wouldn't be a one-man task.  
-    **Postulate 2:** In one of the revisions Joseph of Arimathea is swapped in for anonymous Jewish leaders 
+    **Postulate 3:** In one of the revisions Joseph of Arimathea is swapped in for anonymous Jewish leaders 
     (who would have buried all the crucified men as implied in John). 
-3. The arresting committee in the Garden of Gethsemane bizarrely chases an anonymous young man, and takes his linen cloth. 
+4. The arresting committee in the Garden of Gethsemane bizarrely chases an anonymous young man, and takes his linen cloth. 
     This incident doesn't flow with its context, and the burial scene - without Joseph of Arimathea - needs his linen cloth.  
-    **Postulate 3:** In an earlier revision, the incident of the mob chasing the young man in a linen cloth 
+    **Postulate 4:** In an earlier revision, the incident of the mob chasing the young man in a linen cloth 
     is incorporated into the burial scene and not the arrest scene.  
-4. If the young man and his linen cloth was removed from the burial scene when Joseph of Arimathea was inserted, 
+5. If the young man and his linen cloth was removed from the burial scene when Joseph of Arimathea was inserted, 
     then he was a theatrical device as was the linen cloth / shroud. Given this, his anonymity is unsurprising.  
-    **Postulate 4:** In the earliest revisions there was no young man and no linen cloth / shroud.
-5. If there is no young man at the empty-tomb then there is no-one to tell the women to go to Galilee to see the risen Jesus. 
+    **Postulate 5:** In the earliest revisions there was no young man and no linen cloth / shroud.
+6. If there is no young man at the empty-tomb then there is no-one to tell the women to go to Galilee to see the risen Jesus. 
     If they weren't told this at the empty tomb, then maybe Jesus didn't say it at the Last Supper. 
     The Last Supper scene flows better without this short postfix.  
-    **Postulate 5:** In the original Last Supper scene Jesus did not tell his disciples that after he had risen he would go ahead of them to Galilee.
-6. In the burial scene (and not before) we find out that it is the Day of Preparation for the Sabbath. 
+    **Postulate 6:** In the original Last Supper scene Jesus did not tell his disciples that after he had risen he would go ahead of them to Galilee.
+7. In the burial scene (and not before) we find out that it is the Day of Preparation for the Sabbath. 
     According to the script this provides motivation for Jesus's body to be taken down from the cross. 
     This seems too convenient: 
     if the Jewish authorities were ok to arrest and try Jesus and have Pilate order his execution all on the Passover, 
@@ -811,13 +831,13 @@ we have multi-million dollar movies with plot holes big enough to let a T-Rex es
     then those two scenes were decoupled at first which implies one was added later.  
     Since almost all the identified anomalies seem to have the purpose of authenticating that Jesus's body went missing, 
     it seems reasonable to infer that the burial scene was added for this purpose too.  
-    **Postulate 6:** The burial scene was added in one of the (early) revisions. 
-7. In the anointing at Bethany, it seems implausible that where-ever the gospel is told this anonymous women would be honored if 
+    **Postulate 7:** The burial scene was added in one of the (early) revisions. 
+8. In the anointing at Bethany, it seems implausible that where-ever the gospel is told this anonymous women would be honored if 
     there were known stories of the **named** women who intended to anoint Jesus body 
     and instead found what would become important evidence for the resurrection.  
-    **Postulate 7a:** The women buying spices to anoint Jesus body was added in a revision.  
-    **Postulate 7b:** In the earliest revision the women at the tomb were not named.  
-    **Postulate 7c:** In the original version of Mark there was no empty tomb scene.  
+    **Postulate 8a:** The women buying spices to anoint Jesus body was added in a revision.  
+    **Postulate 8b:** In the earliest revision the women at the tomb were not named.  
+    **Postulate 8c:** In the original version of Mark there was no empty tomb scene.  
 
 
 ### Stages of development
@@ -881,9 +901,6 @@ and there were also many other women who came up with him to Jerusalem.
 > And when evening had come, since it was the day of Preparation, that is, the day before the Sabbath,
 Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of God,
 took courage and went to Pilate and asked for the body of Jesus.
-Pilate was surprised to hear that he should have already died.
-And summoning the centurion, he asked him whether he was already dead.
-And when he learned from the centurion that he was dead, he granted the corpse to Joseph.
 And Joseph bought a linen shroud, and taking him down, wrapped him in the linen shroud
 and laid him in a tomb that had been cut out of the rock.
 And he rolled a stone against the entrance of the tomb.  
@@ -909,8 +926,8 @@ And they seized him, but he left the linen cloth and ran away naked.
 
 #### Stage 5 - Final
 
-This will be the same as our current form of Mark 15:40-16:8.
-This is the same as the previous stage, except for Mark 16:6-8.
+This will be nearly the same as our current form of Mark 15:40-16:8, merely excluding Mark 15:44-45. 
+This is the same as the previous stage, except for Mark 16:6-8. 
 
 > And he said to them,  
 “Do not be alarmed. You seek Jesus of Nazareth, who was crucified. He has risen; he is not here. See the place where they laid him.
@@ -919,10 +936,19 @@ And they went out and fled from the tomb, for trembling and astonishment had sei
 **and they said nothing to anyone, for they were afraid**.
 
 The matching prediction is added to Mark 14:27-28
+
 > And Jesus said to them, “You will all fall away, for it is written,
 ‘I will strike the shepherd, and the sheep will be scattered.’
 **But after I am raised up, I will go before you to Galilee.**”
 
+#### Stage 6 - Late addition
+
+This is the same as our current form of Mark 15:40-16:8. 
+It finally adds Mark 15:44-45. 
+
+> Pilate was surprised to hear that he should have already died. 
+> And summoning the centurion, he asked him whether he was already dead. 
+> And when he learned from the centurion that he was dead, he granted the corpse to Joseph.
 
 ### Anticipated manuscript evidence
 
@@ -997,6 +1023,8 @@ its addition may well have been accompanied by some revision of the previous gos
     [Bernard Muller's Theological Method](https://theos.org/forum/viewtopic.php?t=1367)
 - Discussion on "after three days" vs "on the third day".
     [Three days and three nights (for Bernard)](https://earlywritings.com/forum/viewtopic.php?p=54918#p54918)
+- Kirk MacGregor finds that the primitive burial and empty-tomb scenes date back to the thirties. 
+    [The ending of the pre-Markan passion narrative](https://journals.co.za/doi/epdf/10.7833/117-1-1352)
 - Interesting discussion on the Epistle of Barnabas hinting resurrection was the 8th day.  
     [The ascension in the epistle of Barnabas.](https://earlywritings.com/forum/viewtopic.php?t=1805)
 - Robert Stein on the Transfiguration  
