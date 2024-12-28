@@ -274,8 +274,8 @@ Is this done in deference to 1 Corinthians 15,
 or an attempt to argue that - with inclusive counting - the day after tomorrow is consistent with the prophecy? 
 No matter; unlike John, they seem to feel locked in to the timeline established by Mark. 
 
-Surprisingly, Matthew has several other instances of "three days" rather than "on the third day", 
-and even both together in the account of posting the guard at the tomb:
+Surprisingly, Matthew has several other instances of "three days" rather than "on the third day".  
+It even has both together in the account of posting the guard at the tomb:
 
 > “Sir, we remember how that impostor said, while he was still alive, 
 > ‘After three days I will rise.’ 
@@ -285,7 +285,8 @@ and even both together in the account of posting the guard at the tomb:
 > 
 > -- <cite>Matthew 27:63-64</cite>
 
-It seems disingenuous to claim that the burial to empty tomb interval matches the liturgy, at least as expressed in Mark. 
+It seems disingenuous to claim that the burial to empty tomb interval matches the liturgy, 
+at least as they are expressed in Mark. 
 
 #### Anointing the body for burial
 
