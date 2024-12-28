@@ -262,9 +262,30 @@ but it would probably require also speculating some (minor) reworking of the ent
 
 #### "After three days"
 
-Jesus is buried on the day before the Sabbath, but the women visit the tomb on the day after, meaning the second day. 
-Yet the liturgy from 1 Corinthians 15 and several predictions in Mark say the resurrection is on (or after) the third day. 
-(This contradiction isn't fixed until John.)
+Jesus is buried on the day of preparation for the Sabbath, 
+but the women visit the tomb on the first day of the week, that is, the day after the Sabbath. 
+Thus, the resurrection is discovered on the second day. 
+Yet the liturgy from 1 Corinthians 15 says the resurrection was on the third day, 
+and several predictions in Mark say the resurrection is after three days. 
+This contradiction in timelines isn't fixed until John.
+
+Intriguingly, both Matthew and Luke change all the "after three days" predictions in Mark to "on the third day". 
+Is this done in deference to 1 Corinthians 15, 
+or an attempt to argue that - with inclusive counting - the day after tomorrow is consistent with the prophecy? 
+No matter; unlike John, they seem to feel locked in to the timeline established by Mark. 
+
+Surprisingly, Matthew has several other instances of "three days" rather than "on the third day", 
+and even both together in the account of posting the guard at the tomb:
+
+> “Sir, we remember how that impostor said, while he was still alive, 
+> ‘After three days I will rise.’ 
+> Therefore order the tomb to be made secure until the third day, 
+> lest his disciples go and steal him away and tell the people, 
+> ‘He has risen from the dead’
+> 
+> -- <cite>Matthew 27:63-64</cite>
+
+It seems disingenuous to claim that the burial to empty tomb interval matches the liturgy, at least as expressed in Mark. 
 
 #### Anointing the body for burial
 
@@ -798,17 +819,17 @@ Of course, it must be remembered that without manuscript evidence this is all sp
 Plus, sometimes script-writers just make mistakes - 
 we have multi-million dollar movies with plot holes big enough to let a T-Rex escape through.
 
-1. The non-anonymous women who watch the crucifixion, observe the burial, and find the tomb empty, 
+1. Joseph of Arimathea asks Pilate for the **body** of Jesus,  
+    but after confirming (via the centurion) that Jesus was actually dead, Pilate grants him the **corpse**.
+    A related account appears in John, but there is no matching detail in Matthew or Luke.
+    **Postulate 1:** A very late revision introduces the verification that Jesus was actually dead on the day of crucifixion.
+    This is the only time the centurion is included in the postscript.
+2. The non-anonymous women who watch the crucifixion, observe the burial, and find the tomb empty, 
     are named three times, and this naming is inconsistent. It feels clumsy and later gospel authors seek to "fix" it. 
     This clunkiness disappears if the women are simply announced the once in the empty tomb scene. 
     Moreover, the young man redundantly tells the women to see where Jesus was laid 
     even though in the burial scene they already had seen where he was laid.  
-    **Postulate 1:** The women were added to the burial scene in one of the revisions.  
-2. Joseph of Arimathea asks Pilate for the **body** of Jesus,  
-    but after confirming (via the centurion) that Jesus was actually dead, Pilate grants him the **corpse**. 
-    A related account appears in John, but there is no matching detail in Matthew or Luke. 
-    **Postulate 2:** A very late revision introduces the verification that Jesus was actually dead on the day of crucifixion.
-    This is the only time the centurion is included in the postscript. 
+    **Postulate 2:** The women were added to the burial scene in one of the revisions.  
 3. The burial is performed by Joseph of Arimathea, and **he** (singular) rolls a stone in front of the tomb. 
     Yet the young man at the tomb tells the women to see where **they** (plural) laid Jesus's body. 
     This plural is consistent with Acts 13:29 where anonymous Jewish leaders bury Jesus. 
@@ -828,14 +849,14 @@ we have multi-million dollar movies with plot holes big enough to let a T-Rex es
     If they weren't told this at the empty tomb, then maybe Jesus didn't say it at the Last Supper. 
     The Last Supper scene flows better without this short postfix.  
     **Postulate 6:** In the original Last Supper scene Jesus did not tell his disciples that after he had risen he would go ahead of them to Galilee.
-7. In the burial scene (and not before) we find out that it is the Day of Preparation for the Sabbath. 
+7. If the young man with the linen cloth was initially added as a link between burial and empty tomb scenes  
+    then those two scenes were decoupled at first which implies one was added later.  
+    In the burial scene (and not before) we find out that it is the Day of Preparation for the Sabbath. 
     According to the script this provides motivation for Jesus's body to be taken down from the cross. 
     This seems too convenient: 
     if the Jewish authorities were ok to arrest and try Jesus and have Pilate order his execution all on the Passover, 
     it hardly seems plausible that they will have qualms about a regular Sabbath. 
     The author of the gospel of John at least seems to feel the need to correct this.  
-    If the young man with the linen cloth was initially added as a link between burial and empty tomb scenes  
-    then those two scenes were decoupled at first which implies one was added later.  
     Since almost all the identified anomalies seem to have the purpose of authenticating that Jesus's body went missing, 
     it seems reasonable to infer that the burial scene was added for this purpose too.  
     **Postulate 7:** The burial scene was added in one of the (early) revisions. 
