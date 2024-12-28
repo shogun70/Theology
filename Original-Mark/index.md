@@ -293,7 +293,7 @@ Is that likely if in fact the **named** women who buy spices and find the empty 
 
 ### Other questions
 
-#### The linen cloth
+#### The linen smock
 
 Joseph of Arimathea wraps Jesus in a linen cloth (typically translated shroud). 
 The young man fleeing the arrest scene is wearing a linen cloth; and it is taken from him. 
@@ -306,6 +306,42 @@ surely there is an implicit stage direction that when the young man is telling t
 he is also gesturing towards an empty linen shroud. 
 It is easy to imagine that this stage direction was the origin of the explicit finding of the burial cloths 
 by Peter (Luke 24:12) and John (John 20:4). 
+
+#### Verification of death
+
+There is one possible mismatch in the term for "corpse":
+
+- In Mark 15:43, Joseph of Arimathea "went to Pilate and asked for the **body** of Jesus".
+- After the toing-and-froing in Mark 15:44-45 where Pilate gets confirmation that Jesus has died,
+  he "granted the **corpse** to Joseph."
+
+This could be a hint at a more primitive version of the scene where
+the death of Jesus on the day of crucifixion wasn't being questioned.
+
+Interestingly Mark has one other matching usage of both "body" and "corpse":
+
+- in Mark 6:29, after John the Baptist is executed, his disciples "came and took his **body** and laid it in a tomb".
+- in Mark 9:26, after an exorcism, the boy was "like a **corpse**" so that many thought he was dead.
+
+Neither Matthew nor Luke even have this verification of Jesus's death,
+but John does have a vaguely similar account with both Pilate and a soldier being involved.
+
+This seems like an important detail - especially since John also includes something like it -
+so it is hard to explain Matthew and Luke both leaving it out if it was in their copies of Mark.
+We could propose that it was added late,
+but this raises the question of why it seems to be in all our copies.
+Intriguingly this would imply that the centurion initially had no role in the post-crucifixion script.
+
+#### The disciples and Peter
+
+Benard Muller has pointed out that the young man's instruction to "go, tell his disciples and Peter"
+is not consistent with the rest of Mark,
+but is a decent match for the 1 Corinthians 15 liturgy
+where Christ "appeared to Cephas, then to the Twelve."
+Is this a hint that it formed from a different tradition?
+The counter to this would be that it could have been intentionally phrased so as
+to differentiate Peter as the most faithful - being the last to desert Jesus -
+and / or providing a special message of restoration from his shame of denying Jesus at the end.
 
 #### "I will go before you to Galilee"
 
@@ -351,17 +387,6 @@ why do they run away and tell no-one?
 Perhaps the young man's directive to go to Galilee is really just a reminder to the audience 
 that the Galilee is the setting for the resurrection encounter re-enactments? 
 
-#### The disciples and Peter
-
-Benard Muller has pointed out that the young man's instruction to "go, tell his disciples and Peter"
-is not consistent with the rest of Mark,
-but is a decent match for the 1 Corinthians 15 liturgy
-where Christ "appeared to Cephas, then to the Twelve."
-Is this a hint that it formed from a different tradition?
-The counter to this would be that it could have been intentionally phrased so as
-to differentiate Peter as the most faithful - being the last to desert Jesus -
-and / or providing a special message of restoration from his shame of denying Jesus at the end.
-
 #### The location of appearances
 
 Is it significant that the prediction that it is in Galilee "you will see him" seems to include the women? 
@@ -389,21 +414,6 @@ when reading or imagining the "postscript" it does feel stylistically consistent
 frequent use of "and" to join sentences. 
 It is easy to imagine the same author is also responsible.
 
-There is one possible mismatch in the term for corpse between Mark 15:43 where Joseph of Arimathea
-"went to Pilate and asked for the **body** of Jesus",
-and the toing-and-froing in Mark 15:44-45 where Pilate - after confirming Jesus has died -
-"granted the **corpse** to Joseph."
-This could be a hint at a more primitive version of the scene where
-the burying of Jesus on the day of crucifixion wasn't being justified.
-
-Neither Matthew nor Luke even have this interaction but John does have a vaguely similar account
-with both Pilate and a soldier being involved in verifying Jesus was dead.
-
-This seems like an important detail - especially since John also includes something like it -
-so it is hard to explain Matthew and Luke leaving it out if it was in their copies of Mark.
-We could propose that it got added late,
-but this raises the question of why it seems to be in all our copies. 
-Intriguingly this would imply that the centurion initially had no role in the post-crucifixion accounts. 
 
 ## Predictions of death and resurrection.
 
