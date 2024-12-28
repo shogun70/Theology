@@ -266,8 +266,8 @@ Jesus is buried on the day of preparation for the Sabbath,
 but the women visit the tomb on the first day of the week, that is, the day after the Sabbath. 
 Thus, the resurrection is discovered on the second day. 
 Yet the liturgy from 1 Corinthians 15 says the resurrection was on the third day, 
-and several predictions in Mark say the resurrection is after three days. 
-This contradiction in timelines isn't fixed until John.
+and several predictions in Mark say the resurrection is after three days.
+This seeming contradiction in timelines isn't fixed until John.
 
 Intriguingly, both Matthew and Luke change all the "after three days" predictions in Mark to "on the third day". 
 Is this done in deference to 1 Corinthians 15, 
@@ -275,7 +275,7 @@ or an attempt to argue that - with inclusive counting - the day after tomorrow i
 No matter; unlike John, they seem to feel locked in to the timeline established by Mark. 
 
 Surprisingly, Matthew has several other instances of "three days" rather than "on the third day".  
-It even has both together in the account of posting the guard at the tomb:
+It even has both together, in the account of posting the guard at the tomb:
 
 > “Sir, we remember how that impostor said, while he was still alive, 
 > ‘After three days I will rise.’ 
@@ -285,8 +285,18 @@ It even has both together in the account of posting the guard at the tomb:
 > 
 > -- <cite>Matthew 27:63-64</cite>
 
-It seems disingenuous to claim that the burial to empty tomb interval matches the liturgy, 
-at least as they are expressed in Mark. 
+It seems likely that the contemporary understanding of whatever liturgies there were 
+was "after three days", or "on the third day" with exclusive counting. 
+
+This could be a hint that the burial and / or empty tomb scenes were improvised 
+while forgetting about the liturgical constraints.  
+Given that Matthew, Luke, and John seem to be aware of the mismatch 
+it could be inferred that Mark went viral before people noticed or became concerned about it. 
+
+Alternatively it could be argued that the "three days" in the liturgy was always symbolic 
+and the mismatch points to a lack of design. 
+But if one grants this then it raises the question of 
+why it seemed to become important to match the liturgy and the ending after Mark had gone viral. 
 
 #### Anointing the body for burial
 
@@ -424,6 +434,9 @@ that Mark appropriated the Galilean resurrection stories within his main account
 Alternatively - with the new-found significance of the empty-tomb in resurrection apologetics - 
 it should not be surprising that Jerusalem based resurrection legends were now readily received,
 e.g. the resurrected saints in Matthew 27:52-53. 
+Or that events which had been set in the Galilee are translated to the region of Jerusalem, 
+e.g. the stranger on the road to Emmaus in Luke 24:13-32 could have been set in Galilean Emmaus 
+but Luke concludes it must have been an Emmaus near Jerusalem. 
 
 
 ### Stylistic consistency
@@ -765,14 +778,15 @@ which draws on some of the proto-Mark material
 with the addition that it pits Jesus against the temple (which explains the temple's destruction)
 and ends with a Roman centurion acknowledging that Jesus is a Son of God (a premonition of what will surely happen in the audience's time).
 After a few years the play and some of the other stories from proto-Mark are assembled - perhaps by an acolyte of Mark - 
-into a final written form of "the Good News of Jesus Christ the Son of God".
+into a final written form of "the beginning of the Good News of Jesus Christ the Son of God".
 
 One Passover / Easter there is a novel addition to a performance of the Passion Week plays. 
 Reminiscent of the Graeco-Roman trope of an empty tomb signifying a person has been taken up to the gods, 
 in this scene some anonymous women are going to visit a tomb to mourn and inexplicably find it open. c.f. Robin Faith Walsh **[citation needed]**  
 Perhaps the Passion week play had even been performed as a sequence of short plays in the week before Easter 
-and then the empty tomb scene is really first performed on the first day of the week. 
-The audience - mostly aware of the trope - understands the significance, and it feels like a satisfying epilogue.
+and then the empty tomb scene is really first performed on the first day of the week - the Lord's Day. 
+The audience - mostly aware of the trope - understands the significance, and it feels like a satisfying epilogue. 
+After all, Jesus may not have been a king like Caesar, but he is still a son of God. 
 Conveniently, it also doesn't preclude continuing the non-authoritative plays regarding resurrection encounters of the male disciples. 
 After all, this is just "the beginning of the Good News ...". 
 
