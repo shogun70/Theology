@@ -889,6 +889,8 @@ These are derived by attempting to resolve the purported evolutionary artefacts 
 
 #### Stage 1
 
+The Son of God gets a fitting epilogue. 
+
 > Very early on the first day of the week
 some women who had followed Jesus from Galilee
 went to the tomb where Jesus was buried.
@@ -898,11 +900,15 @@ And they went out and fled from the tomb, for trembling and astonishment had sei
 
 #### Stage 2
 
+Begin to connect the empty-tomb to the crucifixion. 
+Why was Jesus even buried? 
+Why were the women going to the tomb? 
+
 > Since it was the day of Preparation, that is, the day before the Sabbath,  
 the scribes and elders asked Pilate for the bodies of Jesus and the others who had been crucified with him.  
 And taking them down, they laid them in a tomb that had been cut out of the rock.   
 And they rolled a stone against the entrance of the tomb.
->
+> 
 > When the Sabbath was past, Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome, 
 who had followed Jesus from Galilee, 
 bought spices, so that they might go and anoint him.  
@@ -913,6 +919,11 @@ And entering the tomb, they saw the place where he had been laid.
 And they went out and fled from the tomb, for trembling and astonishment had seized them.
 
 #### Stage 3
+
+Introduce the young man in a linen cloth to connect the burial and empty-tomb scenes, 
+and to provide a visual indicator that it was indeed Jesus's body that was missing. 
+This reading sounds pretty ridiculous, comical even, 
+but our canonical account of the young man in the arrest scene is also ridiculous. 
 
 > Since it was the day of Preparation, that is, the day before the Sabbath,  
 the Jewish leaders asked Pilate for the bodies of Jesus and the others who had been crucified with him.  
@@ -935,6 +946,10 @@ He has risen; he is not here. See the linen cloth they wrapped him in.”
 And they went out and fled from the tomb, for trembling and astonishment had seized them.
 
 #### Stage 4
+
+Introduce Joseph of Arimathea in order that only Jesus gets buried in the tomb. 
+Remove the young man in a linen cloth from the burial scene. 
+Add the women to the burial scene so they are aware of the location of the tomb. 
 
 > There were also women looking on from a distance,
 among whom were Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome.
@@ -962,13 +977,14 @@ And he said to them,
 He has risen; he is not here. See the place where they laid him.”  
 And they went out and fled from the tomb, for trembling and astonishment had seized them.
 
-Also, the young man running away is moved to Mark 14:51-52.
+Also, the young man running away is moved to Mark 14:51-52. 
 
 > And a young man followed them, with nothing but a linen cloth about his body.
 And they seized him, but he left the linen cloth and ran away naked.
 
 #### Stage 5 - Final
 
+Connect this ending to the resurrection appearances in Galilee. 
 This will be nearly the same as our current form of Mark 15:40-16:8, merely excluding Mark 15:44-45. 
 This is the same as the previous stage, except for Mark 16:6-8. 
 
@@ -986,12 +1002,14 @@ The matching prediction is added to Mark 14:27-28
 
 #### Stage 6 - Late addition
 
+Add the verification of death. 
 This is the same as our current form of Mark 15:40-16:8. 
 It finally adds Mark 15:44-45. 
 
 > Pilate was surprised to hear that he should have already died. 
 > And summoning the centurion, he asked him whether he was already dead. 
-> And when he learned from the centurion that he was dead, he granted the corpse to Joseph.
+> And when he learned from the centurion that he was dead, 
+> he granted the corpse to Joseph.
 
 ### Anticipated manuscript evidence
 
