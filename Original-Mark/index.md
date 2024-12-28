@@ -309,28 +309,25 @@ by Peter (Luke 24:12) and John (John 20:4).
 
 #### Verification of death
 
-There is one possible mismatch in the term for "corpse":
+There is one possible (but tiny) mismatch when referring to Jesus's "body":
 
-- In Mark 15:43, Joseph of Arimathea "went to Pilate and asked for the **body** of Jesus".
+- In Mark 15:43, Joseph of Arimathea "went to Pilate and asked for the **body** (σῶμα) of Jesus".
 - After the toing-and-froing in Mark 15:44-45 where Pilate gets confirmation that Jesus has died,
-  he "granted the **corpse** to Joseph."
+  he "granted the **corpse** (πτῶμα) to Joseph."
+
+Mark also uses the term "πτῶμα" when referring to John the Baptist's body in Mark 6:29, 
+so it would seem reasonable to ignore this mismatch, 
+except for the finding that neither Matthew nor Luke even have this verification of Jesus's death 
+(although John does have a vaguely similar account with both Pilate and a soldier being involved).
 
 This could be a hint at a more primitive version of the scene where
-the death of Jesus on the day of crucifixion wasn't being questioned.
-
-Interestingly Mark has one other matching usage of both "body" and "corpse":
-
-- in Mark 6:29, after John the Baptist is executed, his disciples "came and took his **body** and laid it in a tomb".
-- in Mark 9:26, after an exorcism, the boy was "like a **corpse**" so that many thought he was dead.
-
-Neither Matthew nor Luke even have this verification of Jesus's death,
-but John does have a vaguely similar account with both Pilate and a soldier being involved.
-
-This seems like an important detail - especially since John also includes something like it -
-so it is hard to explain Matthew and Luke both leaving it out if it was in their copies of Mark.
-We could propose that it was added late,
-but this raises the question of why it seems to be in all our copies.
+the death of Jesus on the day of crucifixion wasn't being questioned.  
 Intriguingly this would imply that the centurion initially had no role in the post-crucifixion script.
+
+But if we grant this proposition then how do we explain both Matthew and Luke leaving out
+what seems like an important detail? 
+We could propose that it was added many years later,  
+but this raises the question of why it seems to be in all our copies of Mark.
 
 #### The disciples and Peter
 
