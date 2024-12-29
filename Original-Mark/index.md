@@ -66,7 +66,8 @@ Joseph of Arimathea, a respected member of the council, who was also himself loo
 took courage and went to Pilate and asked for the body of Jesus. 
 Pilate was surprised to hear that he should have already died. 
 And summoning the centurion, he asked him whether he was already dead. 
-And when he learned from the centurion that he was dead, he granted the corpse to Joseph.  
+And when he learned from the centurion that he was dead, 
+he granted the corpse to Joseph.  
 And Joseph bought a linen shroud, and taking him down, 
 wrapped him in the linen shroud and laid him in a tomb that had been cut out of the rock. 
 And he rolled a stone against the entrance of the tomb. 
@@ -349,11 +350,22 @@ There is one possible (but tiny) mismatch when referring to Jesus's "body":
 
 Mark also uses the term "πτῶμα" when referring to John the Baptist's body in Mark 6:29, 
 so it would seem reasonable to ignore this mismatch, 
-except for the finding that neither Matthew nor Luke even have this verification of Jesus's death 
+except for the finding that neither Matthew nor Luke even have this Roman verification of Jesus's death 
 (although John does have a vaguely similar account with both Pilate and a soldier being involved).
 
-This could be a hint at a more primitive version of the scene where
-the death of Jesus on the day of crucifixion wasn't being questioned.  
+Focussing on the rest of the text of this incident it seems perhaps extraordinarily repetitive:
+
+> Pilate was surprised to hear that he should have already died.
+And summoning the centurion, he asked him whether he was already dead.
+And when he learned from the centurion that he was dead,
+he granted the corpse to Joseph.
+> 
+> -- <cite>Mark 15:44-45</cite>
+
+Is that too repetitive, even for Mark? Who can say? Moving on...  
+
+These mismatches could be a hint at a more primitive version of the scene where 
+the death of Jesus on the day of crucifixion wasn't being questioned. 
 Intriguingly this would imply that the centurion initially had no role in the post-crucifixion script.
 
 But if we grant this proposition then how do we explain both Matthew and Luke leaving out
@@ -834,10 +846,11 @@ Of course, it must be remembered that without manuscript evidence this is all sp
 Plus, sometimes script-writers just make mistakes - 
 we have multi-million dollar movies with plot holes big enough to let a T-Rex escape through.
 
-1. Joseph of Arimathea asks Pilate for the **body** of Jesus,  
+1. Joseph of Arimathea asks Pilate for the **body** of Jesus, 
     but after confirming (via the centurion) that Jesus was actually dead, Pilate grants him the **corpse**.
-    A related account appears in John, but there is no matching detail in Matthew or Luke.
-    **Postulate 1:** A very late revision introduces the verification that Jesus was actually dead on the day of crucifixion.
+    A related account appears in John, but there is no matching detail in Matthew or Luke.  
+    **Postulate 1:** A very late revision introduces the incident of Pilate's query and the centurion's confirmation of death, 
+    presumably in response to some swoon theory controversy. 
     This is the only time the centurion is included in the postscript.
 2. The non-anonymous women who watch the crucifixion, observe the burial, and find the tomb empty, 
     are named three times, and this naming is inconsistent. It feels clumsy and later gospel authors seek to "fix" it. 
@@ -900,8 +913,8 @@ And they went out and fled from the tomb, for trembling and astonishment had sei
 
 #### Stage 2
 
-Begin to connect the empty-tomb to the crucifixion. 
-Why was Jesus even buried? 
+Begin to connect the empty-tomb to the crucifixion.  
+Why was Jesus even buried?  
 Why were the women going to the tomb? 
 
 > Since it was the day of Preparation, that is, the day before the Sabbath,  
@@ -922,8 +935,9 @@ And they went out and fled from the tomb, for trembling and astonishment had sei
 
 Introduce the young man in a linen cloth to connect the burial and empty-tomb scenes, 
 and to provide a visual indicator that it was indeed Jesus's body that was missing. 
+
 This reading sounds pretty ridiculous, comical even, 
-but our canonical account of the young man in the arrest scene is also ridiculous. 
+but our canonical account of the young man in the arrest scene is also bizarre. 
 
 > Since it was the day of Preparation, that is, the day before the Sabbath,  
 the Jewish leaders asked Pilate for the bodies of Jesus and the others who had been crucified with him.  
@@ -947,8 +961,8 @@ And they went out and fled from the tomb, for trembling and astonishment had sei
 
 #### Stage 4
 
-Introduce Joseph of Arimathea in order that only Jesus gets buried in the tomb. 
-Remove the young man in a linen cloth from the burial scene. 
+Introduce Joseph of Arimathea in order that only Jesus gets buried in the tomb.  
+Remove the young man in a linen cloth from the burial scene.  
 Add the women to the burial scene so they are aware of the location of the tomb. 
 
 > There were also women looking on from a distance,
@@ -984,8 +998,8 @@ And they seized him, but he left the linen cloth and ran away naked.
 
 #### Stage 5 - Final
 
-Connect this ending to the resurrection appearances in Galilee. 
-This will be nearly the same as our current form of Mark 15:40-16:8, merely excluding Mark 15:44-45. 
+Connect this ending to the resurrection appearances in Galilee.  
+This will be nearly the same as our current form of Mark 15:40-16:8, merely excluding Mark 15:44-45.  
 This is the same as the previous stage, except for Mark 16:6-8. 
 
 > And he said to them,  
@@ -1002,8 +1016,8 @@ The matching prediction is added to Mark 14:27-28
 
 #### Stage 6 - Late addition
 
-Add the verification of death. 
-This is the same as our current form of Mark 15:40-16:8. 
+Add the Roman confirmation of death.  
+This is the same as our current form of Mark 15:40-16:8.  
 It finally adds Mark 15:44-45. 
 
 > Pilate was surprised to hear that he should have already died. 
