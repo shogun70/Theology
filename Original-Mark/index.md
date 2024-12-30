@@ -50,7 +50,11 @@ Two suggestions are offered:
     gave christian communities a defense against fears and critiques that their belief was based more-or-less on ghost stories.
 2. In the year 64, when Nero was blaming christians for the fire in Rome, and then persecuting them (perhaps even executing Peter and Paul), 
     the community must have been thinking that surely God's judgement of Rome and Jesus's return as ruler must be imminent. 
-    When instead - by the year 70 - Rome had crushed the Judean revolt, overrun Jerusalem and destroyed the temple 
+    If not now, then when? 
+    With the Judean revolt in the year 66, and Rome plunging into civil war by the year 69, 
+    surely some were seeing divine judgement?  
+    When instead - by the year 70 -  Rome had returned to stability, 
+    crushed the Judean revolt, overrun Jerusalem and destroyed the temple, 
     some christians must have felt as though their script had been torn up.  
     Another Caesar, another triumph. Pax Romana. Peace through the sword. The gospel of Caesar is just getting started.  
     With Mark able to present the Passion week as largely a story of the temple against Jesus (and against God) - 
@@ -437,8 +441,8 @@ that the Galilee is the setting for the resurrection encounter re-enactments?
 Is it significant that the prediction that it is in Galilee "you will see him" seems to include the women? 
 Could this reflect some memory that the women were amongst the first to experience the risen Jesus in Galilee?
 
-No matter; based on Mark we would assume that all the resurrection appearances were in Galilee.  
-But then, in Matthew, the women actually meet Jesus at the tomb, before the disciples see him in Galilee.  
+No matter; at the time Mark is written, his audience knows that all the resurrection appearances were in Galilee.  
+But then, in Matthew, the women actually meet Jesus at the tomb, before the disciples see him (as expected) in Galilee.  
 Finally, in Luke and John, the disciples (and Mary Magdalene in John) only meet Jesus in (or near) Jerusalem. 
 
 Excluding the obvious postscript of John 21 it would seem that, starting in Mark, 
@@ -856,11 +860,11 @@ we have multi-million dollar movies with plot holes big enough to let a T-Rex es
     **Postulate 1:** A very late revision introduces the incident of Pilate's query and the centurion's confirmation of death, 
     presumably in response to some swoon theory controversy. 
     This is the only time the centurion is included in the postscript.
-2. The non-anonymous women who watch the crucifixion, observe the burial, and find the tomb empty, 
+2. The young man at the tomb redundantly tells the women to see where Jesus was laid 
+    even though in the burial scene they already had seen where he was laid.  
+    Moreover, the non-anonymous women who watch the crucifixion, observe the burial, and find the tomb empty, 
     are named three times, and this naming is inconsistent. It feels clumsy and later gospel authors seek to "fix" it. 
     This clunkiness disappears if the women are simply announced the once in the empty tomb scene. 
-    Moreover, the young man redundantly tells the women to see where Jesus was laid 
-    even though in the burial scene they already had seen where he was laid.  
     **Postulate 2:** The women were added to the burial scene in one of the revisions.  
 3. The burial is performed by Joseph of Arimathea, and **he** (singular) rolls a stone in front of the tomb. 
     Yet the young man at the tomb tells the women to see where **they** (plural) laid Jesus's body. 
@@ -899,10 +903,18 @@ we have multi-million dollar movies with plot holes big enough to let a T-Rex es
     **Postulate 8b:** In the earliest revision the women at the tomb were not named.  
     **Postulate 8c:** In the original version of Mark there was no empty tomb scene.  
 
+In hindsight, the postulate that the young man who loses his linen cloth was at one point in the burial scene
+provides a lot of explanatory power. (This does not prove it is correct.)
 
 ### Stages of development
 
-These are derived by attempting to resolve the purported evolutionary artefacts identified in the preceding analysis.
+These are derived by attempting to resolve the purported evolutionary artefacts identified in the preceding analysis. 
+Possibly some separate stages were actually done in one step or even swapped. 
+
+Apart from the first stage and the late addition, 
+it is hard to imagine these revisions occuring organically. 
+If these stages (or something like them) is granted then 
+surely it was the work of one playwright refining his script. 
 
 #### Stage 1
 
@@ -919,7 +931,7 @@ And they went out and fled from the tomb, for trembling and astonishment had sei
 
 Begin to connect the empty-tomb to the crucifixion.  
 Why was Jesus even buried?  
-Why were the women going to the tomb? 
+Who were the women and why were the women going to the tomb? 
 
 > Since it was the day of Preparation, that is, the day before the Sabbath,  
 the scribes and elders asked Pilate for the bodies of Jesus and the others who had been crucified with him.  
