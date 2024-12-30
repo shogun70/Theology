@@ -12,8 +12,12 @@ the temple curtain is torn in two, and a Roman centurion proclaims "Surely this 
 Perhaps surprisingly, this is also the last explicit pronouncement that Jesus is either the Christ or the Son of God. 
 This essay will investigate the proposition that this was in fact the original ending of Mark. 
 
-The approach for this investigation will be to look at various pericopaes while asking the question:
-"did the author know about the tomb when composing this part of the account?"
+The approach will involve:
+
+- a deep dive into the proposed postscript looking for consistency (or inconsistency) with the preceding part of Mark.
+- a look - in the main body of Mark - at Jesus's predictions of death and resurrection looking for signs 
+    that when the author wrote them he was aware (or not aware) of the burial and empty tomb scenes. 
+- speculation as to how the postscript could have evolved if we assume that it was indeed a postscript. 
 
 This exploration must remain inconclusive since there is no definitive gospel narrative material preceding Mark,
 but we can compare and contrast with the presumed church liturgy in 1 Corinthians 15:3-5.
