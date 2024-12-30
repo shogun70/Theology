@@ -839,6 +839,7 @@ and thus the twelve **sons** of Jacob.
 
 By the time the epilogue arrives back at the community where the gospel had been first finalized 
 it is close to fully formed and some people are arguing that it sounds credible and should be added to the gospel. 
+
 Or maybe it is just the primitive form which has popular demand to be integrated into the script, 
 and the original compiler reworks the ending several times until it reaches the current state. 
 
@@ -864,7 +865,8 @@ we have multi-million dollar movies with plot holes big enough to let a T-Rex es
     even though in the burial scene they already had seen where he was laid.  
     Moreover, the non-anonymous women who watch the crucifixion, observe the burial, and find the tomb empty, 
     are named three times, and this naming is inconsistent. It feels clumsy and later gospel authors seek to "fix" it. 
-    This clunkiness disappears if the women are simply announced the once in the empty tomb scene. 
+    This clunkiness disappears if the women are simply announced the once in the empty tomb scene, 
+    and in a later revision copied into the burial scene.  
     **Postulate 2:** The women were added to the burial scene in one of the revisions.  
 3. The burial is performed by Joseph of Arimathea, and **he** (singular) rolls a stone in front of the tomb. 
     Yet the young man at the tomb tells the women to see where **they** (plural) laid Jesus's body. 
@@ -912,7 +914,7 @@ These are derived by attempting to resolve the purported evolutionary artefacts 
 Possibly some separate stages were actually done in one step or even swapped. 
 
 Apart from the first stage and the late addition, 
-it is hard to imagine these revisions occuring organically. 
+it is hard to imagine these revisions occurring organically. 
 If these stages (or something like them) is granted then 
 surely it was the work of one playwright refining his script. 
 
@@ -989,7 +991,8 @@ and there were also many other women who came up with him to Jerusalem.
 > And when evening had come, since it was the day of Preparation, that is, the day before the Sabbath,
 Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of God,
 took courage and went to Pilate and asked for the body of Jesus.
-And Joseph bought a linen shroud, and taking him down, wrapped him in the linen shroud
+And Joseph bought a linen shroud, and taking him down, 
+wrapped him in the linen shroud
 and laid him in a tomb that had been cut out of the rock.
 And he rolled a stone against the entrance of the tomb.  
 > 
