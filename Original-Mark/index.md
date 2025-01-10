@@ -338,8 +338,6 @@ Is that likely if in fact the **named** women who buy spices and find the empty 
 
 Joseph of Arimathea wraps Jesus in a linen cloth (typically translated shroud). 
 The young man fleeing the arrest scene is wearing a linen cloth; and it is taken from him. 
-These are the only times linen is mentioned in Mark 
-(or any fabric apart from John's camel hair coat and leather belt). 
 It is hard not to believe that there is some connection between these two, 
 especially if one takes into account that there is also an anonymous young man in the empty tomb scene. 
 Moreover, the linen shroud feels like Chekhov's gun - 
