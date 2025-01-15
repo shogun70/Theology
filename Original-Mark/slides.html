@@ -39,11 +39,17 @@
 .reveal pre strong {
     color: red;
 }
+ins, del {
+    text-decoration: none;
+}
 ins.fragment.highlight {
     text-decoration: none;
 }
 ins.fragment.highlight.visible {
     background-color: lightgreen;
+}
+ins.fragment.nohighlight.visible {
+    background-color: var(--r-background-color);
 }
 del.fragment.highlight {
     text-decoration: none;
@@ -51,10 +57,10 @@ del.fragment.highlight {
 del.fragment.highlight.visible {
     background-color: lightpink;
 }
-.fragment.fade-in:not(.visible) {
+.reveal .fragment.fade-in:not(.visible) {
     display: none;
 }
-.fragment.fade-out.visible {
+.reveal .fragment.fade-out.visible {
     display: none;
 }
     </style>
@@ -62,7 +68,7 @@ del.fragment.highlight.visible {
 <body class="reveal">
 <main class="slides">
 
-<section>
+<section id="bookends">
     <h2>Jesus Christ, Son of God</h2>
 
     <blockquote class="fragment" style="color: green;">The beginning of the Good News of Jesus Christ, Son of God. <cite>-- Mark 1:1</cite></blockquote>
@@ -85,57 +91,57 @@ del.fragment.highlight.visible {
 
     <h3 class="fragment">Are Mark 1:1 and 15:39 bookends?</h3>
 </section>
-<section>
-<section>
+<section id="postscript">
+<section id="secret-mark">
     <h2>Was Mark 15:40 - 16:8 a postscript?</h2>
-<blockquote class="fragment fade-in fade-down">
+<blockquote class="fragment custom fade-in fade-down">
 <pre style="color: green; font-size: 1em;">
     My proposal is that the original version of Mark's Gospel ended with the centurion's confession in 15:39.
 </pre>
 -- <cite>John Dominic Crossan, The Historical Jesus p. 415</cite>
 </blockquote>
 
-    <h3 class="fragment fade-in fade-down">Secret Mark?</h3>
-    <blockquote class="fragment fade-in fade-down">
+    <h3 class="fragment custom fade-in fade-down">Secret Mark?</h3>
+    <blockquote class="fragment custom fade-in fade-down">
         <pre>
 My theory, then, is that canonical Mark dismembered <strong>Secret Mark</strong>'s story of the young man's resurrection and initiation</pre>
-        <pre class="fragment fade-in fade-down">...
+        <pre class="fragment custom fade-in fade-down">...
 Thus, for example, the “tomb” in Mark 16:2, 3, 5, 8 comes from the “tomb” in <strong>Secret Mark</strong> 1v26; 2rl, 2, 6;
 “who will roll away the stone for us from the door of the tomb” in Mark 16:3
 comes from “rolled away the stone from the door of the tomb” in <strong>Secret Mark</strong> 2r1–2;
 and, especially, the “young man” in the tomb in Mark 16:5 comes from the “young man” in the tomb in <strong>Secret Mark</strong> 2r3,4,6. </pre>
-        <pre class="fragment fade-in fade-down">
+        <pre class="fragment custom fade-in fade-down">
 But that raises a question I did not realize earlier.
 When you remove those elements, what is actually left for a conclusion to <strong>Secret Mark</strong>?
 ...
 Did <strong>Secret Mark</strong> conclude with any story about finding the empty tomb?</pre>
-        <pre class="fragment fade-in fade-down">
+        <pre class="fragment custom fade-in fade-down">
 The obvious answer is that of course it did. There are still the women.
 But now I notice a curious coincidence that I missed before. 
 There are three women identified in <strong>Secret Mark</strong> 2r14–16 as “the sister of the youth whom Jesus loved and his mother and Salome”.
 There are also three women mentioned in Mark 15:40 as “Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome”
 ...
 Is that too much coincidence?</pre>
-        <pre class="fragment fade-in fade-down">...
+        <pre class="fragment custom fade-in fade-down">...
 I think that, once again, canonical Mark has simply relocated the textual debris of a censored incident from <strong>Secret Mark</strong>.
 ...
 The three women were not, any more than the young man in the tomb, part of the conclusion to <strong>Secret Mark</strong>.</pre>
             <p style="color: green;">
             </p>
-        <pre class="fragment fade-in fade-down">
+        <pre class="fragment custom fade-in fade-down">
 ...
 <em style="color: green">My proposal is that the original version of Mark's Gospel ended with the centurion's confession in 15:39.</em>
 ...
 I realize, of course, that such a claim lacks any external or manuscript evidence
 unless one retrojects the fact that redoing the ending of Mark became a small industry in the early church.
 The evidence for it is internal and circumstantial, tentative, hypothetical, and clearly controversial.</pre>
-        <pre class="fragment fade-in fade-down">
+        <pre class="fragment custom fade-in fade-down">
 But it fits very well with a Markan theology in which faith and hope despite persecution and death
 is much more important than visions, apparitions and even revelations.
         </pre>
    </blockquote>
 </section>
-<section>
+<section id="bernard-muller">
     <h2>Who wrote the 'empty tomb' passage in Mark's gospel?</h2>
 
     <cite>-- Bernard Muller</cite>
@@ -171,7 +177,7 @@ However, a bodily reappearance was not dared going for: that will be done later 
 </section>
 </section>
 
-<section>
+<section id="the-linen-smock">
     <h2>Chekhov's gun</h2>
     <p>There is an implied stage direction with the young man in the tomb gesturing to a linen cloth when he says "See where they laid him."</p>
     <blockquote>
@@ -202,15 +208,90 @@ And looking up, they saw that the stone had been rolled back — it was very lar
 And entering the tomb, they saw a young man sitting on the right side, dressed in a white robe, and they were alarmed.
 And he said to them,
 “Do not be alarmed. You seek Jesus of Nazareth, who was crucified. He has risen; he is not here. See the place where they laid him.
-<ins class="fragment fade-in highlight" data-fragment-index="1">    [The young man gestures at a linen cloth]
-</ins>But go, tell his disciples and Peter that he is going before you to Galilee. There you will see him, just as he told you.”
+<ins class="fragment custom fade-in highlight" data-fragment-index="1"><ins class="fragment custom nohighlight">    [The young man gestures at a linen cloth]
+</ins></ins>But go, tell his disciples and Peter that he is going before you to Galilee. There you will see him, just as he told you.”
 And they went out and fled from the tomb, for trembling and astonishment had seized them,
 and they said nothing to anyone, for they were afraid.
 </pre>
     </blockquote>
 </section>
 
-    <section>
+    <section id="mary-mary-and-salome">
+        <h2>Mary, Mary, and Salome</h2>
+        <p>One revision copied (sloppily) the women from the empty-tomb scene to the other entries.</p>
+        <blockquote>
+<pre>
+<del class="fragment fade-out" data-fragment-index="5"><del class="fragment custom highlight" data-fragment-index="1">There were also women looking on from a distance, among whom were
+Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome.
+When he was in Galilee, they followed him and ministered to him
+and there were also many other women who came up with him to Jerusalem.
+</del></del>And when evening had come, since it was the day of Preparation, that is, the day before the Sabbath,
+Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of God,
+took courage and went to Pilate and asked for the body of Jesus.
+Pilate was surprised to hear that he should have already died.
+And summoning the centurion, he asked him whether he was already dead.
+And when he learned from the centurion that he was dead,
+he granted the corpse to Joseph.
+And Joseph bought a linen shroud, and taking him down,
+wrapped him in the linen shroud and laid him in a tomb that had been cut out of the rock.
+And he rolled a stone against the entrance of the tomb.
+<del class="fragment fade-out" data-fragment-index="5"><del class="fragment custom highlight" data-fragment-index="2">Mary Magdalene and Mary the mother of Joses saw where he was laid.
+</del></del>
+
+When the Sabbath was past,
+<del class="fragment fade-out" data-fragment-index="5"><del class="fragment custom highlight" data-fragment-index="3">Mary Magdalene, Mary the mother of James, and Salome
+</del></del><ins class="fragment custom fade-in highlight" data-fragment-index="4"><ins class="fragment custom nohighlight" data-fragment-index="6">Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome
+</ins></ins>bought spices, so that they might go and anoint him.
+And very early on the first day of the week, when the sun had risen, they went to the tomb.
+And they were saying to one another,
+“Who will roll away the stone for us from the entrance of the tomb?”
+And looking up, they saw that the stone had been rolled back — it was very large.
+And entering the tomb, they saw a young man sitting on the right side, dressed in a white robe, and they were alarmed.
+And he said to them,
+“Do not be alarmed. You seek Jesus of Nazareth, who was crucified. He has risen; he is not here. See the place where they laid him.
+    [The young man gestures at a linen cloth]
+But go, tell his disciples and Peter that he is going before you to Galilee. There you will see him, just as he told you.”
+And they went out and fled from the tomb, for trembling and astonishment had seized them,
+and they said nothing to anyone, for they were afraid.
+</pre>
+        </blockquote>
+    </section>
+
+    <section id="joseph-of-arimathea">
+        <h2>Joseph of Arimathea</h2>
+        <p>In one revision Joseph of Arimathea (singular) buries Jesus (singular)
+            instead of anonymous Jewish leaders (plural) burying all the crucifixion bodies (plural).</p>
+        <blockquote>
+<pre>
+And when evening had come, since it was the day of Preparation, that is, the day before the Sabbath,
+<del class="fragment fade-out" data-fragment-index="8"><del class="fragment custom highlight" data-fragment-index="1">Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of God,
+took courage and went to Pilate and asked for the body of Jesus.
+</del></del><ins class="fragment custom fade-in highlight" data-fragment-index="5"><ins class="fragment custom nohighlight" data-fragment-index="9">some members of the council went to Pilate and asked that they might bury the bodies.
+</ins></ins><del class="fragment fade-out" data-fragment-index="8"><del class="fragment custom highlight" data-fragment-index="2">And Joseph bought a linen shroud, and taking him down, wrapped him in the linen shroud
+</del></del><del class="fragment fade-out" data-fragment-index="8"><del class="fragment custom highlight" data-fragment-index="3">>and laid him in a tomb that had been cut out of the rock.
+</del></del><ins class="fragment custom fade-in highlight" data-fragment-index="6"><ins class="fragment custom nohighlight" data-fragment-index="9">and laid them in a tomb that had been cut out of the rock.
+</ins></ins><del class="fragment fade-out" data-fragment-index="8"><del class="fragment custom highlight" data-fragment-index="4">And he rolled a stone against the entrance of the tomb.
+</del></del><ins class="fragment custom fade-in highlight" data-fragment-index="7"><ins class="fragment custom nohighlight" data-fragment-index="9">And they rolled a stone against the entrance of the tomb.
+</ins></ins>
+When the Sabbath was past,
+Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome
+bought spices, so that they might go and anoint him.
+And very early on the first day of the week, when the sun had risen, they went to the tomb.
+And they were saying to one another,
+“Who will roll away the stone for us from the entrance of the tomb?”
+And looking up, they saw that the stone had been rolled back — it was very large.
+And entering the tomb, they saw a young man sitting on the right side, dressed in a white robe, and they were alarmed.
+And he said to them,
+“Do not be alarmed. You seek Jesus of Nazareth, who was crucified. He has risen; he is not here. See the place where they laid him.
+    [The young man gestures at a linen cloth]
+But go, tell his disciples and Peter that he is going before you to Galilee. There you will see him, just as he told you.”
+And they went out and fled from the tomb, for trembling and astonishment had seized them,
+and they said nothing to anyone, for they were afraid.
+</pre>
+        </blockquote>
+    </section>
+
+    <section id="harassed-young-man">
         <h2>A harassed anonymous juvenile</h2>
         <p>In one revision the young man in a linen cloth was moved from the burial scene to the arrest scene.</p>
         <blockquote>
@@ -221,7 +302,7 @@ and with him a crowd with swords and clubs, from the chief priests and the scrib
 And they laid hands on him and seized him.
 ...
 And they all left him and fled.
-<del class="fragment fade-out" data-fragment-index="3"><del class="fragment highlight" data-fragment-index="1">And a young man followed him, with nothing but a linen cloth about his body.
+<del class="fragment fade-out" data-fragment-index="3"><del class="fragment custom highlight" data-fragment-index="1">And a young man followed him, with nothing but a linen cloth about his body.
 And they seized him, but he left the linen cloth and ran away naked.
 </del></del>And they led Jesus to the high priest.
 And all the chief priests and the elders and the scribes came together.
@@ -230,12 +311,12 @@ And all the chief priests and the elders and the scribes came together.
         <blockquote>
 <pre>
 And when evening had come, since it was the day of Preparation, that is, the day before the Sabbath,
-some members of the council went to Pilate and asked for the body of Jesus and the body of the robbers.
-And they laid them in a tomb that had been cut out of the rock.
-<ins class="fragment fade-in" data-fragment-index="2"><ins class="fragment" data-fragment-index="3">And a young man followed them, with nothing but a linen cloth about his body.
+some members of the council went to Pilate and asked that they might bury the bodies.
+<ins class="fragment custom fade-in highlight" data-fragment-index="2"><ins class="fragment custom nohighlight" data-fragment-index="4">And a young man followed them, with nothing but a linen cloth about his body.
 And they seized him, but he left the linen cloth and ran away naked.
 </ins></ins>And they wrapped Jesus's body in the linen cloth,
-and they rolled a stone against the entrance of the tomb.
+and they laid them in a tomb that had been cut out of the rock.
+And they rolled a stone against the entrance of the tomb.
 
 When the Sabbath was past,
 Mary Magdalene, Mary the mother of James, and Salome
