@@ -25,6 +25,12 @@
     margin: 20px auto;
     text-align: revert;
 }
+.reveal .large, .reveal ul.large > li {
+    font-size: 1.2em;
+}
+.reveal .larger, .reveal ul.larger > li {
+    font-size: 1.4em;
+}
 .reveal section > h2 {
     text-align: center;
 }
@@ -79,9 +85,6 @@
 .reveal u.red-highlight {
     text-decoration: red double underline;
 }
-.reveal .large {
-    font-size: 1.5em;
-}
 .reveal dl.inline {
     display: grid;
     grid-gap: 4px 16px;
@@ -124,10 +127,10 @@ del.fragment.highlight.visible {
 <main class="slides">
 
 <section id="toc">
-    <div class="large">
+    <div class="larger">
         <h2>The Linen Shroud
         <small>(The evolution of the ending of Mark)</small></h2>
-        <ul>
+        <ul class="large">
 
     <li class="fragment">Introduction</li>
     <li class="fragment">Context</li>
@@ -446,16 +449,17 @@ Maybe initially the <b class="red-highlight">beginning</b> was understood to be 
 
 </section>
 
+<section id="detection">
+
 <section id="discontinuity">
     <h2>Discontinuity & Inconsistency</h2>
-    <h2 class="fragment">vs <br />Continuity & Consistency</h2>
-
-    <ul>
-        <li class="fragment large">People</li>
-        <li class="fragment large">Places</li>
-        <li class="fragment large">Timelines</li>
-        <li class="fragment large">Themes</li>
-        <li class="fragment large">Writing Style</li>
+    <h2 class="fragment"><small>Continuity & Consistency</small></h2>
+    <ul class="large">
+        <li class="fragment">People</li>
+        <li class="fragment">Places</li>
+        <li class="fragment">Timelines</li>
+        <li class="fragment">Themes</li>
+        <li class="fragment">Writing Style</li>
     </ul>
 
     <div class="fragment">
@@ -483,6 +487,21 @@ Maybe initially the <b class="red-highlight">beginning</b> was understood to be 
         </ul>
 
     </div>
+
+</section>
+<section id="priors">
+        <h2>Priors</h2>
+        <ul class="fragment large">
+            <li>There are no manuscripts of Mark which end at 15:39.</li>
+            <li class="fragment">But what if we had no copies of Mark at all?</li>
+            <li class="fragment">What would be <b>your</b> prior probability that Matthew was based on one earlier, written source? <b>20%</b>?</li>
+            <li class="fragment">Again, assuming no Mark, what probability that the earlier source for Matthew contained no resurrection appearances? <b>5%</b>?</li>
+            <li class="fragment">What is <b>your</b> prior that Mark's audience knew stories of resurrection appearances? <b>95%</b>?</li>
+            <li class="fragment">What about that Mark originally contained no burial and empty-tomb? <b>10%</b>?</li>
+            <li class="fragment">How much discontinuity would shift that to <b>50%</b>?</li>
+        </ul>
+
+</section>
 </section>
 
 <section id="people">
@@ -498,9 +517,11 @@ among whom were Mary Magdalene, and Mary the mother of James the younger and of 
 When he was in Galilee, they followed him and ministered to him, and there were also many other women who came up with him to Jerusalem.</pre>
     <cite>-- Mark 15:40-41</cite></blockquote>
     <ul class="fragment">
-        <li class="fragment">Before Jesus's burial, how many times does Mark mention his female followers?</li>
+        <li>Before Jesus's burial, how many times does Mark mention his female followers?</li>
         <li class="fragment">If we read the New Testament chronologically according to when it was written,
             this is the first occasion where it was recorded that the earthly Jesus even had female followers.</li>
+        <li class="fragment">Why does the author need to explain that the women had come with Jesus to Jerusalem?</li>
+        <li class="fragment">Did he not know this detail when he wrote that Jesus and the disciples were heading ot Jerusalem?</li>
         <li class="fragment">In Mark, there are a few stories about anonymous women who were dignified by Jesus:
         <ul class="fragment">
             <li>the women healed of bleeding</li>
@@ -872,6 +893,8 @@ they divide my garments among them, and for my clothing they cast lots.</pre>
                     <ul class="fragment">
                         <li>Jesus had to be buried because of the impending Sabbath.</li>
                         <li class="fragment">Jesus was really dead - it was verified by Romans.</li>
+                        <li class="fragment">Although the disciples who had followed Jesus to Jerusalem had deserted, <br />
+                            there were also female followers who had followed Jesus to Jerusalem.</li>
                         <li class="fragment">The women knew where Jesus was buried - they watched when the body was laid in the tomb.</li>
                         <li class="fragment">The women had to return to the tomb because they needed to anoint the body.</li>
                         <li class="fragment">When the women returned they were able to enter the tomb, but that was not because Joseph simply neglected to seal the tomb.</li>
@@ -1908,6 +1931,8 @@ For I received from the Lord what I also delivered to you, that the Lord Jesus o
     Reveal.initialize({
         disableLayout: true,
         center: false,
+        width: 1280,
+        height: 960,
     });
     Reveal.addKeyBinding(77, (e) => {
         let oldMode = Reveal.getConfig().navigationMode;
