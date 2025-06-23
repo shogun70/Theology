@@ -8,7 +8,7 @@ https://x.com/paulogia0/status/1779606868752560265
 He doesn't claim this is what happened - the goal is merely to posit a plausible naturalistic origin story
 which could also have evolved into the narratives captured in the NT.
 
-This year he has tweeted that the hypothesis can't be assessed on how closely it matches the details in the Bible.
+This year he has tweeted that the hypothesis can't be assessed on how closely it matches the details in the Bible.  
 https://x.com/paulogia0/status/1892212824715165720
 https://x.com/paulogia0/status/1918187855370748209
 
@@ -98,31 +98,46 @@ What can we say about that?
 ## Church growth
 (Related to point 7)
 
-Those who accepted his message were baptized, and about three thousand were added to their number that day.
+Those who accepted his message were baptized, and about three thousand were added to their number that day.  
 -- Acts 2:41
 
-And the Lord added to their number day by day those who were being saved.
+And the Lord added to their number day by day those who were being saved.  
 -- Acts 2:47
 
-But many of those who had heard the word believed, and the number of the men came to about five thousand.
+But many of those who had heard the word believed, and the number of the men came to about five thousand.  
 -- Acts 4:4
 
-And more than ever believers were added to the Lord, multitudes of both men and women.
+And more than ever believers were added to the Lord, multitudes of both men and women.  
 -- Acts 5:14
 
-This thread is one part of an exploration into Paulogia's Minimal Witnesses Hypothesis - 
-https://x.com/paulogia0/status/1779606868752560265 -
-and whether his naturalistic hypothesis can in fact be expanded to more closely align with the NT record
-(or at least plausibly evolve into it).
+This thread is one part of an exploration into Paulogia's Minimal Witnesses Hypothesis - https://x.com/paulogia0/status/1779606868752560265 -  
+and whether his naturalistic hypothesis can in fact be expanded to more closely align with the NT record (or at least plausibly evolve into it).
 
 Acts attributes early church growth primarily to (apocalyptic) preaching and secondarily to healings and perhaps speaking in tongues. 
 These seem completely relatable explanations to anyone familiar with some of the fads in 20th Century Christianity. 
-There also seems to be an acknowledgement that caring for the poor and persecution also facilitated growth. 
+There also seems to be an acknowledgement that caring for the poor, and persecution also facilitated growth. 
+But clearly the largest potential source of growth was universalization - first to Samaritans, then to Gentiles. 
 
 ### Apocalyptic preaching
 
 A significant number of Jews were expecting (or at least open to) some impending apocalyptic crisis accompanied by the Messiah.
 Thus there was fertile ground for apocalyptic preaching. 
+This can be seen in the John the Baptist movement, mentioned in the gospels and also by Josephus.
+
+Herod killed [John the Baptist], who was a good man, and commanded the Jews to exercise virtue, both as to righteousness towards one another, and piety towards God. 
+...
+Herod feared that the great influence John had over the masses might lead to some form of rebellion (for they seemed ready to do anything he should advise).
+-- Josephus, Antiquities of the Jews, Book 18, Chapter 5
+
+Even without John preaching revolution or claiming to be the Messiah 
+it seems that the general public was hoping for it
+and Herod thought it was plausible.  
+
+"Save yourselves from this crooked generation." -- Acts 2:40
+
+"Repent therefore, and turn back, that your sins may be blotted out.
+...
+And it shall be that every soul who does not listen to that prophet shall be destroyed from the people." -- Acts 3:19-23
 
 ### Signs and wonders - healings and tongues
 
@@ -132,11 +147,48 @@ Although the miracle reports all seem to be tied to Peter.
 ### Care for "The Poor"
 
 If the early church was providing social security then no-one would be surprised at its growth.
-But why were people selling their land to cover expenses - this indicates a sincere belief the end is near. Millerites.
+But why were people selling their land to cover expenses - this indicates a sincere belief the end is near. 
+The Millerite example may be instructive - 
+many of them sold land or possessions or even gave them away. 
+The Essenes may also offer insight - 
+they also had everything in common. 
+Speculatively they may have begun with the same conviction that the end was near and then - after an initial disappointment - 
+adapted to a more sustainable practice, at least for the short term. 
+Perhaps they even evolved into kibbutzism in some places.
 
 ### Persecution
 
-Persecution can strengthen faith, e.g. Mormons. Counter-example Manichaeism.
+Persecution can strengthen religious faith. 
+Naturally this is not the intention, but the reasons are not unintuitive, including:  
+- Solidarity and group identity.
+- It can suggest the faith is threatening to worldly powers.
+- Religious persecution can create curiosity and sympathy.
+
+There are numerous examples but an obvious one which is easily researched is the early church of Latter Day Saints.
+
+There are, of course, counter-examples where persecution has degraded religions, with the prime example being Manichaeism which was eliminated completely. 
+
+
+### Universalization
+
+Acts describes the universalisation of Christianity as unintentional. 
+The unforseen conversion of Samaritans and especially Gentiles must have been an encouragement given the perpetually delayed return of Christ. 
+
+#### Samaritans
+The conversion of Samaritans is portrayed as a welcome surprise after the persecution in Jerusalem, but it does not seem to have been controversial in Acts. It is difficult however to believe that Samaritans would be open to Christianity if it was seen as the Jerusalem founded movement presented in Acts. Perhaps this is an argument for more continuity between the Galilean origins of "The Way" and the eventual Jerusalem church. 
+
+#### Gentiles
+The conversion of Gentiles seems very surprising to the original church and moreover it must have remained contrroversial, even with Peter's backing. (Acts 11, Galatians).
+It is perhaps unsurprising that a movement which started with 
+"Repent for the kingdom of God is near" might be somewhat exclusivist. 
+But practically it is very rational for a new religion to be more relaxed in it's gate-keeping. If the early church was providing for "The Poor" out of it's own resources then the largesse of presumably well-off Gentiles would be welcome. (Cornelius was wealthy and generous. Paul's fundraising.)
+
+What might be the appeal of Christianity for first century Gentiles? 
+There will of course be numerous reasons for the appeal of a new religion. The important question is which ones give it staying power?
+- There were already Gentiles who were converting or sympathetic to Judaism. Christianity is attached to an already appealing religion. 
+- The stories about Jesus fearless criticism of authorities, accompanied by his condemnation and crucifixion by those same authorities, may have resonated with Plato's anecdote of the truly just man. Jesus may have been acknowledged as an infallible Stoic. 
+- The egalitarianism of the early church must have appealed to some in the hierarchical Graeco-Roman world. 
+- The  numerous (ambiguous) apocalyptic passages from OT may have felt specifically prophetic to the the turmoil in parts of the empire during the first century. 
 
 
 ## Paul
