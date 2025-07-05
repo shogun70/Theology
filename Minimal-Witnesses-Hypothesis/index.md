@@ -133,23 +133,75 @@ Even without John preaching revolution or claiming to be the Messiah
 it seems that the general public was hoping for it
 and Herod thought it was plausible.  
 
-"Save yourselves from this crooked generation." -- Acts 2:40
+Why would successfully preaching repentence be considered threatening by authorities? 
 
-"Repent therefore, and turn back, that your sins may be blotted out.
+Luke provides a link:
+
+He said therefore to the crowds that came out to be baptized by him, “You brood of vipers! Who warned you to flee from the wrath to come?
+Bear fruits in keeping with repentance."
+...
+As the people were in expectation, and all were questioning in their hearts concerning John, whether he might be the Christ.  
+John answered them ...
+"His winnowing fork is in his hand, to clear his threshing floor and to gather the wheat into his barn, but the chaff he will burn with unquenchable fire."
+...
+So with many other exhortations he preached good news to the people.
+...
+But Herod the tetrarch, who had been reproved by him for Herodias, his brother's wife, and for all the evil things that Herod had done,  added this to them all, that he locked up John in prison.
+-- Luke 3:7-20
+
+See also in Acts:
+
+"Repent therefore, and turn back, that your sins may be blotted out,
+that times of refreshing may come from the presence of the Lord, and that he may send the Christ appointed for you.
 ...
 And it shall be that every soul who does not listen to that prophet shall be destroyed from the people." -- Acts 3:19-23
 
+Exhortation to repentance and righteous living is the flip-side of warnings of judgement. The people interpreted judgement to coincide with the coming of God's Messiah. And how could the coming of God's anointed one not be accompanied by judgement on seemingly unjust wprldly authorities? 
+
+Still, while this makes sense of the anticipation around John the Baptist before he died, how could it explain the apparent plausibility of Jesus being the Messiah after he died? 
+
+Almost certainly some OT scripture was interpreted as foretelling the current events and hinting at a coming climax which of course required an urgent enrollment on the right team. 
+
+We don't know what scripture was harnessed at first, 
+but Daniel's seventy weeks seems to have been commonly conscripted for messianic predictions.
+
+From the time the word goes out to restore and rebuild Jerusalem until the Anointed One comes, there will be seven ‘sevens,’ and sixty-two ‘sevens.’  
+...
+After the sixty-two ‘sevens,’ the Anointed One will be put to death and will have nothing.  
+The people of the ruler who will come will destroy the city and the sanctuary. The end will come like a flood: War will continue until the end, and desolations have been decreed.  
+He will confirm a covenant with many for one ‘seven.’ In the middle of the ‘seven’ he will put an end to sacrifice and offering.   
+And at the temple he will set up an abomination that causes desolation, until the end that is decreed is poured out on him.
+-- Daniel 9:24-27
+
+It seems trivial to claim that the Anointed One here is Jesus. 
+The Caligula proposal to erect a statue of himself in the temple has not yet happened, but Pilate has taken the standard of the Roman legion - which had Caesar's image - into Jerusalem. 
+To an apocalyptic Jew the resemblance to the current moment may have felt uncanny. Foreboding even.
+
+
 ### Signs and wonders - healings and tongues
 
-The out-pouring of the Holy Spirit may have convinced some people.
-Although the miracle reports all seem to be tied to Peter.
+
+The phenomenon of speaking in tongues may have convinced some people.
+Although the miracle reports all seem to be tied to Peter and Paul.
+
+Paul's letters do not give any indication that other apostles were associated with healing or tongues. 
 
 ### Care for "The Poor"
 
-If the early church was providing social security then no-one would be surprised at its growth.
+There was not a needy person among them, for as many as were owners of lands or houses sold them and brought the proceeds of what was sold and laid it at the apostles' feet, and it was distributed to each as any had need.
+-- Acts 4:34-35
+
+If the early church was providing social security then no-one would be surprised at its growth amongst "The Poor".
+
+This is perhaps confirmed even in the late second century by Celsus:
+Taking its root in the lower classes, the religion continues to spread among the vulgar: nay, one can even say it spreads because of its vulgarity and the illiteracy of its adherents.
+-- The True Doctine. Celsus
+
 But why were people selling their land to cover expenses - this indicates a sincere belief the end is near. 
 The Millerite example may be instructive - 
-many of them sold land or possessions or even gave them away. 
+many of them sold land or possessions or even gave them away, 
+certain as they were that Jesus return was imminent.
+
 The Essenes may also offer insight - 
 they also had everything in common. 
 Speculatively they may have begun with the same conviction that the end was near and then - after an initial disappointment - 
@@ -163,8 +215,28 @@ Naturally this is not the intention, but the reasons are not unintuitive, includ
 - Solidarity and group identity.
 - It can suggest the faith is threatening to worldly powers.
 - Religious persecution can create curiosity and sympathy.
+- Localized persecution can trigger emigration and thus spread.
 
-There are numerous examples but an obvious one which is easily researched is the early church of Latter Day Saints.
+Examples in Acts:
+
+They called the apostles in and had them flogged. Then they ordered them not to speak in the name of Jesus, and let them go.
+The apostles left the Sanhedrin, rejoicing because they had been counted worthy of suffering disgrace for the Name. 
+-- Acts 5:40-41
+
+The number of disciples in Jerusalem increased rapidly, and a large number of priests became obedient to the faith...
+Opposition arose, however, from members of the Synagogue of the Freedmen ... who began to argue with Stephen. But they could not stand up against the wisdom the Spirit gave him as he spoke...
+So they stirred up the people and the elders and the teachers of the law. They seized Stephen and brought him before the Sanhedrin.
+-- Acts 6:7-12
+
+The priests and the captain of the temple guard and the Sadducees ... seized Peter and John and ... they put them in jail until the next day. But many who heard the message believed.
+-- Acts 4:1-4
+
+On that day a great persecution broke out against the church in Jerusalem, and all except the apostles were scattered throughout Judea and Samaria.
+...
+Those who had been scattered preached the word wherever they went.
+-- Acts 8:1-4
+
+There are numerous other historical examples but an obvious one which is easily researched is the early church of Latter Day Saints.
 
 There are, of course, counter-examples where persecution has degraded religions, with the prime example being Manichaeism which was eliminated completely. 
 
@@ -178,15 +250,16 @@ The unforseen conversion of Samaritans and especially Gentiles must have been an
 The conversion of Samaritans is portrayed as a welcome surprise after the persecution in Jerusalem, but it does not seem to have been controversial in Acts. It is difficult however to believe that Samaritans would be open to Christianity if it was seen as the Jerusalem founded movement presented in Acts. Perhaps this is an argument for more continuity between the Galilean origins of "The Way" and the eventual Jerusalem church. 
 
 #### Gentiles
-The conversion of Gentiles seems very surprising to the original church and moreover it must have remained contrroversial, even with Peter's backing. (Acts 11, Galatians).
+The conversion of Gentiles seems very surprising to the original church and moreover it must have remained controversial, even with Peter's backing. (Acts 11:2-3, Galatians 2:11-13).
 It is perhaps unsurprising that a movement which started with 
 "Repent for the kingdom of God is near" might be somewhat exclusivist. 
-But practically it is very rational for a new religion to be more relaxed in it's gate-keeping. If the early church was providing for "The Poor" out of it's own resources then the largesse of presumably well-off Gentiles would be welcome. (Cornelius was wealthy and generous. Paul's fundraising.)
+But practically it is very rational for a new religion to be more relaxed in it's gate-keeping. If the early church was providing for "The Poor" out of it's own resources then the largesse of presumably well-off Gentiles would be welcome. (Cornelius was wealthy and generous, Acts 10:1-2. Paul's fundraising, 2 Corinthians 8,9)
 
 What might be the appeal of Christianity for first century Gentiles? 
 There will of course be numerous reasons for the appeal of a new religion. The important question is which ones give it staying power?
 - There were already Gentiles who were converting or sympathetic to Judaism. Christianity is attached to an already appealing religion. 
-- The stories about Jesus fearless criticism of authorities, accompanied by his condemnation and crucifixion by those same authorities, may have resonated with Plato's anecdote of the truly just man. Jesus may have been acknowledged as an infallible Stoic. 
+- The stories about Jesus fearless criticism of authorities, accompanied by his condemnation and crucifixion by those same authorities, may have resonated with Plato's anecdote of the truly just man. Jesus may have been acknowledged as an infallible Stoic, 
+thus affiliating it with a major and growing Greek philosophy.  
 - The egalitarianism of the early church must have appealed to some in the hierarchical Graeco-Roman world. 
 - The  numerous (ambiguous) apocalyptic passages from OT may have felt specifically prophetic to the the turmoil in parts of the empire during the first century. 
 
