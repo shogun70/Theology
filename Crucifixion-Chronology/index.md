@@ -11,10 +11,13 @@ I'm going to steel-man the position that in fact Thallus was correct.
 
 This will involve assuming it is historical, interpreting Paul's letters (and Acts) in that light, and seeing if it seems to corroborate the thesis. 
 
-I will be ignoring unknowable factors such as cloud-cover. 
+I will be ignoring unknowable factors such as cloud-cover.  
 
-I'll also have to explain seemingly contradictory evidence, of which the most obvious is that the gospels universally place the crucifixion at Passover.  
+I'll also have to explain seemingly contradictory evidence, of which the most obvious is that solar eclipses are only noticeable for minutes, and that the eclipse in 29AD was only partial in Jerusalem. 
+
+There is also the issue that the gospels universally place the crucifixion at Passover.  
 But I will look at that **last**.
+
 
 Aside: we don't have Thallus writings so we don't know he actually mentioned the crucifixion. We don't even know when he wrote but there is some conjecture that Josephus referred to him, placing him at around 50AD.  
 https://en.wikipedia.org/wiki/Thallus_(historian)
@@ -34,14 +37,29 @@ Phlegon is certainly referring to the eclipse in November 29AD.
 The noteworthiness of the earthquake is not that several houses fell down. It must be that it coincided with the eclipse. And a total eclipse in Bythnia at around midday is certainly the one in 29AD. 
 
 
-The synoptic gospel authors claim that this - presumably well attested solar eclipse - corroborated the crucifixion darkness. 
+The synoptic gospel authors claim that this - presumably well attested solar eclipse - coincided with the crucifixion and confirmed that Jesus was the Son of God. 
 
 While Mark and Luke only mention the darkness (beginning at the sixth hour), Matthew is all in on highlighting the cosmic significance of the moment. 
 
 > Now from the sixth hour there was darkness over all the land until the ninth hour.  
+And about the ninth hour Jesus cried out with a loud voice, saying...  
+“My God, my God, why have you forsaken me?”  
 ...  
 And the earth shook, and the rocks were split.  
--- Matthew 27:45,51
+-- Matthew 27:45-51
+
+It is clear that in at least Mark and Matthew the darkness has a theological purpose - to demonstrate that even God abandoned Jesus.  
+Thus, even if the contemporary account was something like: 
+
+> “And on that day,” declares the Lord GOD, “I will make the sun go down at noon and darken the earth in broad daylight.
+-- Amos 8:9
+
+it is plausible that Mark could have exaggerated a momentary event for dramatic purposes. 
+
+As stated previously, the eclipse wasn't total in Jerusalem (or even Galilee) - it wouldn't have even been particularly dark. 
+But such is the nature of solar eclipses and the ancients were hyper-vigilant for signs in the heavens - certainly there were people in Jerusalem (or Sepphoris) who would have known that an eclipse was occurring, and it would have been confirmed in short order from the further north.  
+
+If Christians were telling eachother that an eclipse occurred during the crucifixion, it wouldn't take long for a partial eclipse to become a full eclipse in the retelling. 
 
 
 Phlegon is presumed to have written in the mid-second century, so it is possible he knew of the Christian tradition and viewed it as a confirmation of an independent non-Christian record (maybe even Thallus). 
@@ -164,10 +182,12 @@ because he has fixed a day on which he will judge the world in righteousness by 
 -- Acts 17:16-31
 
 
+Before turning to the gospels, we should not forget that even if we presume that by mid-century Christians were claiming that the 29AD solar and lunar eclipses were confirmations of Jesus significance, 
+there are alternative explanations which maintain a Passover crucifixion. 
 
-See also:
-
-29 AD: Year of a Blood Moon and a Solar Eclipse  
+For example: 
+PG Cavalcanti, 29 AD: Year of a Blood Moon and a Solar Eclipse  
 https://www.academia.edu/128874478/29_AD_Year_of_a_Blood_Moon_and_a_Solar_Eclipse  
-Argues Jesus was crucified at Passover 29AD
+
+
 
