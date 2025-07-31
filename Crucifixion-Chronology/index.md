@@ -1,6 +1,11 @@
 # An alternate chronology of the crucifixion
 
-What if Jesus was crucified around the time of the solar eclipse on 24th November 29AD?
+What if Jesus was crucified around the time of the solar eclipse on 24th November 29AD? 
+
+![Map of the eclipse including 90% totality markers](./Solar-Eclipse-Anatolia.png)
+
+https://eclipsewise.com/solar/SEgmapx/0001-0100/SE0029Nov24Tgmapx.html
+
 
 This is what Julius Africanus claims that the historian Thallus proposed. 
 
@@ -13,7 +18,11 @@ This will involve assuming it is historical, interpreting Paul's letters (and Ac
 
 I will be ignoring unknowable factors such as cloud-cover.  
 
-I'll also have to explain seemingly contradictory evidence, of which the most obvious is that solar eclipses are only noticeable for minutes, and that the eclipse in 29AD was only partial in Jerusalem. 
+I'll also have to explain seemingly contradictory evidence, of which the most obvious is that solar eclipses are not noticeable for hours, and that the eclipse in 29AD was only partial in Jerusalem.  
+
+What to expect during a partial and total solar eclipse:
+https://science.nasa.gov/feature/solar-eclipse-guide/
+
 
 There is also the issue that the gospels universally place the crucifixion at Passover.  
 But I will look at that **last**.
@@ -67,7 +76,6 @@ But such is the nature of solar eclipses and the ancients were hyper-vigilant fo
 
 If Christians were telling eachother that an eclipse occurred during the crucifixion, it wouldn't take too long in the retelling for a partial eclipse to become a full eclipse over Jerusalem. 
 
-
 Phlegon is presumed to have written in the mid-second century, so it is possible he knew of the Christian tradition and viewed it as a confirmation of an independent non-Christian record (maybe even Thallus). 
 
 Plausibly he had even read the gospels, although Origen indicates that while he knew of Jesus and Peter he was misinformed: 
@@ -84,6 +92,8 @@ What about that Antioch was an early stronghold of Chrisitanity? It also would h
 ...  
 Barnabas went to Tarsus to look for Saul, and when he had found him, he brought him to Antioch... And in Antioch the disciples were first called Christians.  
 -- Acts 11:19-26
+
+![Solar eclipse over Antioch, Tarsus, Iconium](./Solar-Eclipse-Antioch.png)
 
 Tarsus would also have been on the path of totality.
 Traditionally, Saint Paul was born in Tarsus but living in or near Jerusalem when the church began. 
