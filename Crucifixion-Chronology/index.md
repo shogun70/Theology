@@ -154,7 +154,10 @@ A blood moon can be caused by dust or smoke, but the most common association is 
 https://eclipsewise.com/lunar/LEprime/0001-0100/LE0029Dec09Pprime.html
 
 Being a partial lunar eclipse it would not be a classic blood moon unless it was accompanied by dust or smoke. But a knowledgeable person could have been able to point it out, especially to people who had seen the total lunar eclipse which occurred six months earlier.  
-https://eclipsewise.com/lunar/LEprime/0001-0100/LE0029Jun14Tprime.html
+
+![Lunar eclipses](https://eclipsewise.com/lunar/LEhelp/images/TLE2014Apr-Phases-1w.jpg)  
+
+https://eclipsewise.com/lunar/LEprime/0001-0100/LE0029Jun14Tprime.html  
 
 
 Some christian atheists argue that these Old Testament images of cosmic upheaval would have been understood as metaphor for dramatic socio-political change. 
