@@ -28,16 +28,21 @@ Julian Africanus also claimed that the chronicler Phlegon of Tralles confirmed t
 
 https://en.wikipedia.org/wiki/Phlegon_of_Tralles
 
-But this seems like a misrepresentation of Phlegon, given this quote from Eusebius: 
+This seems like a misrepresentation of Phlegon, given this quote from Eusebius: 
 
 > In the fourth year of the 202nd Olympiad, a great eclipse of the sun occurred at the sixth hour that excelled every other before it, turning the day into such darkness of night that the stars in the heavens were seen. And there was an earthquake in Bithynia which overthrew many houses in the city of Nicaea.  
 -- Phlegon of Tralles (quoted by Eusebius)
+
+Aside: Phlegon was a collector of Marvels, so conceptually it would not be surprising for him to have written that an eclipse lasted three hours and occurred at the full moon.  
+However there doesn't seem to be a good explanation for why Eusebius (and Origen too) would provide direct quotes of Phlegon which do not contain those elements. 
 
 Phlegon is certainly referring to the eclipse in November 29AD. 
 The noteworthiness of the earthquake is not that several houses fell down. It must be that it coincided with the eclipse. And a total eclipse in Bythnia at around midday is certainly the one in 29AD. 
 
 
-The synoptic gospel authors claim that this - presumably well attested solar eclipse - coincided with the crucifixion and confirmed that Jesus was the Son of God. 
+The synoptic gospels also assert the darkness began at the sixth hour. 
+More poignant is that it was over the whole land, not just Jerusalem. 
+The authors were claiming that this - presumably well attested darkening - coincided with the crucifixion and confirmed that Jesus was the Son of God.  
 
 While Mark and Luke only mention the darkness (beginning at the sixth hour), Matthew is all in on highlighting the cosmic significance of the moment. 
 
@@ -48,27 +53,28 @@ And about the ninth hour Jesus cried out with a loud voice, saying...
 And the earth shook, and the rocks were split.  
 -- Matthew 27:45-51
 
+
 It is clear that in at least Mark and Matthew the darkness has a theological purpose - to demonstrate that even God abandoned Jesus.  
-Thus, even if the contemporary account was something like: 
+It is plausible that Mark could have exaggerated a momentary event for dramatic purposes. 
+Perhaps the contemporary Christian retelling was something like: 
 
 > “And on that day,” declares the Lord GOD, “I will make the sun go down at noon and darken the earth in broad daylight.
 -- Amos 8:9
 
-it is plausible that Mark could have exaggerated a momentary event for dramatic purposes. 
 
 As stated previously, the eclipse wasn't total in Jerusalem (or even Galilee) - it wouldn't have even been particularly dark. 
 But such is the nature of solar eclipses and the ancients were hyper-vigilant for signs in the heavens - certainly there were people in Jerusalem (or Sepphoris) who would have known that an eclipse was occurring, and it would have been confirmed in short order from the further north.  
 
-If Christians were telling eachother that an eclipse occurred during the crucifixion, it wouldn't take long for a partial eclipse to become a full eclipse in the retelling. 
+If Christians were telling eachother that an eclipse occurred during the crucifixion, it wouldn't take too long in the retelling for a partial eclipse to become a full eclipse over Jerusalem. 
 
 
 Phlegon is presumed to have written in the mid-second century, so it is possible he knew of the Christian tradition and viewed it as a confirmation of an independent non-Christian record (maybe even Thallus). 
 
-Plausibly he had even read the gospels, although Origen indicates that while he knew of Jesus and Peter he was uninformed.
+Plausibly he had even read the gospels, although Origen indicates that while he knew of Jesus and Peter he was misinformed: 
 
 > Now Phlegon, in the thirteenth or fourteenth book, of his Chronicles, not only ascribed to Jesus a knowledge of future events (although falling into confusion about some things which refer to Peter, as if they referred to Jesus), but also testified that the result corresponded to His predictions.
 
-Since I'm steelmanning, let's presume that Thallus did actually record that Christians were claiming a darkness at Jesus death. This would make him the earliest source for this (if we accept that Thallus wrote mid-first century). 
+Since I'm steelmanning, let's presume that Thallus did actually record that Christians were claiming a darkness at Jesus death. This would make him the earliest unambiguous source for this (if we accept that Thallus wrote mid-first century). 
 
 Is there any potentially corroborating data? 
 
@@ -79,8 +85,8 @@ What about that Antioch was an early stronghold of Chrisitanity? It also would h
 Barnabas went to Tarsus to look for Saul, and when he had found him, he brought him to Antioch... And in Antioch the disciples were first called Christians.  
 -- Acts 11:19-26
 
-Tarsus would also have been on the path. 
-Traditionally, Saint Paul was born in Tarsus but living in or near Jerusalem the church began. 
+Tarsus would also have been on the path of totality.
+Traditionally, Saint Paul was born in Tarsus but living in or near Jerusalem when the church began. 
 If his extended family was based in Tarsus it could contribute to explaining why some of his relatives were early converts.
 
 > Greet Andronicus and Junia, my kinsmen and my fellow prisoners. They are well known to the apostles, and they were in Christ before me.  
@@ -96,7 +102,7 @@ More directly, Saint Paul potentially says that the Galatians were in some way e
 > You foolish Galatians! Who has bewitched you? It was before your eyes that Jesus Christ was publicly exhibited as crucified!  
 -- Galatians 3:1
 
-Maybe this is even the sense of what is captured in his interaction with King Herod Agrippa: 
+Maybe this is even the sense of what is captured in Paul's interaction with King Herod Agrippa: 
 
 > And as he was saying these things in his defense, Festus said with a loud voice, “Paul, you are out of your mind; your great learning is driving you out of your mind.”  
 But Paul said, “I am not out of my mind, most excellent Festus, but I am speaking true and rational words. For the king knows about these things, and to him I speak boldly.  
@@ -133,6 +139,7 @@ The sun shall be turned to darkness
 And it shall come to pass that everyone who calls upon the name of the Lord shall be saved.        
 -- Acts 2:14-21
 
+If the sun turned to darkness is the solar eclipse, what is the moon turned to blood?  
 A blood moon can be caused by dust or smoke, but the most common association is with a lunar eclipse. Intriguingly, just two weeks after the solar eclipse there was a lunar eclipse.  
 https://eclipsewise.com/lunar/LEprime/0001-0100/LE0029Dec09Pprime.html
 
@@ -182,7 +189,7 @@ because he has fixed a day on which he will judge the world in righteousness by 
 -- Acts 17:16-31
 
 
-Before turning to the gospels, we should not forget that even if we presume that by mid-century Christians were claiming that the 29AD solar and lunar eclipses were confirmations of Jesus significance, 
+Before turning to the gospels, we should not forget that - even if we presume that by mid-century Christians were claiming that the 29AD solar and lunar eclipses were confirmations of Jesus significance -
 there are alternative explanations which maintain a Passover crucifixion. 
 
 For example: 
