@@ -2,15 +2,18 @@
 
 What if Jesus was crucified around the time of the solar eclipse on 24th November 29AD? 
 
+
 ![Map of the eclipse including 90% totality markers](./Solar-Eclipse-Anatolia.png)
 
-https://eclipsewise.com/solar/SEgmapx/0001-0100/SE0029Nov24Tgmapx.html
+<https://eclipsewise.com/solar/SEgmapx/0001-0100/SE0029Nov24Tgmapx.html>
 
 
 This is what Julius Africanus claims that the historian Thallus proposed. 
 
 > On the whole world there pressed a most fearful darkness; and the rocks were rent by an earthquake, and many places in Judea and other districts were thrown down. This darkness Thallus, in the third book of his History, calls, as appears to me without reason, an eclipse of the sun.  
 -- Julius Africanus (quoted by Syncellus)
+
+## Steel-manning
 
 I'm going to steel-man the position that in fact Thallus was correct.  
 
@@ -21,21 +24,24 @@ I will be ignoring unknowable factors such as cloud-cover.
 I'll also have to explain seemingly contradictory evidence, of which the most obvious is that solar eclipses are not noticeable for hours, and that the eclipse in 29AD was only partial in Jerusalem.  
 
 What to expect during a partial and total solar eclipse:
-https://science.nasa.gov/feature/solar-eclipse-guide/
+<https://science.nasa.gov/feature/solar-eclipse-guide/>
 
 
 There is also the issue that the gospels universally place the crucifixion at Passover.  
 But I will look at that **last**.
 
 
+## Darkening = Solar eclipse
+
 Aside: we don't have Thallus writings so we don't know he actually mentioned the crucifixion. We don't even know when he wrote but there is some conjecture that Josephus referred to him, placing him at around 50AD.  
-https://en.wikipedia.org/wiki/Thallus_(historian)
+
+<https://en.wikipedia.org/wiki/Thallus_(historian)>
 
 Julian Africanus also claimed that the chronicler Phlegon of Tralles confirmed the same event:
 
 > Phlegon records that, in the time of Tiberius Cæsar, at full moon, there was a full eclipse of the sun from the sixth hour to the ninth — manifestly that one of which we speak.  
 
-https://en.wikipedia.org/wiki/Phlegon_of_Tralles
+<https://en.wikipedia.org/wiki/Phlegon_of_Tralles>
 
 This seems like a misrepresentation of Phlegon, given this quote from Eusebius: 
 
@@ -65,7 +71,7 @@ And the earth shook, and the rocks were split.
 
 It is clear that in at least Mark and Matthew the darkness has a theological purpose - to demonstrate that even God abandoned Jesus.  
 It is plausible that Mark could have exaggerated a momentary event for dramatic purposes. 
-Perhaps the contemporary Christian retelling was something like: 
+Perhaps the contemporary Christian retelling simply resembled: 
 
 > “And on that day,” declares the Lord GOD, “I will make the sun go down at noon and darken the earth in broad daylight.
 -- Amos 8:9
@@ -74,7 +80,7 @@ Perhaps the contemporary Christian retelling was something like:
 As stated previously, the eclipse wasn't total in Jerusalem (or even Galilee) - it wouldn't have even been particularly dark. 
 But such is the nature of solar eclipses and the ancients were hyper-vigilant for signs in the heavens - certainly there were people in Jerusalem (or Sepphoris) who would have known that an eclipse was occurring, and it would have been confirmed in short order from the further north.  
 
-If Christians were telling eachother that an eclipse occurred during the crucifixion, it wouldn't take too long in the retelling for a partial eclipse to become a full eclipse over Jerusalem. 
+If Christians were telling eachother that an eclipse somewhere coincided with the crucifixion, it wouldn't take too long in the retelling for a partial eclipse over Jerusalem to become a darkening over the whole land. 
 
 Phlegon is presumed to have written in the mid-second century, so it is possible he knew of the Christian tradition and viewed it as a confirmation of an independent non-Christian record (maybe even Thallus). 
 
@@ -84,9 +90,11 @@ Plausibly he had even read the gospels, although Origen indicates that while he 
 
 Since I'm steelmanning, let's presume that Thallus did actually record that Christians were claiming a darkness at Jesus death. This would make him the earliest unambiguous source for this (if we accept that Thallus wrote mid-first century). 
 
+## Corroborating evidence 
+
 Is there any potentially corroborating data? 
 
-What about that Antioch was an early stronghold of Chrisitanity? It also would have been right on the path of the total solar eclipse. 
+What about that Antioch was an early stronghold of Chrisitanity? It also would have been right on the path of totality for the solar eclipse. 
 
 > Now those who were scattered because of the persecution that arose over Stephen traveled as far as Phoenicia and Cyprus and Antioch, speaking the word to no one except Jews. But there were some of them, men of Cyprus and Cyrene, who on coming to Antioch spoke to the Hellenists also, preaching the Lord Jesus. And the hand of the Lord was with them, and a great number who believed turned to the Lord.  
 ...  
@@ -120,16 +128,19 @@ For I am persuaded that none of these things has escaped his notice, for this ha
 King Agrippa, do you believe the prophets? I know that you believe.” 
 -- Acts 26:24-27
 
+## Omens & Prodigies / Signs & Wonders
 
 If this is a clue that early Christians were claiming the solar eclipse demonstrated the significance of Jesus death, then it has a strong resonance with the folklore surrounding the assassination of Julius Caesar. 
 
 > Portentous and protracted eclipses of the sun also occur, such as the one after the murder of Caesar, when the sun remained pale for almost a whole year, during which time the produce of the earth was deficient and of poor quality.  
 -- Pliny the Elder, Naturalis Historia, Book II, Chapter 30  
-(Presumed to be due to Mount Okmuk erupting: https://en.wikipedia.org/wiki/Mount_Okmok#43_BCE:_Okmok_II_eruption)
+
+(Presumed to be due to Mount Okmuk erupting: <https://en.wikipedia.org/wiki/Mount_Okmok#43_BCE:_Okmok_II_eruption)>
   
 > The only place in the whole world where a comet is worshipped is a temple at Rome. His late Majesty Augustus had deemed this comet very propitious to himself; as it had appeared at the beginning of his rule, at some games which, not long after the decease of his father Caesar, as a member of the college founded by him he was celebrating in honour of Mother Venus. In fact he made public the joy that it gave him in these words: 'On the very days of my Games a comet was visible for seven days in the northern part of the sky. It was rising about an hour before sunset, and was a bright star, visible from all lands. The common people believed that this star signified the soul of Caesar received among the spirits of the immortal gods, and on this account the emblem of a star was added to the bust of Caesar that we shortly afterwards dedicated in the forum.'  
 -- Pliny the Elder, Naturalis Historia, Book II, Chapter 25  
-[Caesar's comet](https://en.wikipedia.org/wiki/Caesar%27s_Comet)
+
+Caesar's comet: <https://en.wikipedia.org/wiki/Caesar%27s_Comet)>
 
 
 These celestial events were all very convenient for Augustus who was seeking to establish the new age of the Roman Empire.  
@@ -151,13 +162,13 @@ And it shall come to pass that everyone who calls upon the name of the Lord shal
 
 If the sun turned to darkness is the solar eclipse, what is the moon turned to blood?  
 A blood moon can be caused by dust or smoke, but the most common association is with a lunar eclipse. Intriguingly, just two weeks after the solar eclipse there was a lunar eclipse.  
-https://eclipsewise.com/lunar/LEprime/0001-0100/LE0029Dec09Pprime.html
+<https://eclipsewise.com/lunar/LEprime/0001-0100/LE0029Dec09Pprime.html>
 
 Being a partial lunar eclipse it would not be a classic blood moon unless it was accompanied by dust or smoke. But a knowledgeable person could have been able to point it out, especially to people who had seen the total lunar eclipse which occurred six months earlier.  
 
 ![Lunar eclipses](https://eclipsewise.com/lunar/LEhelp/images/TLE2014Apr-Phases-1w.jpg)  
 
-https://eclipsewise.com/lunar/LEprime/0001-0100/LE0029Jun14Tprime.html  
+<https://eclipsewise.com/lunar/LEprime/0001-0100/LE0029Jun14Tprime.html>  
 
 
 Some christian atheists argue that these Old Testament images of cosmic upheaval would have been understood as metaphor for dramatic socio-political change. 
@@ -182,13 +193,14 @@ He even seems to allude to seismic activity, like a first century Tim LaHaye.
 -- Romans 8:22-23
 
 > The Bible tells us in Matthew 24 that one of the signs of the last days - one of the birth pangs to occur - is an increase in earthquake activity and intensity. We're seeing that happen here. It's not just earthquakes, but hurricanes and all kinds of natural disasters.  
--- https://www.bereanbiblechurch.org/transcripts/matthew/Earthquakes_and_End_Times.htm
+-- Earthquakes and End Times: <https://www.bereanbiblechurch.org/transcripts/matthew/Earthquakes_and_End_Times.htm>
 
 
 Substitute Roman gods for Yahweh, and sometimes Paul doesn't seem so different to prevailing Roman moralizing. 
 
 > For when the earth, which is the nourisher and the mother, as it were, of all things, is struck with the fires of heaven, and gives forth a groan, and trembles and opens in chasms, it seems to give a warning of divine wrath, and to command us to guard against the impious wickedness of men.  
--- [Cicero, De Natura Deorum](https://en.wikipedia.org/wiki/De_Natura_Deorum)
+-- Cicero, De Natura Deorum:
+<https://en.wikipedia.org/wiki/De_Natura_Deorum>
 
 
 See also our only hint of Paul preaching to Athenians:
@@ -201,13 +213,14 @@ The times of ignorance God overlooked, but now he commands all people everywhere
 because he has fixed a day on which he will judge the world in righteousness by a man whom he has appointed; and of this he has given assurance to all by raising him from the dead.”  
 -- Acts 17:16-31
 
+## Alternate explanations
 
 Before turning to the gospels, we should not forget that - even if we presume that by mid-century Christians were claiming that the 29AD solar and lunar eclipses were confirmations of Jesus significance -
 there are alternative explanations which maintain a Passover crucifixion. 
 
 For example: 
 PG Cavalcanti, 29 AD: Year of a Blood Moon and a Solar Eclipse  
-https://www.academia.edu/128874478/29_AD_Year_of_a_Blood_Moon_and_a_Solar_Eclipse  
+<https://www.academia.edu/128874478/29_AD_Year_of_a_Blood_Moon_and_a_Solar_Eclipse>  
 
 
 
