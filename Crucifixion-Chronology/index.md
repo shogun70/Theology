@@ -17,7 +17,7 @@ This is what Julius Africanus claims that the historian Thallus proposed.
 
 I'm going to steel-man the position that in fact Thallus was correct.  
 
-This will involve assuming it is historical, interpreting Paul's letters (and Acts) in that light, and seeing if it seems to corroborate the thesis. 
+This will involve **assuming** it is historical, interpreting Paul's letters (and Acts) in that light, and seeing if it seems to corroborate the thesis. 
 
 I will be ignoring unknowable factors such as cloud-cover.  
 
@@ -225,7 +225,16 @@ PG Cavalcanti, 29 AD: Year of a Blood Moon and a Solar Eclipse
 
 ## Explaining the Passover tradition
 
-The proposition that Jesus’s crucifixion aligned with a solar eclipse would invalidate the Passover chronology of the Synoptic Gospels. Yet, this very idea assumes that the Gospels have captured a genuine early Christian memory. This paradox illustrates (to me at least) that any explanation of the Gospel narrative will ultimately look like a compromise between historicism and mythicism.
+The proposition that Jesus’s crucifixion aligned with a solar eclipse would invalidate the Passover chronology of the Synoptic Gospels. Yet this very idea assumes that the Gospels have captured a genuine early Christian memory. This paradox illustrates (to me at least) that any explanation of the Gospel narrative will ultimately look like a compromise between historicism and mythicism. 
+
+Another example which a proponent of this alternate chronology will want to claim as an authenitc memory would be the Jewish authorities not wanting to arrest Jesus during the festival. 
+
+> The chief priests and the teachers of the law were scheming to arrest Jesus secretly and kill him. “But not during the festival,” they said, “or the people may riot.”  
+-- Mark 14:1-2
+
+The synoptic tradition timed this at Passover (technically just before), but it would be just as relevant at any of the pilgrimage festivals, including Sukkot. 
+
+In fact, this is almost perfect for the alternate chronology where Jesus was arrested **after** Sukkot and executed in the lull before Hannukah. 
 
 ### Postulating sources
 
@@ -265,5 +274,69 @@ For what it's worth, here's a speculative list:
 
 Finally, the story of the Garden of Gethsemene - literally the garden of the oil press on the Mount of Olives - would be a nod to the actual timing of Jesus last days in November, the month of the olive harvest. And of course the obvious image of Jesus being brought under pressure. 
 
+John's gospel records Jesus attending five different festivals in Jerusalem: two Passovers, Sukkot, Hannukah, and an unnamed one. 
+Does this demonstrate that Christians knew stories about Jesus in Jerusalem across the Jewish calendar (surely not controversial) or that they were repurposing Jewish ritual to remember Christ and the New Convenant? 
+
+None of this is novel questioning and rather than explore it more here I will just refer to the scholarship of Dominic Crossan and Burton Mack and the like. 
+
+### Evolution
+
+When Jesus is arrested and condemned, he is just a would-be John the Baptist, executed for getting up the nose of the wrong powerful people. Yet the occurence of the solar eclipse is confirmation for his followers that he had divine approval. 
+
+So what does it mean? Why would Yahweh let a chosen one suffer - not just a drawn out death - but also the humiliation of being hung on a tree? He is both under a curse and vindicated. 
+
+In hindsight we know the first christians resolved this paradox by the statement that Jesus took the curse of others, or that he died for sins. 
+
+This probably resonates most strongly with the Day of Atonement. 
+And there is lots of language in the New Testament epistles which alludes to the Day of Atonement:
+
+> Into the [Most Holy Place] the high priest goes, and he but once a year, and not without taking blood, which he offers for himself and for the unintentional sins of the people.  
+...  
+But when Christ appeared as a high priest of the good things that have come, then through the greater and more perfect tent (not made with hands, that is, not of this creation) he entered once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus securing an eternal redemption.
+-- Hebrews 9:7,11-12
+
+> Since all have sinned and fall short of the glory of God; they are now justified by his grace as a gift, through the redemption that is in Christ Jesus, whom God put forward as a sacrifice of atonement by his blood.
+-- Romans 3:23-25
+
+> He is the atoning sacrifice for our sins, and not for ours only but also for the sins of the whole world.   
+-- 1 John 2:2
 
 
+But the concept of a substitionary sacrifice also resonates with the Passover Lamb, and certainly Paul at least was using the Festival of Unleavened Bread to remind churches not to take Jesus sacrifice for granted. 
+
+> Your boasting is not good. Do you not know that a little leaven leavens the whole lump? Cleanse out the old leaven that you may be a new lump, as you really are unleavened. For Christ, our Passover lamb, has been sacrificed. Let us therefore celebrate the festival, not with the old leaven, the leaven of malice and evil, but with the unleavened bread of sincerity and truth.  
+-- 1 Corinthians 5:6-8
+
+Of course, the maximallist interpretation of this passage is that christians celebrated Passover because Jesus was crucified at Passover. 
+
+That option isn't available when steel-manning the current proposition - here is a list of factors which may have favoured the memorial of Jesus sacrifice being at Passover:
+
+- As Hebrews states, the Day of Atonement is an annual sacrifice. The Passover Lamb was once for all time. 
+- Passover has a richer narrative with broad application. 
+- Passover is a more important Jewish festival. 
+- Passover was a pilgrimage festival which would fit with the gospel narrative of crowds being in Jerusalem when Jesus was crucified. 
+
+And finally, there is these two "firstfuits" analogies of Paul:
+
+> But in fact Christ has been raised from the dead, the firstfruits of those who have fallen asleep.  
+-- 1 Corinthians 15:20
+
+> And not only the creation, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for adoption as sons, the redemption of our bodies.  
+-- Romans 8:23
+
+There are two Jewish firstfruits offerings:
+
+- Barley, **the first Sunday after Passover**:  
+  <https://tmurphywrites.com/feast-of-the-sheaf-of-first-fruits-jesus-as-the-sheaf/>
+
+- Wheat, **at Pentecost**:  
+  <https://tmurphywrites.com/pentecost-from-barley-to-wheat/>
+
+Again, the maximallist will say Paul's use of firstfruits in those passages merely confirms that Jesus died and rose at Passover, and the Holy Spirit came at Pentecost. 
+
+
+## Contradictory evidence
+
+- Why aren't there more allusions to an eclipse in the NT letters?
+- Shouldn't it have been easier to convince followers of John the Baptist?
+- 
