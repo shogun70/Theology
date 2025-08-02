@@ -225,7 +225,7 @@ PG Cavalcanti, 29 AD: Year of a Blood Moon and a Solar Eclipse
 
 ## Explaining the Passover tradition
 
-The proposition that Jesus’s crucifixion aligned with a solar eclipse would invalidate the Passover chronology of the Synoptic Gospels. Yet this very idea assumes that the Gospels have captured a genuine early Christian memory. This paradox illustrates (to me at least) that any explanation of the Gospel narrative will ultimately look like a compromise between historicism and mythicism. 
+The proposition that Jesus’s crucifixion aligned with a solar eclipse in November would invalidate the Passover chronology of the Synoptic Gospels. Yet this very idea assumes that the Gospels have captured a genuine early Christian memory - that is, the "darkness" over the whole land. This paradox illustrates (to me at least) that any explanation of the Gospel narrative will ultimately look like a compromise between historicism and mythicism. 
 
 Another example which a proponent of this alternate chronology will want to claim as an authenitc memory would be the Jewish authorities not wanting to arrest Jesus during the festival. 
 
@@ -285,7 +285,7 @@ When Jesus is arrested and condemned, he is just a would-be John the Baptist, ex
 
 So what does it mean? Why would Yahweh let a chosen one suffer - not just a drawn out death - but also the humiliation of being hung on a tree? He is both under a curse and vindicated. 
 
-In hindsight we know the first christians resolved this paradox by the statement that Jesus took the curse of others, or that he died for sins. 
+In hindsight we know the first christians resolved this paradox by the innovative theology that Jesus took the curse of others - that he died for sins. 
 
 This probably resonates most strongly with the Day of Atonement. 
 And there is lots of language in the New Testament epistles which alludes to the Day of Atonement:
@@ -309,11 +309,10 @@ But the concept of a substitionary sacrifice also resonates with the Passover La
 
 Of course, the maximallist interpretation of this passage is that christians celebrated Passover because Jesus was crucified at Passover. 
 
-That option isn't available when steel-manning the current proposition - here is a list of factors which may have favoured the memorial of Jesus sacrifice being at Passover:
+That option isn't available when steel-manning the current proposition, so here is a list of factors which may have favoured the memorial of Jesus sacrifice being at Passover:
 
-- As Hebrews states, the Day of Atonement is an annual sacrifice. The Passover Lamb was once for all time. 
+- As Hebrews states, the Day of Atonement is an annual sacrifice. The original Passover Lamb was once for all time. 
 - Passover has a richer narrative with broad application. 
-- Passover is a more important Jewish festival. 
 - Passover was a pilgrimage festival which would fit with the gospel narrative of crowds being in Jerusalem when Jesus was crucified. 
 
 And finally, there is these two "firstfuits" analogies of Paul:
@@ -338,5 +337,5 @@ Again, the maximallist will say Paul's use of firstfruits in those passages mere
 ## Contradictory evidence
 
 - Why aren't there more allusions to an eclipse in the NT letters?
+- Surely Peter would have been repeating it frequently, and yet neither of the letters attributed to Peter mention it. 
 - Shouldn't it have been easier to convince followers of John the Baptist?
-- 
