@@ -343,3 +343,7 @@ Again, the maximallist will say Paul's use of firstfruits in those passages mere
 - Mark seems to use the darkness as imagery for God abandoning Jesus. If the first christians took it as validation of Jesus, how did that evolve into the way Mark uses it?  
   OTOH the gospels do have the centurion seem to take the darkness as validation. 
 - Why do the gospels say "No sign will be given"?
+
+I wonder if all of these can be somewhat explained away by the fact that Jerusalem wasn't on the path of totality.  
+Superstitious people who saw the total eclipse were convinced it was a sign, they were just waiting for someone to convince them what it was a sign of. 
+For people off the path, the eclipse was only confirmation if they were already inclined to believe.  
