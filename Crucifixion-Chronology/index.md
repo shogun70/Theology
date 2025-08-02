@@ -21,17 +21,17 @@ This will involve assuming it is historical, interpreting Paul's letters (and Ac
 
 I will be ignoring unknowable factors such as cloud-cover.  
 
-I'll also have to explain seemingly contradictory evidence, of which the most obvious is that solar eclipses are not noticeable for hours, and that the eclipse in 29AD was only partial in Jerusalem.  
+I'll also have to explain seemingly contradictory evidence, of which the most obvious is that solar eclipses cannot be described as a darkening which lasted hours, and that the eclipse in 29AD was only just over 90% in Jerusalem.  
 
 What to expect during a partial and total solar eclipse:
 <https://science.nasa.gov/feature/solar-eclipse-guide/>
 
 
 There is also the issue that the gospels universally place the crucifixion at Passover.  
-But I will look at that **last**.
+But I will look at the gospels **last**.
 
 
-## Darkening = Solar eclipse
+## The Darkening = Solar eclipse
 
 Aside: we don't have Thallus writings so we don't know he actually mentioned the crucifixion. We don't even know when he wrote but there is some conjecture that Josephus referred to him, placing him at around 50AD.  
 
@@ -94,7 +94,7 @@ Since I'm steelmanning, let's presume that Thallus did actually record that Chri
 
 Is there any potentially corroborating data? 
 
-What about that Antioch was an early stronghold of Chrisitanity? It also would have been right on the path of totality for the solar eclipse. 
+What about that Antioch - right on the path of totality for the solar eclipse - was an early stronghold of Chrisitanity? 
 
 > Now those who were scattered because of the persecution that arose over Stephen traveled as far as Phoenicia and Cyprus and Antioch, speaking the word to no one except Jews. But there were some of them, men of Cyprus and Cyrene, who on coming to Antioch spoke to the Hellenists also, preaching the Lord Jesus. And the hand of the Lord was with them, and a great number who believed turned to the Lord.  
 ...  
@@ -115,7 +115,7 @@ Saint Paul confirms that he and Peter were both in Antioch and that there were J
 > But when Cephas came to Antioch, I opposed him to his face, because he stood condemned. For before certain men came from James, he was eating with the Gentiles; but when they came he drew back and separated himself, fearing the circumcision party.
 -- Galatians 2:11-12
 
-More directly, Saint Paul potentially says that the Galatians were in some way eyewitnesses to Jesus crucifixion. 
+More directly, Saint Paul says that the Galatians were in some way eyewitnesses to Jesus crucifixion. 
 
 > You foolish Galatians! Who has bewitched you? It was before your eyes that Jesus Christ was publicly exhibited as crucified!  
 -- Galatians 3:1
@@ -135,7 +135,7 @@ If this is a clue that early Christians were claiming the solar eclipse demonstr
 > Portentous and protracted eclipses of the sun also occur, such as the one after the murder of Caesar, when the sun remained pale for almost a whole year, during which time the produce of the earth was deficient and of poor quality.  
 -- Pliny the Elder, Naturalis Historia, Book II, Chapter 30  
 
-(Presumed to be due to Mount Okmuk erupting: <https://en.wikipedia.org/wiki/Mount_Okmok#43_BCE:_Okmok_II_eruption)>
+Presumed to be due to Mount Okmuk erupting: <https://en.wikipedia.org/wiki/Mount_Okmok#43_BCE:_Okmok_II_eruption)>
   
 > The only place in the whole world where a comet is worshipped is a temple at Rome. His late Majesty Augustus had deemed this comet very propitious to himself; as it had appeared at the beginning of his rule, at some games which, not long after the decease of his father Caesar, as a member of the college founded by him he was celebrating in honour of Mother Venus. In fact he made public the joy that it gave him in these words: 'On the very days of my Games a comet was visible for seven days in the northern part of the sky. It was rising about an hour before sunset, and was a bright star, visible from all lands. The common people believed that this star signified the soul of Caesar received among the spirits of the immortal gods, and on this account the emblem of a star was added to the bust of Caesar that we shortly afterwards dedicated in the forum.'  
 -- Pliny the Elder, Naturalis Historia, Book II, Chapter 25  
@@ -218,9 +218,52 @@ because he has fixed a day on which he will judge the world in righteousness by 
 Before turning to the gospels, we should not forget that - even if we presume that by mid-century Christians were claiming that the 29AD solar and lunar eclipses were confirmations of Jesus significance -
 there are alternative explanations which maintain a Passover crucifixion. 
 
-For example: 
+For example:  
 PG Cavalcanti, 29 AD: Year of a Blood Moon and a Solar Eclipse  
 <https://www.academia.edu/128874478/29_AD_Year_of_a_Blood_Moon_and_a_Solar_Eclipse>  
+
+
+## Explaining the Passover tradition
+
+The proposition that Jesus’s crucifixion aligned with a solar eclipse would invalidate the Passover chronology of the Synoptic Gospels. Yet, this very idea assumes that the Gospels have captured a genuine early Christian memory. This paradox illustrates (to me at least) that any explanation of the Gospel narrative will ultimately look like a compromise between historicism and mythicism.
+
+### Postulating sources
+
+If Jesus was crucified around the solar eclipse of 24th November 29AD, it is plausible he was in Jerusalem at Sukkot - the festival of Tabernacles. 
+
+Several scholars have in fact suggested that the triumphal entry - recorded by all the gospels as part of Jesus final week - is reminiscent of Sukkot, with the waving of palm branches and cries of Hosanna.  
+<https://vridar.org/2011/01/05/liberating-jesus-from-the-letter-of-the-gospel-narrative/>
+
+Intriguingly, John's gospel does record Jesus going to this feast:
+
+> After this, Jesus went around in Galilee. He did not want to go about in Judea because the Jewish leaders there were looking for a way to kill him. But when the Jewish Festival of Tabernacles was near, Jesus’ brothers said to him, “Leave Galilee and go to Judea, so that your disciples there may see the works you do. No one who wants to become a public figure acts in secret...”  
+For even his own brothers did not believe in him.  
+Therefore Jesus told them, “My time is not yet here; for you any time will do. The world cannot hate you, but it hates me because I testify that its works are evil. You go to the festival. I am not going up to this festival, because my time has not yet fully come.” After he had said this, he stayed in Galilee.  
+However, after his brothers had left for the festival, he went also, not publicly, but in secret.  
+-- John 7:1-10
+
+Could the triumphal entry capture an authentic historical memory? 
+Certainly it would be no surprise if Jewish adjacent christian communities were retelling such a story annually at Sukkot. 
+
+This apparent pairing of a Jewish ritual with a Jesus anecdote is reminiscent of a perhaps more famous metaphor - the resonance between the story of Jesus and Barabbas and the ritual of the two goats of the Day of Atonement (Yom Kippur).  
+There seems to be no shortage of commentary on this, but I'll link to one at random plus the Epistle of Barnabas which possibly captures the original seed of the idea. 
+
+- Jesus Christ, Barabbas, the Two Goats, and You:  
+  <https://jesusistherefuge.wordpress.com/2009/02/18/jesus-christ-barabbas-the-two-goats-and-you/>
+- Epistle of Barnabas:  
+  <https://www.earlychristianwritings.com/text/barnabas-lake.html>
+
+Once you see some resonance between elements in the Passion narrative and Jewish rituals and festivals, it is easy (too easy) to start finding them everywhere, like source criticism on steroids. 
+
+For what it's worth, here's a speculative list:
+
+- The triumphal entry: Sukkot
+- The cleansing of the temple: Hannukah
+- The last supper / new covenant: Passover / Shavuot
+- Watching and praying on the Mount of Olives: Leil Shimurim
+- Jesus or Barabbas: Yom Kippur
+
+Finally, the story of the Garden of Gethsemene - literally the garden of the oil press on the Mount of Olives - would be a nod to the actual timing of Jesus last days in November, the month of the olive harvest. And of course the obvious image of Jesus being brought under pressure. 
 
 
 
