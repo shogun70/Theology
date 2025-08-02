@@ -337,5 +337,9 @@ Again, the maximallist will say Paul's use of firstfruits in those passages mere
 ## Contradictory evidence
 
 - Why aren't there more allusions to an eclipse in the NT letters?
-- Surely Peter would have been repeating it frequently, and yet neither of the letters attributed to Peter mention it. 
-- Shouldn't it have been easier to convince followers of John the Baptist?
+- I would expect Peter to have been repeating it frequently, and yet neither of the letters attributed to Peter mention it. 
+- Why doesn't Josephus give any hint of it? He seems fine to include signs and wonders. 
+- Shouldn't it have been easier to convince followers of John the Baptist? 
+- Mark seems to use the darkness as imagery for God abandoning Jesus. If the first christians took it as validation of Jesus, how did that evolve into the way Mark uses it?  
+  OTOH the gospels do have the centurion seem to take the darkness as validation. 
+- Why do the gospels say "No sign will be given"?
