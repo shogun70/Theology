@@ -77,7 +77,7 @@ Perhaps the contemporary Christian retelling simply resembled:
 -- Amos 8:9
 
 
-As stated previously, the eclipse wasn't total in Jerusalem (or even Galilee) - it wouldn't have even been particularly dark. 
+As stated previously, the eclipse wasn't total in Jerusalem (or even Galilee) - it would have been a "darkening" rather than a "darkness". 
 But such is the nature of solar eclipses and the ancients were hyper-vigilant for signs in the heavens - certainly there were people in Jerusalem (or Sepphoris) who would have known that an eclipse was occurring, and it would have been confirmed in short order from the further north.  
 
 If Christians were telling eachother that an eclipse somewhere coincided with the crucifixion, it wouldn't take too long in the retelling for a partial eclipse over Jerusalem to become a darkening over the whole land. 
@@ -292,10 +292,10 @@ And there is lots of language in the New Testament epistles which alludes to the
 
 > Into the [Most Holy Place] the high priest goes, and he but once a year, and not without taking blood, which he offers for himself and for the unintentional sins of the people.  
 ...  
-But when Christ appeared as a high priest of the good things that have come, then through the greater and more perfect tent (not made with hands, that is, not of this creation) he entered once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus securing an eternal redemption.
+But when Christ appeared as a high priest of the good things that have come, then through the greater and more perfect tent (not made with hands, that is, not of this creation) he entered once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus securing an eternal redemption.  
 -- Hebrews 9:7,11-12
 
-> Since all have sinned and fall short of the glory of God; they are now justified by his grace as a gift, through the redemption that is in Christ Jesus, whom God put forward as a sacrifice of atonement by his blood.
+> Since all have sinned and fall short of the glory of God; they are now justified by his grace as a gift, through the redemption that is in Christ Jesus, whom God put forward as a sacrifice of atonement by his blood.  
 -- Romans 3:23-25
 
 > He is the atoning sacrifice for our sins, and not for ours only but also for the sins of the whole world.   
@@ -338,12 +338,13 @@ Again, the maximallist will say Paul's use of firstfruits in those passages mere
 
 - Why aren't there more allusions to an eclipse in the NT letters?
 - I would expect Peter to have been repeating it frequently, and yet neither of the letters attributed to Peter mention it. 
+- The Eucharist in 1 Corinthians 11 seems to resonate with Passover more than any other Jewish tradition. 
 - Why doesn't Josephus give any hint of it? He seems fine to include signs and wonders. 
 - Shouldn't it have been easier to convince followers of John the Baptist? 
 - Mark seems to use the darkness as imagery for God abandoning Jesus. If the first christians took it as validation of Jesus, how did that evolve into the way Mark uses it?  
   OTOH the gospels do have the centurion seem to take the darkness as validation. 
 - Why do the gospels say "No sign will be given"?
 
-I wonder if all of these can be somewhat explained away by the fact that Jerusalem wasn't on the path of totality.  
+I wonder if most of these can be somewhat explained away by the fact that Jerusalem wasn't on the path of totality.  
 Superstitious people who saw the total eclipse were convinced it was a sign, they were just waiting for someone to convince them what it was a sign of. 
 For people off the path, the eclipse was only confirmation if they were already inclined to believe.  
