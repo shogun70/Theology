@@ -5,7 +5,9 @@ What if Jesus was crucified around the time of the solar eclipse on 24th Novembe
 
 ![Map of the eclipse including 90% totality markers](./Solar-Eclipse-Anatolia.png)
 
+Eclipse Predictions by Fred Espenak, EclipseWise.com 
 <https://eclipsewise.com/solar/SEgmapx/0001-0100/SE0029Nov24Tgmapx.html>
+
 
 
 This is what Julius Africanus claims that the historian Thallus proposed. 
@@ -23,9 +25,11 @@ I will be ignoring unknowable factors such as cloud-cover.
 
 I'll also have to explain seemingly contradictory evidence, of which the most obvious is that solar eclipses cannot be described as a darkening which lasted hours, and that the eclipse in 29AD was only just over 90% in Jerusalem.  
 
-What to expect during a partial and total solar eclipse:
+What to expect during a partial and total solar eclipse: 
 <https://science.nasa.gov/feature/solar-eclipse-guide/>
 
+How people feel when observing a solar eclipse: 
+<https://www.youtube.com/watch?v=G10m2ZZRH4U>
 
 There is also the issue that the gospels universally place the crucifixion at Passover.  
 But I will look at the gospels **last**.
@@ -36,6 +40,8 @@ But I will look at the gospels **last**.
 Aside: we don't have Thallus writings so we don't know he actually mentioned the crucifixion. We don't even know when he wrote but there is some conjecture that Josephus referred to him, placing him at around 50AD.  
 
 <https://en.wikipedia.org/wiki/Thallus_(historian)>
+
+See also William Craig on Thallus: <https://www.reasonablefaith.org/writings/question-answer/thallus-on-the-darkness-at-noon>
 
 Julian Africanus also claimed that the chronicler Phlegon of Tralles confirmed the same event:
 
@@ -49,7 +55,7 @@ This seems like a misrepresentation of Phlegon, given this quote from Eusebius:
 -- Phlegon of Tralles (quoted by Eusebius)
 
 Aside: Phlegon was a collector of Marvels, so conceptually it would not be surprising for him to have written that an eclipse lasted three hours and occurred at the full moon.  
-However there doesn't seem to be a good explanation for why Eusebius (and Origen too) would provide direct quotes of Phlegon which do not contain those elements. 
+However there doesn't seem to be a good explanation for why Eusebius would provide a direct quote of Phlegon which did not contain those elements. 
 
 Phlegon is certainly referring to the eclipse in November 29AD. 
 The noteworthiness of the earthquake is not that several houses fell down. It must be that it coincided with the eclipse. And a total eclipse in Bythnia at around midday is certainly the one in 29AD. 
@@ -346,5 +352,5 @@ Again, the maximallist will say Paul's use of firstfruits in those passages mere
 - Why do the gospels say "No sign will be given"?
 
 I wonder if most of these can be somewhat explained away by the fact that Jerusalem wasn't on the path of totality.  
-Superstitious people who saw the total eclipse were convinced it was a sign, they were just waiting for someone to convince them what it was a sign of. 
-For people off the path, the eclipse was only confirmation if they were already inclined to believe.  
+Superstitious people who saw the total eclipse (in Antioch, Tarsus, Galatia) were convinced it was a sign, they were just waiting for someone to convince them what it was a sign of. 
+For people off the path (like in Jerusalem), the eclipse was only confirmation if they were already inclined to believe.  
