@@ -15,7 +15,7 @@ how then should an eclipse be supposed to happen when the moon is almost diametr
 
 What if Thallus was correct?
 
-https://eclipsewise.com/solar/SEgmapx/0001-0100/SE0029Nov24Tgmapx.html  
+Interactive eclipse map: <https://eclipsewise.com/solar/SEgmapx/0001-0100/SE0029Nov24Tgmapx.html>  
 Eclipse Predictions by Fred Espenak, EclipseWise.com
 
 ----
@@ -34,7 +34,7 @@ See also William Craig on Thallus: <https://www.reasonablefaith.org/writings/que
 
 Africanus also claims Phlegon of Tralles records a three hour eclipse at full moon.
 
-> Phlegon records that, in the time of Tiberius Caesar, at full moon, there was a full eclipse of the sun from the sixth hour to the ninth — manifestly that one of which we speak. 
+> __Phlegon records that, in the time of Tiberius Caesar, at full moon, there was a full eclipse of the sun from the sixth hour to the ninth — manifestly that one of which we speak.__ 
 But what has an eclipse in common with an earthquake, the rending rocks, and the resurrection of the dead, and so great a perturbation throughout the universe? 
 Surely no such event as this is recorded for a long period. 
 But it was a darkness induced by God, because the Lord happened then to suffer. And calculation makes out that the period of 70 weeks, as noted in Daniel, is completed at this time.  
@@ -131,12 +131,67 @@ Is there any evidence against this Passover crucifixion tradition in the pre-gos
 
 Why is Hebrews so focused on the Day of Atonement typology and even Melchizadek, but never Passover typology?  
 
+> Into the [Most Holy Place] the high priest goes, and he but once a year, and not without taking blood, which he offers for himself and for the unintentional sins of the people.  
+...  
+__But when Christ appeared as a high priest of the good things that have come__, 
+then through the greater and more perfect tent (not made with hands, that is, not of this creation) 
+__he entered once for all into the holy places__, 
+not by means of the blood of goats and calves but by means of his own blood, 
+thus securing an eternal redemption.  
+-- Hebrews 9:7,11-12
+
+> We have this as a sure and steadfast anchor of the soul, a hope that enters into the inner place behind the curtain, 
+where Jesus has gone as a forerunner on our behalf, 
+__having become a high priest forever after the order of Melchizedek__.
+-- Hebrews 6:19-20 
+ 
 Why is Epistle of Barnabas exploring several typologies for Christ and christian living but never Passover?  
+
+> How, then, ran the commandment? Give your attention. 
+__Take two goats of goodly aspect, and similar to each other, and offer them.__ 
+And let the priest take one as a burnt-offering for sins. 
+And what should they do with the other? Accursed, says He, is the one. 
+__Mark how the type of Jesus now comes out.__ 
+And all of you spit upon it, and pierce it, and encircle its head with scarlet wool, and thus let it be driven into the wilderness. 
+And when all this has been done, he who bears the goat brings it into the desert, and takes the wool off from it, and places that upon a shrub which is called Rachia, of which also we are accustomed to eat the fruits when we find them in the field. 
+Of this kind of shrub alone the fruits are sweet. Why then, again, is this? Give good heed. 
+[You see] one upon the altar, and the other accursed; 
+and why [do you behold] the one that is accursed crowned? 
+Because they shall see Him then in that day having a scarlet robe about his body down to his feet; 
+and they shall say, Is not this He whom we once despised, and pierced, and mocked, and crucified? 
+Truly this is He who then declared Himself to be the Son of God. 
+For how like is He to Him! With a view to this, 
+[He required] the goats to be of goodly aspect, and similar, that, when they see Him then coming, they may be amazed by the likeness of the goat. 
+__Behold, then, the type of Jesus who was to suffer.__ 
+But why is it that they place the wool in the midst of thorns? 
+It is a type of Jesus set before the view of the Church. 
+[They place the wool among thorns], that any one who wishes to bear it away may find it necessary to suffer much, because the thorn is formidable, and thus obtain it only as the result of suffering.  
+-- Epistle of Barnabas, Chapter 7
+
+> __Now what do you suppose this to be a type of, that a command was given to Israel, 
+that men of the greatest wickedness should offer a heifer__ 
+and slay and burn it, 
+and, that then boys should take the ashes, and put these into vessels, 
+and bind round a stick purple wool along with hyssop, 
+and that thus the boys should sprinkle the people, one by one, 
+in order that they might be purified from their sins? 
+Consider how He speaks to you with simplicity. 
+__The calf is Jesus: the sinful men offering it are those who led Him to the slaughter.__ 
+But now the men are no longer guilty, are no longer regarded as sinners.  
+-- Epistle of Barnabas, Chapter 8
 
 ----
 
-Paul does mention Passover, but he also explores several typologies, including Adam, New Covenant, Day of Atonement. 
+Paul does mention Passover, but he also explores several typologies, including New Adam, New Covenant, Day of Atonement. 
 For Paul, all Jewish rituals are a foreshadowing of Christ. 
+
+> __Since all have sinned__ and fall short of the glory of God; they are now justified by his grace as a gift, 
+through __the redemption that is in Christ Jesus, whom God put forward as a sacrifice of atonement by his blood__.  
+-- Romans 3:23-25
+
+> Therefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath. 
+These are a shadow of the things to come, but the substance belongs to Christ.
+-- Colossians 2:16-17
 
 Even the gospels acknowledge that for Jesus to be arrested and executed in Jerusalem at one of the major pilgrimage festivals 
 goes against the grain of the stability the Jewish leaders and Roman administration would be hoping for.  
