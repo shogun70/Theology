@@ -72,7 +72,7 @@ where Paul reminds the church - on or adjacent to the path of totality - that th
 __It was before your eyes that Jesus Christ was publicly exhibited as crucified!__  
 -- Galatians 3:1
 
-This would also explain why Antioch - also on the path of totality - was such a stronghold of early christianity. 
+This would also explain why Antioch - also on the path of totality - was the cradle for early christianity. 
 
 > Now those who were scattered because of the persecution that arose over Stephen traveled as far as Phoenicia and Cyprus and Antioch, 
 speaking the word to no one except Jews. 
@@ -212,8 +212,8 @@ and that he appeared to Cephas, then to the twelve.
 
 For Paul, all Jewish rituals are a foreshadowing of Christ.
 
-> Therefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath. 
-These are a shadow of the things to come, but the substance belongs to Christ.
+> __Therefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath.__ 
+__These are a shadow of the things to come, but the substance belongs to Christ.__
 -- Colossians 2:16-17
 
 ----
@@ -239,8 +239,8 @@ If that is the case, how might the Passion week narrative have evolved?
 
 The NT epistles plus Barnabas and Clement explore different imagery and typology. 
 But they all agree that Jesus death was a substitionary sacrifice. 
-Already this makes Passover and Yom Kippur the most likely candidates for annual commemorations of Jesus death. 
-Passover probably is the stronger candidate because:
+Already this makes Passover and Yom Kippur the most likely candidates for annual remembrances of Jesus death. 
+Passover might naturally have become the primary focus because: 
 
 - Day of Atonement is an ongoing substitionary sacrifice. The original Passover Lamb was a once off.
 - Passover has a richer narrative with broad application. 
@@ -268,7 +268,8 @@ There are two Jewish firstfruits offerings:
 
 If Jesus was executed in the lull between Sukkot and Hannukah, how could the Passion week tradition have begun? 
 
-This isn't a novel question and the following may have already been proposed. 
+This isn't a novel question and the following may have already been proposed.  
+
 Some scenes in the Passion narrative resonate with different Jewish rituals:
 
 - The triumphal entry: Sukkot
@@ -278,9 +279,45 @@ Some scenes in the Passion narrative resonate with different Jewish rituals:
 
 And in fact, the gospel of John does record Jesus going to Jerusalem for Sukkot and other festivals (hardly a contentious issue). 
 
-Initially Jewish christians (and Jewish-adjacent christians) would have been adapting the comemmorations for Jewish holy days. These might even turn into short plays. 
+> After this Jesus went about in Galilee.  
+He would not go about in Judea, because the Jews were seeking to kill him. 
+__Now the Jews' Feast of Booths was at hand.__  
+__So his brothers said to him,__  
+“__Leave here and go to Judea, that your disciples also may see the works you are doing.__
+For no one works in secret if he seeks to be known openly. 
+If you do these things, show yourself to the world.” 
+For not even his brothers believed in him.  
+Jesus said to them,  
+“My time has not yet come, but your time is always here.  
+The world cannot hate you, but it hates me because I testify about it that its works are evil.  
+You go up to the feast. I am not going up to this feast, for my time has not yet fully come.”  
+__After saying this, he remained in Galilee.__  
+__But after his brothers had gone up to the feast, then he also went up, not publicly but in private.__  
+The Jews were looking for him at the feast, and saying, “Where is he?”  
+And there was much muttering about him among the people. 
+While some said, “He is a good man,” others said, “No, he is leading the people astray.”  
+Yet for fear of the Jews no one spoke openly of him.  
+__About the middle of the feast Jesus went up into the temple and began teaching.__  
+-- John 7:1-14
 
-Eventually someone writes these all down for distribution - which is probably moderately successful. But when the author of Mark fuses a lot of different stories and teachings into a coherent narrative it has a viral moment and becomes the template for what a gospel must contain. 
+Initially Jewish christians (and Jewish-adjacent christians) would have been adapting their reflections for Jewish holy days.
+These might even turn into short plays. 
+
+Eventually someone assembled an unordered collection of some of these for distribution - which is probably moderately successful. 
+
+> And the Elder said this also:  
+‘Mark, having become the interpreter of Peter, wrote down accurately everything that he remembered, 
+__without however recording in order what was either said or done by Christ__.  
+For neither did he hear the Lord, nor did he follow Him;  
+but afterwards, as I said, 
+__attended Peter, who adapted his instructions to the needs (of his hearers) but had no design of giving a connected account of the Lord’s oracles__.  
+So then Mark made no mistake, while he thus wrote down some things as he remembered them;  
+for he made it his one care not to omit anything that he heard, or to set down any false statement therein.
+-- Papias (quoted by Eusebius) 
+
+But when the final redactor of the gospel of Jesus Christ 
+fuses several stories and teachings into a coherent narrative 
+it has a viral moment and becomes the template for what a gospel must contain. 
 
 ----
 
@@ -306,7 +343,7 @@ For people off the path (like in Jerusalem), the eclipse was only confirmation i
 **Reflections**
 
 The proposition that Jesus’s crucifixion aligned with a solar eclipse in November would invalidate the Passover chronology of the Synoptic Gospels. 
-Yet this very idea assumes that the Gospels have captured a genuine early Christian memory - 
+Yet this very thesis assumes that the Gospels have captured a genuine early Christian memory - 
 that is, the "darkness" over the whole land.  
 This paradox was first pointed out by Origen in Contra Celsum.  
 
