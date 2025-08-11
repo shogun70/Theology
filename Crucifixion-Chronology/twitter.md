@@ -189,7 +189,7 @@ But now the men are no longer guilty, are no longer regarded as sinners.
 
 ----
 
-Paul does call Jesus our Passover Lamb, but it is in the context of Corinthians already observing the Festival of Unleavened Bread. 
+Paul does explicitly call Jesus our Passover Lamb, but it is in the context of Corinthians already observing the Festival of Unleavened Bread. 
 
 > Your boasting is not good. Do you not know that a little leaven leavens the whole lump? 
 Cleanse out the old leaven that you may be a new lump, as you really are unleavened. 
@@ -227,19 +227,17 @@ __These are a shadow of the things to come, but the substance belongs to Christ.
 
 ----
 
-Even the gospels acknowledge that for Jesus to be arrested and executed in Jerusalem at one of the major pilgrimage festivals 
-goes against the grain of the stability the Jewish leaders and Roman administration would be hoping for.
-
->  Now the Passover and the Festival of Unleavened Bread were only two days away, 
-and the chief priests and the teachers of the law were scheming to arrest Jesus secretly and kill him. 
-__“But not during the festival,” they said, “or the people may riot.”__   
--- Mark 14:1-2
-
-----
-
 Assuming that Jesus was in fact crucified around of the solar eclipse seems to have significant explanatory power. 
 
-But what about contradictory data - foremost being that all the gospel authors accepted a Passover crucifixion? 
+So how to explain contradictory data - foremost being that all the gospel authors accepted a Passover crucifixion? 
+
+But even the gospels acknowledge that for Jesus to be arrested and executed in Jerusalem at one of the major pilgrimage festivals
+goes against the grain of the stability the Jewish leaders and Roman administration would be hoping for.
+
+>  Now the Passover and the Festival of Unleavened Bread were only two days away,
+and the chief priests and the teachers of the law were scheming to arrest Jesus secretly and kill him.
+__“But not during the festival,” they said, “or the people may riot.”__   
+-- Mark 14:1-2
 
 And if the gospels are wrong about the timing, presumably the Passion week narrative is a later tradition too. 
 If that is the case, how might the Passion week narrative have evolved? 
@@ -328,6 +326,8 @@ it has a viral moment and becomes the template for what a gospel must contain.
 I wonder if most of these can be somewhat explained away by the fact that Jerusalem wasn't on the path of totality.  
 Superstitious people who saw the total eclipse (in Antioch, Tarsus, Galatia) were convinced it was a sign, they were just waiting for someone to convince them what it was a sign of. 
 For people off the path (like in Jerusalem), the eclipse was only confirmation if they were already inclined to believe.  
+
+Additionally one could speculate that the eclipse wasn't the same day as the crucifixion. 
 
 ----
 
