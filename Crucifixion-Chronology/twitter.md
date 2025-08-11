@@ -57,25 +57,30 @@ but rather that it coincided with a spectacular eclipse.
 
 ----
 
-Let's explore the explanatory power of assuming the date of Jesus crucifixion was near enough to the solar eclipse in November 29AD that some followers claimed it as divine acknowledgement. 
+Let's consider the explanatory power of assuming the date of Jesus crucifixion was near enough to the solar eclipse in November 29AD that some followers claimed it as divine acknowledgement. 
 
 ![Solar eclipse over Antioch, Tarsus, Iconium](./Solar-Eclipse-Antioch.png)
 
+<https://www.youtube.com/watch?v=G10m2ZZRH4U>
+
 ----
 
-
 First up, this solar eclipse becomes the most reasonable explanation for Galatians 3:1 
-where Paul reminds the Galatians - on or near the path of totality - that they were eyewitnesses to the crucifixion. 
+where Paul reminds the church - on or adjacent to the path of totality - that they were eyewitnesses to the crucifixion. 
 
-> You foolish Galatians! Who has bewitched you? It was before your eyes that Jesus Christ was publicly exhibited as crucified!  
+> You foolish Galatians! Who has bewitched you? 
+__It was before your eyes that Jesus Christ was publicly exhibited as crucified!__  
 -- Galatians 3:1
 
 This would also explain why Antioch - also on the path of totality - was such a stronghold of early christianity. 
 
-> Now those who were scattered because of the persecution that arose over Stephen traveled as far as Phoenicia and Cyprus and Antioch, speaking the word to no one except Jews. 
-But there were some of them, men of Cyprus and Cyrene, who on coming to Antioch spoke to the Hellenists also, preaching the Lord Jesus. And the hand of the Lord was with them, and a great number who believed turned to the Lord.  
+> Now those who were scattered because of the persecution that arose over Stephen traveled as far as Phoenicia and Cyprus and Antioch, 
+speaking the word to no one except Jews. 
+But there were some of them, men of Cyprus and Cyrene, 
+__who on coming to Antioch spoke to the Hellenists__ also, preaching the Lord Jesus. 
+And the hand of the Lord was with them, __and a great number who believed turned to the Lord.__  
 ...  
-And in Antioch the disciples were first called Christians.  
+__And in Antioch the disciples were first called Christians.__  
 -- Acts 11:19-26
 
 Similarly, Tarsus was on the path of totality. 
@@ -127,9 +132,9 @@ especially to people who had seen the total lunar eclipse which occurred six mon
 ----
  
 The gospels consistently date the crucifixion at Passover. 
-Is there any evidence against this Passover crucifixion tradition in the pre-gospel era? 
+But what about in the pre-gospel era? 
 
-Why is Hebrews so focused on the Day of Atonement typology and even Melchizadek, but never Passover typology?  
+Hebrews never uses Passover imagery, instead focusin on the Day of Atonement imagery and even Melchizadek.   
 
 > Into the [Most Holy Place] the high priest goes, and he but once a year, and not without taking blood, which he offers for himself and for the unintentional sins of the people.  
 ...  
@@ -145,7 +150,7 @@ where Jesus has gone as a forerunner on our behalf,
 __having become a high priest forever after the order of Melchizedek__.
 -- Hebrews 6:19-20 
  
-Why is Epistle of Barnabas exploring several typologies for Christ and christian living but never Passover?  
+Likewise Epistle of Barnabas explores several typologies for Christ and christian living but never Passover.   
 
 > How, then, ran the commandment? Give your attention. 
 __Take two goats of goodly aspect, and similar to each other, and offer them.__ 
@@ -153,19 +158,12 @@ And let the priest take one as a burnt-offering for sins.
 And what should they do with the other? Accursed, says He, is the one. 
 __Mark how the type of Jesus now comes out.__ 
 And all of you spit upon it, and pierce it, and encircle its head with scarlet wool, and thus let it be driven into the wilderness. 
-And when all this has been done, he who bears the goat brings it into the desert, and takes the wool off from it, and places that upon a shrub which is called Rachia, of which also we are accustomed to eat the fruits when we find them in the field. 
-Of this kind of shrub alone the fruits are sweet. Why then, again, is this? Give good heed. 
-[You see] one upon the altar, and the other accursed; 
-and why [do you behold] the one that is accursed crowned? 
-Because they shall see Him then in that day having a scarlet robe about his body down to his feet; 
-and they shall say, Is not this He whom we once despised, and pierced, and mocked, and crucified? 
-Truly this is He who then declared Himself to be the Son of God. 
-For how like is He to Him! With a view to this, 
-[He required] the goats to be of goodly aspect, and similar, that, when they see Him then coming, they may be amazed by the likeness of the goat. 
+...  
 __Behold, then, the type of Jesus who was to suffer.__ 
 But why is it that they place the wool in the midst of thorns? 
-It is a type of Jesus set before the view of the Church. 
-[They place the wool among thorns], that any one who wishes to bear it away may find it necessary to suffer much, because the thorn is formidable, and thus obtain it only as the result of suffering.  
+__It is a type of Jesus set before the view of the Church,__  
+that any one who wishes to bear it away may find it necessary to suffer much, 
+because the thorn is formidable, and thus obtain it only as the result of suffering.    
 -- Epistle of Barnabas, Chapter 7
 
 > __Now what do you suppose this to be a type of, that a command was given to Israel, 
@@ -182,8 +180,19 @@ But now the men are no longer guilty, are no longer regarded as sinners.
 
 ----
 
-Paul does mention Passover, but he also explores several typologies, including New Adam, New Covenant, Day of Atonement. 
-For Paul, all Jewish rituals are a foreshadowing of Christ. 
+Paul does call Jesus our Passover Lamb, but that is in the context of Corinthians already observing the Festival of Unleavened Bread. 
+
+> Your boasting is not good. Do you not know that a little leaven leavens the whole lump? 
+Cleanse out the old leaven that you may be a new lump, as you really are unleavened. 
+For Christ, our Passover lamb, has been sacrificed. 
+__Let us therefore celebrate the festival, 
+not with the old leaven, the leaven of malice and evil, 
+but with the unleavened bread of sincerity and truth.__  
+-- 1 Corinthians 5:6-8 
+
+He also explores other imagery and typology, including Day of Atonement, 
+Christ as the New Adam, the Spirit as a New Covenant, baptism as dying with Christ. 
+After all, for Paul, all Jewish rituals are a foreshadowing of Christ. 
 
 > __Since all have sinned__ and fall short of the glory of God; they are now justified by his grace as a gift, 
 through __the redemption that is in Christ Jesus, whom God put forward as a sacrifice of atonement by his blood__.  
@@ -194,11 +203,11 @@ These are a shadow of the things to come, but the substance belongs to Christ.
 -- Colossians 2:16-17
 
 Even the gospels acknowledge that for Jesus to be arrested and executed in Jerusalem at one of the major pilgrimage festivals 
-goes against the grain of the stability the Jewish leaders and Roman administration would be hoping for.  
+goes against the grain of the stability the Jewish leaders and Roman administration would be hoping for.
 
 >  Now the Passover and the Festival of Unleavened Bread were only two days away, 
 and the chief priests and the teachers of the law were scheming to arrest Jesus secretly and kill him. 
-“But not during the festival,” they said, “or the people may riot.”   
+__“But not during the festival,” they said, “or the people may riot.”__   
 -- Mark 14:1-2
 
 ----
@@ -207,11 +216,12 @@ Assuming that Jesus was in fact crucified around of the solar eclipse seems to h
 
 But what about contradictory data - foremost being that all the gospel authors accepted a Passover crucifixion? 
 
-And if the gospels are wrong about the timing, presumably the Passion week narrative is a later tradition too. In that case, how might the Passion week narrative have evolved? 
+And if the gospels are wrong about the timing, presumably the Passion week narrative is a later tradition too. 
+If that is the case, how might the Passion week narrative have evolved? 
 
 ----
 
-The NT epistles plus Barnabas and Clement explore different typologies. 
+The NT epistles plus Barnabas and Clement explore different imagery and typology. 
 But they all agree that Jesus death was a substitionary sacrifice. 
 Already this makes Passover and Yom Kippur the most likely candidates for annual commemorations of Jesus death. 
 Passover probably is the stronger candidate because:
@@ -221,7 +231,7 @@ Passover probably is the stronger candidate because:
 - Passover together with Shavuot commemorates the covenant of God with his people. 
 - Passover was a pilgrimage festival which would fit with the gospel narrative of crowds being in Jerusalem when Jesus was crucified. 
 
-And finally, there is these two "firstfuits" analogies of Paul:
+And finally, there is these two "firstfruits" analogies of Paul:
 
 > But in fact Christ has been raised from the dead, the firstfruits of those who have fallen asleep.  
 -- 1 Corinthians 15:20
@@ -260,11 +270,12 @@ Eventually someone writes these all down for distribution - which is probably mo
 ----
 
 
-**Contradictory evidence**
+**Contradictory data**
 
 - Why aren't there more allusions to an eclipse in the NT letters?
-- I would expect Peter to have been repeating it frequently, and yet neither of the letters attributed to Peter mention it. 
-- The Eucharist in 1 Corinthians 11 seems to resonate with Passover more than any other Jewish tradition. 
+- I would expect Peter to have been repeating it frequently, and yet neither of the letters attributed to Peter mention it.
+- Gospel of John doesn't include the darkness.
+- The Eucharist in 1 Corinthians 11 possiibly resonates with Passover more than other Jewish tradition. 
 - Why doesn't Josephus give any hint of it? He seems fine to include signs and wonders. 
 - Shouldn't it have been easier to convince followers of John the Baptist? 
 - Mark seems to use the darkness as imagery for God abandoning Jesus. If the first christians took it as validation of Jesus, how did that evolve into the way Mark uses it?  
