@@ -101,6 +101,14 @@ I studied under Gamaliel and was thoroughly trained in the law of our ancestors.
 They are well known to the apostles, and they were in Christ before me.  
 -- Romans 16:7
 
+Iconium, Lystra and Derbe were Galatian cities just off the path of totality. 
+Timothy (and his believing mother) were from Lystra and one or both may have seen the eclipse.  
+
+> Paul came to Derbe and then to Lystra, where a disciple named Timothy lived, 
+whose mother was Jewish and a believer but whose father was a Greek.  
+The believers at Lystra and Iconium spoke well of him.  
+-- Acts 16:1-2
+
 ----
 
 Lastly, Peter's speech in Acts 2 can be taken literally.
