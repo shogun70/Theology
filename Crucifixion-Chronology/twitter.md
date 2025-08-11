@@ -44,11 +44,11 @@ This would match the synoptic gospel account of the crucifixion darkness,
 except that Eusebius provides a more detailed and potentially direct quote of Phlegon 
 which merely implies the eclipse coincided with earthquakes in Bythinia.
 
-> Indeed Phlegon, who is an excellent calculator of olympiads, 
-also writes about this, in his 13th book writing thus:  
-In the fourth year of the 202nd Olympiad, a great eclipse of the sun occurred at the sixth hour that excelled every other before it, 
+> Indeed __Phlegon, who is an excellent calculator of olympiads, 
+also writes about this__, in his 13th book writing thus:  
+In the fourth year of the 202nd Olympiad, __a great eclipse of the sun occurred at the sixth hour__ that excelled every other before it, 
 turning the day into such darkness of night that the stars in the heavens were seen.
-And there was an earthquake in Bithynia which overthrew many houses in the city of Nicaea.  
+__And there was an earthquake in Bithynia which overthrew many houses in the city of Nicaea__.  
 -- Phlegon of Tralles (quoted by Eusebius)
 
 Phlegon's eclipse is certainly the one in 29AD. 
@@ -89,24 +89,24 @@ According to Acts, Paul was born in Tarsus, although not living there at the chu
 It is possible he had relatives who were there during the eclipse. 
 Potentially this could explain Paul's statement in Romans 16 that he had kinsmen who were Christian before him. 
 
-> Then Barnabas went to Tarsus to look for Saul, 
+> Then __Barnabas went to Tarsus to look for Saul__, 
 and when he found him, he brought him to Antioch. 
 So for a whole year Barnabas and Saul met with the church and taught great numbers of people.  
 -- Acts 11:25-26 
 
-> Then Paul said: “I am a Jew, born in Tarsus of Cilicia, but brought up in this city. 
+> __Then Paul said: “I am a Jew, born in Tarsus of Cilicia, but brought up in this city.__ 
 I studied under Gamaliel and was thoroughly trained in the law of our ancestors."  
 -- Acts 22:2-3
  
-> Greet Andronicus and Junia, my kinsmen and my fellow prisoners. 
-They are well known to the apostles, and they were in Christ before me.  
+> __Greet Andronicus and Junia, my kinsmen__ and my fellow prisoners. 
+They are well known to the apostles, and __they were in Christ before me__.  
 -- Romans 16:7
 
 Iconium, Lystra and Derbe were Galatian cities just off the path of totality. 
 Timothy (and his believing mother) were from Lystra and one or both may have seen the eclipse.  
 
-> Paul came to Derbe and then to Lystra, where a disciple named Timothy lived, 
-whose mother was Jewish and a believer but whose father was a Greek.  
+> Paul came to Derbe and then to __Lystra, where a disciple named Timothy lived__, 
+__whose mother was Jewish and a believer__ but whose father was a Greek. 
 The believers at Lystra and Iconium spoke well of him.  
 -- Acts 16:1-2
 
@@ -170,7 +170,7 @@ And all of you spit upon it, and pierce it, and encircle its head with scarlet w
 ...  
 __Behold, then, the type of Jesus who was to suffer.__ 
 But why is it that they place the wool in the midst of thorns? 
-__It is a type of Jesus set before the view of the Church,__  
+__It is a type of Jesus set before the view of the Church,__ 
 that any one who wishes to bear it away may find it necessary to suffer much, 
 because the thorn is formidable, and thus obtain it only as the result of suffering.    
 -- Epistle of Barnabas, Chapter 7
@@ -258,7 +258,7 @@ Passover might naturally have become the primary focus because:
 
 If Jesus was executed in the lull between Sukkot and Hannukah, how could the Passion week tradition have begun? 
 
-This isn't a novel question, and the following may have already been proposed.  
+This isn't a novel question, and the following speculation is probably unoriginal.    
 
 Some scenes in the Passion narrative resonate with different Jewish rituals:
 
@@ -269,40 +269,44 @@ Some scenes in the Passion narrative resonate with different Jewish rituals:
 
 And in fact, the gospel of John does record Jesus going to Jerusalem for Sukkot and other festivals (hardly a contentious issue). 
 
-> After this Jesus went about in Galilee.  
-He would not go about in Judea, because the Jews were seeking to kill him. 
-__Now the Jews' Feast of Booths was at hand.__  
-__So his brothers said to him,__  
+> After this Jesus went about in Galilee. 
+He would not go about in Judea, because the Jews were seeking to kill him.  
+__Now the Jews' Feast of Booths was at hand.__ 
+__So his brothers said to him,__ 
 “__Leave here and go to Judea, that your disciples also may see the works you are doing.__
 For no one works in secret if he seeks to be known openly. 
-If you do these things, show yourself to the world.” 
+If you do these things, show yourself to the world.”  
 For not even his brothers believed in him.  
-Jesus said to them,  
-“My time has not yet come, but your time is always here.  
-The world cannot hate you, but it hates me because I testify about it that its works are evil.  
+Jesus said to them, 
+“My time has not yet come, but your time is always here. 
+The world cannot hate you, but it hates me because I testify about it that its works are evil. 
 You go up to the feast. I am not going up to this feast, for my time has not yet fully come.”  
 __After saying this, he remained in Galilee.__  
 __But after his brothers had gone up to the feast, then he also went up, not publicly but in private.__  
-The Jews were looking for him at the feast, and saying, “Where is he?”  
+The Jews were looking for him at the feast, and saying, “Where is he?” 
 And there was much muttering about him among the people. 
-While some said, “He is a good man,” others said, “No, he is leading the people astray.”  
+While some said, “He is a good man,” others said, “No, he is leading the people astray.” 
 Yet for fear of the Jews no one spoke openly of him.  
 __About the middle of the feast Jesus went up into the temple and began teaching.__  
 -- John 7:1-14
 
+<https://vridar.org/2011/01/05/liberating-jesus-from-the-letter-of-the-gospel-narrative/>
+
+----
+
 Initially Jewish christians (and Jewish-adjacent christians) would have been adapting their reflections for Jewish holy days.
 These might even turn into short plays. 
 
-Eventually someone assembled an unordered collection of some of these for distribution - which is probably moderately successful. 
+Eventually someone assembled an unordered collection of some of these for distribution - which was probably moderately successful. 
 
 > And the Elder said this also:  
 ‘Mark, having become the interpreter of Peter, wrote down accurately everything that he remembered, 
 __without however recording in order what was either said or done by Christ__.  
-For neither did he hear the Lord, nor did he follow Him;  
+For neither did he hear the Lord, nor did he follow Him; 
 but afterwards, as I said, 
 __attended Peter, who adapted his instructions to the needs (of his hearers) but had no design of giving a connected account of the Lord’s oracles__.  
-So then Mark made no mistake, while he thus wrote down some things as he remembered them;  
-for he made it his one care not to omit anything that he heard, or to set down any false statement therein.
+So then Mark made no mistake, while he thus wrote down some things as he remembered them; 
+for he made it his one care not to omit anything that he heard, or to set down any false statement therein.  
 -- Papias (quoted by Eusebius) 
 
 But when the final redactor of the gospel of Jesus Christ 
@@ -316,7 +320,7 @@ it has a viral moment and becomes the template for what a gospel must contain.
 - Why aren't there more allusions to an eclipse in the NT letters?
 - I would expect Peter to have been repeating it frequently, and yet neither of the letters attributed to Peter mention it.
 - Gospel of John doesn't include the darkness.
-- The Eucharist in 1 Corinthians 11 possiibly resonates with Passover more than other Jewish tradition. 
+- The Eucharist in 1 Corinthians 11 possibly resonates with Passover more than other Jewish tradition. 
 - Why doesn't Josephus give any hint of it? He seems fine to include signs and wonders. 
 - Shouldn't it have been easier to convince followers of John the Baptist? 
 - Mark seems to use the darkness as imagery for God abandoning Jesus. If the first christians took it as validation of Jesus, how did that evolve into the way Mark uses it?  
@@ -324,10 +328,15 @@ it has a viral moment and becomes the template for what a gospel must contain.
 - Why do the gospels say "No sign will be given"?
 
 I wonder if most of these can be somewhat explained away by the fact that Jerusalem wasn't on the path of totality.  
-Superstitious people who saw the total eclipse (in Antioch, Tarsus, Galatia) were convinced it was a sign, they were just waiting for someone to convince them what it was a sign of. 
+Superstitious people who saw the total eclipse (in Antioch, Tarsus, Galatia) were convinced it was a sign, 
+they were just waiting for someone to convince them what it was a sign of. 
 For people off the path (like in Jerusalem), the eclipse was only confirmation if they were already inclined to believe.  
 
-Additionally one could speculate that the eclipse wasn't the same day as the crucifixion. 
+Thus as Christianity spread further from the path of totality we would expext other evidence to be leveraged - 
+fulfilment of scripture, speaking in tongues, healings and other miracles, 
+changed lives, natural disasters as warnings from God, etc. 
+
+Additionally one could postulate that the eclipse wasn't the same day as the crucifixion. 
 
 ----
 
