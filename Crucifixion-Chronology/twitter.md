@@ -128,13 +128,13 @@ especially to people who had seen the total lunar eclipse which occurred six mon
 
 ![Lunar eclipses](https://eclipsewise.com/lunar/LEhelp/images/TLE2014Apr-Phases-1w.jpg)  
 
-
 ----
  
 The gospels consistently date the crucifixion at Passover. 
-But what about in the pre-gospel era? 
+But did Christians make this association in the pre-gospel era? 
 
-Hebrews never uses Passover imagery, instead focusin on the Day of Atonement imagery and even Melchizadek.   
+Hebrews never uses Passover imagery, instead focusing on the Day of Atonement imagery and even Melchizadek. 
+Christ is a High Priest.  
 
 > Into the [Most Holy Place] the high priest goes, and he but once a year, and not without taking blood, which he offers for himself and for the unintentional sins of the people.  
 ...  
@@ -149,7 +149,7 @@ thus securing an eternal redemption.
 where Jesus has gone as a forerunner on our behalf, 
 __having become a high priest forever after the order of Melchizedek__.
 -- Hebrews 6:19-20 
- 
+
 Likewise Epistle of Barnabas explores several typologies for Christ and christian living but never Passover.   
 
 > How, then, ran the commandment? Give your attention. 
@@ -190,17 +190,33 @@ not with the old leaven, the leaven of malice and evil,
 but with the unleavened bread of sincerity and truth.__  
 -- 1 Corinthians 5:6-8 
 
-He also explores other imagery and typology, including Day of Atonement, 
-Christ as the New Adam, the Spirit as a New Covenant, baptism as dying with Christ. 
-After all, for Paul, all Jewish rituals are a foreshadowing of Christ. 
+He also explores diverse imagery and typology for crucifixion and Christ, including Day of Atonement, 
+Christ being cursed, Christ as the New Adam, baptism as dying with Christ. 
 
 > __Since all have sinned__ and fall short of the glory of God; they are now justified by his grace as a gift, 
 through __the redemption that is in Christ Jesus, whom God put forward as a sacrifice of atonement by his blood__.  
 -- Romans 3:23-25
 
+>  __Christ redeemed us from the curse of the law by becoming a curse for us__ —
+for it is written, "Cursed is everyone who is hanged on a tree"
+-- Galatians 3:13
+
+Indeed it seems this substitutionary atonement is also the pre-Pauline association for the crucifixion. 
+
+> __For I delivered to you as of first importance what I also received:__  
+__that Christ died for our sins__ in accordance with the Scriptures,  
+that he was buried,  
+that he was raised on the third day in accordance with the Scriptures.  
+and that he appeared to Cephas, then to the twelve.  
+-- 1 Corinthians 15:3-4
+
+For Paul, all Jewish rituals are a foreshadowing of Christ.
+
 > Therefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath. 
 These are a shadow of the things to come, but the substance belongs to Christ.
 -- Colossians 2:16-17
+
+----
 
 Even the gospels acknowledge that for Jesus to be arrested and executed in Jerusalem at one of the major pilgrimage festivals 
 goes against the grain of the stability the Jewish leaders and Roman administration would be hoping for.
@@ -266,9 +282,7 @@ Initially Jewish christians (and Jewish-adjacent christians) would have been ada
 
 Eventually someone writes these all down for distribution - which is probably moderately successful. But when the author of Mark fuses a lot of different stories and teachings into a coherent narrative it has a viral moment and becomes the template for what a gospel must contain. 
 
-
 ----
-
 
 **Contradictory data**
 
@@ -289,13 +303,14 @@ For people off the path (like in Jerusalem), the eclipse was only confirmation i
 
 ----
 
-**Final thoughts**
+**Reflections**
 
 The proposition that Jesus’s crucifixion aligned with a solar eclipse in November would invalidate the Passover chronology of the Synoptic Gospels. 
 Yet this very idea assumes that the Gospels have captured a genuine early Christian memory - 
-that is, the "darkness" over the whole land. 
-This paradox was first pointed out by Origen in Contra Celsum
+that is, the "darkness" over the whole land.  
+This paradox was first pointed out by Origen in Contra Celsum.  
 
 > But if Celsus believe the Gospel accounts when he thinks that he can find in them matter of charge against the Christians, and refuse to believe them when they establish the divinity of Jesus, our answer to him is:  
-Sir, either disbelieve all the Gospel narratives, and then no longer imagine that you can found charges upon them; or, in yielding your belief to their statements, look in admiration on the Logos of God, who became incarnate, and who desired to confer benefits upon the whole human race. And this feature evinces the nobility of the work of Jesus, that, down to the present time, those whom God wills are healed by His name. And with regard to the eclipse in the time of Tiberius Cæsar, in whose reign Jesus appears to have been crucified, and the great earthquakes which then took place, Phlegon too, I think, has written in the thirteenth or fourteenth book of his Chronicles.  
+Sir, either disbelieve all the Gospel narratives, and then no longer imagine that you can found charges upon them; or, in yielding your belief to their statements, look in admiration on the Logos of God, who became incarnate, and who desired to confer benefits upon the whole human race. And this feature evinces the nobility of the work of Jesus, that, down to the present time, those whom God wills are healed by His name.  
+And with regard to the eclipse in the time of Tiberius Cæsar, in whose reign Jesus appears to have been crucified, and the great earthquakes which then took place, Phlegon too, I think, has written in the thirteenth or fourteenth book of his Chronicles.  
 -- Origen, Contra Celsum, Book 2, Chapter 33
