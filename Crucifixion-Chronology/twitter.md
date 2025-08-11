@@ -65,14 +65,15 @@ Let's consider the explanatory power of assuming the date of Jesus crucifixion w
 
 ----
 
-First up, this solar eclipse becomes the most reasonable explanation for Galatians 3:1 
+First up, this solar eclipse reveals a straight-forward explanation for Galatians 3:1 
 where Paul reminds the church - on or adjacent to the path of totality - that they were eyewitnesses to the crucifixion. 
 
 > You foolish Galatians! Who has bewitched you? 
 __It was before your eyes that Jesus Christ was publicly exhibited as crucified!__  
 -- Galatians 3:1
 
-This would also explain why Antioch - also on the path of totality - was the cradle for early christianity. 
+This would also provide an unsurprising explanation for why Antioch - 
+also on the path of totality - was the cradle for early christianity. 
 
 > Now those who were scattered because of the persecution that arose over Stephen traveled as far as Phoenicia and Cyprus and Antioch, 
 speaking the word to no one except Jews. 
@@ -188,7 +189,7 @@ But now the men are no longer guilty, are no longer regarded as sinners.
 
 ----
 
-Paul does call Jesus our Passover Lamb, but that is in the context of Corinthians already observing the Festival of Unleavened Bread. 
+Paul does call Jesus our Passover Lamb, but it is in the context of Corinthians already observing the Festival of Unleavened Bread. 
 
 > Your boasting is not good. Do you not know that a little leaven leavens the whole lump? 
 Cleanse out the old leaven that you may be a new lump, as you really are unleavened. 
@@ -245,7 +246,7 @@ If that is the case, how might the Passion week narrative have evolved?
 
 ----
 
-The NT epistles plus Barnabas and Clement explore different imagery and typology. 
+The NT epistles plus Barnabas and 1 Clement explore different imagery and typology. 
 But they all agree that Jesus death was a substitionary sacrifice. 
 Already this makes Passover and Yom Kippur the most likely candidates for annual remembrances of Jesus death. 
 Passover might naturally have become the primary focus because: 
@@ -255,28 +256,11 @@ Passover might naturally have become the primary focus because:
 - Passover together with Shavuot commemorates the covenant of God with his people. 
 - Passover was a pilgrimage festival which would fit with the gospel narrative of crowds being in Jerusalem when Jesus was crucified. 
 
-And finally, there is these two "firstfruits" analogies of Paul:
-
-> But in fact Christ has been raised from the dead, the firstfruits of those who have fallen asleep.  
--- 1 Corinthians 15:20
-
-> And not only the creation, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for adoption as sons, the redemption of our bodies.  
--- Romans 8:23
-
-There are two Jewish firstfruits offerings:
-
-- Barley, **the first Sunday after Passover**:  
-  <https://tmurphywrites.com/feast-of-the-sheaf-of-first-fruits-jesus-as-the-sheaf/>
-
-- Wheat, **at Pentecost**:  
-  <https://tmurphywrites.com/pentecost-from-barley-to-wheat/>
-
-
 ----
 
 If Jesus was executed in the lull between Sukkot and Hannukah, how could the Passion week tradition have begun? 
 
-This isn't a novel question and the following may have already been proposed.  
+This isn't a novel question, and the following may have already been proposed.  
 
 Some scenes in the Passion narrative resonate with different Jewish rituals:
 
@@ -344,7 +328,6 @@ it has a viral moment and becomes the template for what a gospel must contain.
 I wonder if most of these can be somewhat explained away by the fact that Jerusalem wasn't on the path of totality.  
 Superstitious people who saw the total eclipse (in Antioch, Tarsus, Galatia) were convinced it was a sign, they were just waiting for someone to convince them what it was a sign of. 
 For people off the path (like in Jerusalem), the eclipse was only confirmation if they were already inclined to believe.  
-
 
 ----
 
