@@ -228,7 +228,7 @@ and that he appeared to Cephas, then to the twelve.
 For Paul, all Jewish rituals are a foreshadowing of Christ.
 
 > __Therefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath.__ 
-__These are a shadow of the things to come, but the substance belongs to Christ.__
+__These are a shadow of the things to come, but the substance belongs to Christ.__  
 -- Colossians 2:16-17
 
 ----
@@ -264,7 +264,7 @@ Passover might naturally have become the primary focus because:
 
 If Jesus was executed in the lull between Sukkot and Hannukah, how could the Passion week tradition have begun? 
 
-This isn't a novel question, and the following speculation is probably unoriginal.    
+This isn't a novel question, and the following speculation will doubtless feel derivative to some.  
 
 Some scenes in the Passion narrative resonate with different Jewish rituals:
 
@@ -283,10 +283,10 @@ __So his brothers said to him,__
 For no one works in secret if he seeks to be known openly. 
 If you do these things, show yourself to the world.”  
 For not even his brothers believed in him.  
-Jesus said to them, 
+__Jesus said to them,__ 
 “My time has not yet come, but your time is always here. 
 The world cannot hate you, but it hates me because I testify about it that its works are evil. 
-You go up to the feast. I am not going up to this feast, for my time has not yet fully come.”  
+__You go up to the feast. I am not going up to this feast, for my time has not yet fully come.__”  
 __After saying this, he remained in Galilee.__  
 __But after his brothers had gone up to the feast, then he also went up, not publicly but in private.__  
 The Jews were looking for him at the feast, and saying, “Where is he?” 
