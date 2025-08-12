@@ -51,13 +51,13 @@ turning the day into such darkness of night that the stars in the heavens were s
 __And there was an earthquake in Bithynia which overthrew many houses in the city of Nicaea__.  
 -- Phlegon of Tralles (quoted by Eusebius)
 
-Phlegon's eclipse is certainly the one in 29AD. 
+Phlegon's eclipse is certainly the one in November 29AD. 
 The significance of the earthquake is not that some houses fell down, 
 but rather that it coincided with a spectacular eclipse.
 
 ----
 
-Let's consider the explanatory power of assuming the date of Jesus crucifixion was near enough to the solar eclipse in November 29AD that some followers claimed it as divine acknowledgement. 
+Let's evaluate the explanatory power of assuming the timing of Jesus crucifixion was close enough to the solar eclipse that some followers claimed it as divine acknowledgement. 
 
 ![Solar eclipse over Antioch, Tarsus, Iconium](./Solar-Eclipse-Antioch.png)
 
@@ -65,7 +65,7 @@ Let's consider the explanatory power of assuming the date of Jesus crucifixion w
 
 ----
 
-First up, this solar eclipse reveals a straight-forward explanation for Galatians 3:1 
+First up, this solar eclipse reveals a straight-forward understanding of Galatians 3:1 
 where Paul reminds the church - on or adjacent to the path of totality - that they were eyewitnesses to the crucifixion. 
 
 > You foolish Galatians! Who has bewitched you? 
@@ -103,12 +103,16 @@ They are well known to the apostles, and __they were in Christ before me__.
 -- Romans 16:7
 
 Iconium, Lystra and Derbe were Galatian cities just off the path of totality. 
-Timothy (and his believing mother) were from Lystra and one or both may have seen the eclipse.  
+Timothy was from Lystra, as apparently were his mother (and grandmother) who may have seen the eclipse.  
 
 > Paul came to Derbe and then to __Lystra, where a disciple named Timothy lived__, 
 __whose mother was Jewish and a believer__ but whose father was a Greek. 
 The believers at Lystra and Iconium spoke well of him.  
 -- Acts 16:1-2
+
+> I am reminded of your sincere faith, __a faith that dwelt first in your grandmother Lois and your mother Eunice__ 
+and now, I am sure, dwells in you as well.  
+-- 2 Timothy 1:5
 
 ----
 
@@ -131,7 +135,7 @@ Intriguingly, just two weeks after the solar eclipse there was a lunar eclipse.
 <https://eclipsewise.com/lunar/LEprime/0001-0100/LE0029Dec09Pprime.html>
 
 Being a partial lunar eclipse it would not be a classic blood moon unless accompanied by dust or smoke. 
-But a knowledgeable person could have been able to point it out, 
+But a knowledgeable person would have been able to point it out, 
 especially to people who had seen the total lunar eclipse which occurred six months earlier.  
 <https://eclipsewise.com/lunar/LEprime/0001-0100/LE0029Jun14Tprime.html>
 
@@ -229,9 +233,9 @@ __These are a shadow of the things to come, but the substance belongs to Christ.
 
 Assuming that Jesus was in fact crucified around of the solar eclipse seems to have significant explanatory power. 
 
-So how to explain contradictory data - foremost being that all the gospel authors accepted a Passover crucifixion? 
+But how to explain contradictory data - foremost being that all the gospel authors accepted a Passover crucifixion? 
 
-But even the gospels acknowledge that for Jesus to be arrested and executed in Jerusalem at one of the major pilgrimage festivals
+Still, even the gospels acknowledge that for Jesus to be arrested and executed in Jerusalem at one of the major pilgrimage festivals
 goes against the grain of the stability the Jewish leaders and Roman administration would be hoping for.
 
 >  Now the Passover and the Festival of Unleavened Bread were only two days away,
@@ -239,8 +243,8 @@ and the chief priests and the teachers of the law were scheming to arrest Jesus 
 __“But not during the festival,” they said, “or the people may riot.”__   
 -- Mark 14:1-2
 
-And if the gospels are wrong about the timing, presumably the Passion week narrative is a later tradition too. 
-If that is the case, how might the Passion week narrative have evolved? 
+And assuming the gospels are wrong about the timing, presumably the Passion week narrative is a later tradition too. 
+If that is the case, one still needs a plausible explanation for how the Passion week narrative evolved? 
 
 ----
 
@@ -290,14 +294,14 @@ Yet for fear of the Jews no one spoke openly of him.
 __About the middle of the feast Jesus went up into the temple and began teaching.__  
 -- John 7:1-14
 
-<https://vridar.org/2011/01/05/liberating-jesus-from-the-letter-of-the-gospel-narrative/>
+See also: <https://vridar.org/2011/01/05/liberating-jesus-from-the-letter-of-the-gospel-narrative/>
 
 ----
 
 Initially Jewish christians (and Jewish-adjacent christians) would have been adapting their reflections for Jewish holy days.
 These might even turn into short plays. 
 
-Eventually someone assembled an unordered collection of some of these for distribution - which was probably moderately successful. 
+Eventually someone assembled an unordered collection of some of these for distribution - which was probably locally valued. 
 
 > And the Elder said this also:  
 ‘Mark, having become the interpreter of Peter, wrote down accurately everything that he remembered, 
@@ -311,7 +315,7 @@ for he made it his one care not to omit anything that he heard, or to set down a
 
 But when the final redactor of the gospel of Jesus Christ 
 fuses several stories and teachings into a coherent narrative 
-it has a viral moment and becomes the template for what a gospel must contain. 
+it has a viral moment and becomes the template for what every narrative gospel must contain. 
 
 ----
 
