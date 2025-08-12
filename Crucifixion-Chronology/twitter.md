@@ -57,7 +57,8 @@ but rather that it coincided with a spectacular eclipse.
 
 ----
 
-Let's evaluate the explanatory power of assuming the timing of Jesus crucifixion was close enough to the solar eclipse that some followers claimed it as divine acknowledgement. 
+Let's evaluate the explanatory power of assuming the timing of Jesus crucifixion was close enough to the solar eclipse that some followers claimed it as divine acknowledgement.  
+This will be a steelmanning exercise, so I'll ignore unknowables such as cloud-cover and the uncertainty regarding what Thallus and Phlegon actually wrote. 
 
 ![Solar eclipse over Antioch, Tarsus, Iconium](./Solar-Eclipse-Antioch.png)
 
@@ -103,7 +104,8 @@ They are well known to the apostles, and __they were in Christ before me__.
 -- Romans 16:7
 
 Iconium, Lystra and Derbe were Galatian cities just off the path of totality. 
-Timothy was from Lystra, as apparently were his mother (and grandmother) who may have seen the eclipse.  
+Timothy was from Lystra, as apparently were his mother (and grandmother), 
+in which case, these women probably witnessed the eclipse.  
 
 > Paul came to Derbe and then to __Lystra, where a disciple named Timothy lived__, 
 __whose mother was Jewish and a believer__ but whose father was a Greek. 
@@ -134,7 +136,7 @@ And it shall come to pass that everyone who calls upon the name of the Lord shal
 Intriguingly, just two weeks after the solar eclipse there was a lunar eclipse.  
 <https://eclipsewise.com/lunar/LEprime/0001-0100/LE0029Dec09Pprime.html>
 
-Being a partial lunar eclipse it would not be a classic blood moon unless accompanied by dust or smoke. 
+Being a partial lunar eclipse it would not be a classic blood moon (unless accompanied by dust or smoke). 
 But a knowledgeable person would have been able to point it out, 
 especially to people who had seen the total lunar eclipse which occurred six months earlier.  
 <https://eclipsewise.com/lunar/LEprime/0001-0100/LE0029Jun14Tprime.html>
@@ -322,12 +324,14 @@ it has a viral moment and becomes the template for what every narrative gospel m
 **Contradictory data**
 
 - Why aren't there more allusions to an eclipse in the NT letters?
+- How would the "original" meaning of Galatians 3:1 be lost?
 - I would expect Peter to have been repeating it frequently, and yet neither of the letters attributed to Peter mention it.
 - Gospel of John doesn't include the darkness.
 - The Eucharist in 1 Corinthians 11 possibly resonates with Passover more than other Jewish tradition. 
 - Why doesn't Josephus give any hint of it? He seems fine to include signs and wonders. 
 - Shouldn't it have been easier to convince followers of John the Baptist? 
-- Mark seems to use the darkness as imagery for God abandoning Jesus. If the first christians took it as validation of Jesus, how did that evolve into the way Mark uses it?  
+- Mark seems to use the darkness as imagery for God abandoning Jesus. 
+  If the first christians took it as validation of Jesus, how did that evolve into the way Mark uses it?  
   OTOH the gospels do have the centurion seem to take the darkness as validation. 
 - Why do the gospels say "No sign will be given"?
 
