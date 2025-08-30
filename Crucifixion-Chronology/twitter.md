@@ -340,7 +340,7 @@ Superstitious people who saw the total eclipse (in Antioch, Tarsus, Galatia) wer
 they were just waiting for someone to convince them what it was a sign of. 
 For people off the path (like in Jerusalem), the eclipse was only confirmation if they were already inclined to believe.  
 
-Thus as Christianity spread further from the path of totality we would expext other evidence to be leveraged - 
+Thus as Christianity spread further from the path of totality we would expect other evidence to be leveraged - 
 fulfilment of scripture, speaking in tongues, healings and other miracles, 
 changed lives, natural disasters as warnings from God, etc. 
 
