@@ -24,21 +24,24 @@ He has risen; he is not here. See the place where they laid him.
 
 ----
 
-The association is stronger when we notice that the linen cloth of the young man in the garden 
-is the same as the linen shroud used to wrap Jesus body -  
-in Greek they are *σινδόνα* / *σινδόνι* (sindona / sindoni). 
+The association is stronger when we notice the "linen cloth" of the young man in the garden 
+is equivalent to the "linen shroud" used to wrap Jesus body -  
+in Greek it is *σινδόνα* / *σινδόνι* (sindona / sindoni). 
+
+![Mark 14:51-52](./Mark_14-51.png)
+![Mark 15:46](./Mark_15-46.png)
 
 What is the author trying to hint at?
 
 ----
 
 If we visualize the empty tomb scene, 
-surely it will also contain a linen shroud which is being pointed to by that anonymous young man?
+surely it also contains a linen shroud, pointed to by that anonymous young man?
 
 > And entering the tomb, they saw a young man sitting on the right side, dressed in a white robe, and they were alarmed.  
 And he said to them,
 “Do not be alarmed. You seek Jesus of Nazareth, who was crucified. He has risen; he is not here.  
-See the place where they laid him. _[The young man gestures at a linen cloth]_  
+_See the place where they laid him. **[The young man gestures at a linen cloth]**_  
 
 ----
 
@@ -57,7 +60,7 @@ and he went home marveling at what had happened.
 ----
 
 Finally, it may be observed that the young man in Gethsemene enters the scene clothed and leaves naked,
-while in the burial scene Jesus body would be taken naked from the cross then clothed for entombment. 
+while in the burial scene Jesus' body would be naked on the cross then clothed for entombment. 
 
 > And they crucified him _and divided his garments among them_, casting lots for them, to decide what each should take.  
 -- Mark 15:24
@@ -88,7 +91,7 @@ _See the place where they laid him. **[The young man gestures at a linen cloth]*
 
 ----
 
-But it was a foreshadowing which quickly became confusing for later audiences 
+But this foreshadowing had apparently been confusing for later audiences 
 since none of the later gospels retain the incident of the young man fleeing the arrest scene.  
 
 Later authors applied the principle of Chekhov's gun.
@@ -116,19 +119,23 @@ The young man's cameo in the arrest scene is:
 
 ----
 
-Assuming the young man's role was originally part of the burial scene, it would be:
+Conversely, if the young man's role was originally part of the burial scene, it would be:
 
 1. an unambiguous connection with the empty tomb.
 2. an essential role, if his linen cloth became Jesus burial garment.
 
 ----
 
-Intriguingly there are hints there may have been an earlier account of the burial story
+Intriguingly there are possible vestiges of an earlier account of the burial story
 
-- in a speech by Paul in Acts where anonymous Jewish leaders bury Jesus.
+- in a speech by Paul in Acts where **anonymous Jewish leaders** bury Jesus.
 - in Mark's empty tomb scene where the young man says "see the place where **they** laid him".
 
-> For those who live in Jerusalem and their rulers, because they did not recognize him nor understand the utterances of the prophets, which are read every Sabbath, fulfilled them by condemning him. 
+Juxtaposing these snippets reveals a potential consistency.
+
+> For those who live in Jerusalem and their rulers, 
+because they did not recognize him nor understand the utterances of the prophets, which are read every Sabbath, 
+fulfilled them by condemning him. 
 And though they found in him no guilt worthy of death, _**they** asked Pilate to have him executed_. 
 And when **they** had carried out all that was written of him, 
 _**they** took him down from the tree and laid him in a tomb_.  
@@ -140,8 +147,8 @@ _And **they** seized him_, but he left the linen cloth and ran away naked.
 
 > And entering the tomb, they saw a young man sitting on the right side, dressed in a white robe, and they were alarmed.  
 And he said to them, “Do not be alarmed. You seek Jesus of Nazareth, who was crucified. He has risen; he is not here. 
-_See the place where **they** laid him_.
--- Acts 16:5-6
+_See the place where **they** laid him_.  
+-- Mark 16:5-6
 
 ----
 
@@ -159,7 +166,7 @@ How would our current ending be accepted into such a gospel?
 ----
 
 Now a gospel postscript is not an alien concept,
-and indeed many are open to John 21 and Luke 1-2 being later additions.  
+and some scholars are open to John 21 and Luke 1-2 being later additions.  
 
 In fact there is an undisputed postscript in the longer ending of Mark, 
 a similar scenario to this proposal, with the exceptions that:
