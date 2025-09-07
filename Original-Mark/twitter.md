@@ -1,4 +1,12 @@
-# Finding the original gospel according to Mark
+# Unravelling the shorter ending of gMark
+
+## Rambling about story development and plot holes
+
+Writing a story, or producing a play or movie, are iterative processes. 
+
+This process inevitably introduces mismatches 
+
+## The young man (part 1)
 
 In the gospel of Mark, are the young man who flees naked at Jesus arrest,
 and the young man who is first to the empty tomb, the same individual?
@@ -173,3 +181,174 @@ a similar scenario to this proposal, with the exceptions that:
 
 - the longer ending seems to be obviously integrating already accepted details from other gospels.
 - the longer ending did not erase the canonical ending from the manuscript record.
+
+----
+
+## Mary, Mary, and Salome
+
+In the burial and empty tomb scenes of gMark there are (much discussed) mismatches between the different repetitions of the named female followers.
+One proposed explanation is that this occurred during revision of an earlier form of the story. 
+How would the story have read pre-revision,  
+and what purpose did the revision serve? 
+This thread will attempt to reconstruct this. 
+
+> There were also women looking on from a distance,  
+among whom were **Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome**.  
+When he was in Galilee, they followed him and ministered to him.  
+And there were also many other women who came up with him to Jerusalem.  
+> ...  
+> **Mary Magdalene and Mary the mother of Joses** saw where he was laid.  
+>   
+> When the Sabbath was past, **Mary Magdalene, Mary the mother of James, and Salome** bought spices, so that they might go and anoint him.
+
+---- 
+
+Reconstruction #1
+
+What happens if we simply remove the mismatches?
+
+> There were also women looking on from a distance,  
+among whom were **Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome**.  
+When he was in Galilee, they followed him and ministered to him.  
+And there were also many other women who came up with him to Jerusalem.  
+>  
+> And when evening had come, since it was the day of Preparation, that is, the day before the Sabbath,  
+Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of God,
+took courage and went to Pilate and asked for the body of Jesus.
+Pilate was surprised to hear that he should have already died.
+And summoning the centurion, he asked him whether he was already dead.
+And when he learned from the centurion that he was dead,
+he granted the corpse to Joseph.  
+And Joseph bought a linen shroud, and taking him down,
+wrapped him in the linen shroud and laid him in a tomb that had been cut out of the rock.
+And he rolled a stone against the entrance of the tomb.
+>  
+> <del>Mary Magdalene and Mary the mother of Joses saw where he was laid.  
+**When the Sabbath was past**, Mary Magdalene, Mary the mother of James, and Salome **bought spices, so that they might go and anoint him**.</del>  
+
+----
+
+It is apparent that the mismatches **align** with the section where the women's visit to the tomb is given a **purpose**:
+"that they might go and anoint him". 
+
+So why didn't they go to the tomb on the very next day? 
+That too is explained - because it was the Sabbath. 
+
+So why didn't they anoint him immediately? 
+Again this is justified - they had to go and buy spices.
+
+This section also highlights another subtle mismatch:
+Joseph of Arimathea was able to buy a shroud as soon as he was granted the corpse.
+Why hadn't the women also bought their spices? They had the whole crucifixion day.  
+
+----
+
+Irrespective of the exact details, it is clear the **motivation** for this revision was **apologetic**. 
+
+Reconstruction #2
+
+Since the burial being on the Day of Preparation for the Sabbath is also required to prevent the women anointing the corpse immediately,
+that detail too would have been introduced in this revision step.
+
+> **There were also women looking on from a distance**,  
+among whom were Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome.  
+When he was in Galilee, they followed him and ministered to him.  
+And there were also many other women who came up with him to Jerusalem.
+>
+> <del>And when evening had come, since it was the day of Preparation, that is, the day before the Sabbath,</del>
+>
+> Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of God,
+took courage and went to Pilate and asked for the body of Jesus.
+Pilate was surprised to hear that he should have already died.
+And summoning the centurion, he asked him whether he was already dead.
+And when he learned from the centurion that he was dead,
+he granted the corpse to Joseph.  
+And Joseph bought a linen shroud, and taking him down,
+wrapped him in the linen shroud and laid him in a tomb that had been cut out of the rock.
+And he rolled a stone against the entrance of the tomb.
+>
+> And very early on the first day of the week, when the sun had risen, **they went to the tomb**.
+
+----
+
+Now clearly this reading doesn't work - 
+the "they" in "**they** went to the tomb" is too far removed from the previous reference to the women. 
+
+Reconstruction #3
+
+However, if we take the text introducing the women, and simply move it from before the burial to afterwards,
+it flows seamlessly with both the burial scene and the empty tomb scene. 
+
+> Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of God,
+took courage and went to Pilate and asked for the body of Jesus.
+Pilate was surprised to hear that he should have already died.
+And summoning the centurion, he asked him whether he was already dead.
+And when he learned from the centurion that he was dead,
+he granted the corpse to Joseph.  
+And Joseph bought a linen shroud, and taking him down,
+wrapped him in the linen shroud and laid him in a tomb that had been cut out of the rock.
+And he rolled a stone against the entrance of the tomb.  
+>
+> <ins>There were also women looking on from a distance,  
+among whom were Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome.  
+When he was in Galilee, they followed him and ministered to him.  
+And there were also many other women who came up with him to Jerusalem.</ins>
+>  
+> And very early on the first day of the week, when the sun had risen, they went to the tomb.
+
+----
+
+But now it can be seen that Mary, Mary, and Salome were not the only women to attend the tomb.   
+
+They were redundant to the pre-revision story, but were introduced to address the unwieldiness of having many women:
+- watch from a distance
+- observe the entombment
+- buy spices
+- return to the tomb for the anointing.
+
+----
+
+Final reconstruction
+
+> Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of God,
+took courage and went to Pilate and asked for the body of Jesus.
+Pilate was surprised to hear that he should have already died.
+And summoning the centurion, he asked him whether he was already dead.
+And when he learned from the centurion that he was dead,
+he granted the corpse to Joseph.  
+And Joseph bought a linen shroud, and taking him down,
+wrapped him in the linen shroud and laid him in a tomb that had been cut out of the rock.
+And he rolled a stone against the entrance of the tomb.
+>
+> There were also women looking on from a distance,  
+<del>among whom were Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome.</del>  
+When he was in Galilee, they followed him and ministered to him.  
+<del>And there were also many other women who came up with him to Jerusalem.</del>
+>
+> And very early on the first day of the week, when the sun had risen, they went to the tomb.
+
+
+----
+
+In summary, this revision step introduced:
+
+- anointing with spices, as a reason to return to the tomb on the first day of the week.
+- the Day of Preparation for the Sabbath, as a reason the women could not anoint the body immediately.
+- Mary, Mary, and Salome, essentially as pragmatic stage management.  
+
+----
+
+The pros of this revision explanation are:
+
+- it had one goal - to justify some women attending the tomb on the first day of the week. 
+- it completely explains the mismatches in the repetitions of the named women.
+- it also explains the mismatch in Joseph being able to buy a shroud but the women not being able to buy spices. 
+
+----
+
+The cons are that:
+- this very specific revision almost necessitates that 
+  the burial and empty tomb scenes were evolving in a standalone script while the rest of gMark was essentially stable.  
+- But also that the postscript was appended to gMark without anyone bothering to fix the obvious mismatches. 
+- And also that the postscript would obviously significantly change the purpose of gMark - how did it get accepted?
+
