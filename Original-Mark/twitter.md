@@ -341,6 +341,7 @@ In summary, this revision step introduced:
 The pros of this revision explanation are:
 
 - it had one goal - to justify some women attending the tomb on the first day of the week. 
+- there is no speculative text and only one change of order.
 - it completely explains the mismatches in the repetitions of the named women.
 - it also explains the mismatch in Joseph being able to buy a shroud but the women not being able to buy spices. 
 
@@ -352,3 +353,102 @@ The cons are that:
 - But also that the postscript was appended to gMark without anyone bothering to fix the obvious mismatches. 
 - And also that the postscript would obviously significantly change the purpose of gMark - how did it get accepted?
 
+----
+
+In gMark's burial scene there is a mismatch between the "body" which Joseph asks for, 
+and the "corpse" which Pilate grants him. 
+
+Is this difference simply variety, or is it making a subtle point?
+Or is it a hint at the evolution of the text?
+
+
+> And when evening had come, since it was the day of Preparation, that is, the day before the Sabbath, 
+Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of God, 
+took courage and went to Pilate and asked for the **body** of Jesus.  
+>  
+> <u>Pilate was surprised to hear that he should have already died. 
+And summoning the centurion, he asked him whether he was already dead.  
+And when he learned from the centurion that he was dead,  
+he granted the **corpse** to Joseph.</u>
+>  
+> And Joseph bought a linen shroud, and taking him down, wrapped him in the linen shroud 
+and laid him in a tomb that had been cut out of the rock. 
+And he rolled a stone against the entrance of the tomb.  
+-- Mark 15:42-46
+
+----
+
+It can be seen that the mismatch neatly wraps an interlude where Pilate wonders that Jesus should already be dead,
+and it is explicitly confirmed by the centurion. 
+
+This clearly can function as an apologetic against some early swoon theory, 
+so it adds weight to the textual evolution option. 
+
+----
+
+Moreover, if the interlude was not present then the scene flows seemlessly. 
+
+In fact, it reads in much the same way as gLuke, and not dissimilar to gMatthew -
+they both exclude this interlude. 
+
+> Now there was a man named Joseph, from the Jewish town of Arimathea.
+He was a member of the council, a good and righteous man,
+who had not consented to their decision and action;
+and he was looking for the kingdom of God.
+This man went to Pilate and asked for the **body** of Jesus.
+>
+> **[Nothing here]**
+>
+> Then he took it down and wrapped it in a linen shroud
+and laid him in a tomb cut in stone, where no one had ever yet been laid.
+It was the day of Preparation, and the Sabbath was beginning.  
+-- Luke 23:50-55
+
+> When it was evening, there came a rich man from Arimathea, named Joseph, who also was a disciple of Jesus. 
+He went to Pilate and asked for the **body** of Jesus.  
+>  
+> **[Nothing here]**  
+>  
+> Then Pilate ordered it to be given to him.  
+And Joseph took the **body** and wrapped it in a clean linen shroud 
+and laid it in his own new tomb, which he had cut in the rock. 
+And he rolled a great stone to the entrance of the tomb and went away.  
+-- Matthew 27:57-60
+
+---- 
+
+gJohn also does not have this detail, but intriguingly does contain an alternative account of explicit Roman verification of death.
+
+> Since it was the day of Preparation, and so that the bodies would not remain on the cross on the Sabbath (for that Sabbath was a high day), 
+the Jews asked Pilate that their legs might be broken and that they might be taken away. 
+So the soldiers came and broke the legs of the first, and of the other who had been crucified with him.  
+>  
+> <u>But when they came to Jesus and saw that he was already dead, they did not break his legs. 
+But one of the soldiers pierced his side with a spear, and at once there came out blood and water.</u>  
+...  
+After these things Joseph of Arimathea, who was a disciple of Jesus, but secretly for fear of the Jews, 
+asked Pilate that he might take away the body of Jesus, and Pilate gave him permission. 
+So he came and took away his body.  
+-- John 19:31-34,38
+
+----
+
+In fact, some early copies of gMatthew contain a similar detail where Jesus is lanced on the cross.
+
+> And about the ninth hour Jesus cried out with a loud voice, saying, “Eli, Eli, lema sabachthani?” that is, “My God, my God, why have you forsaken me?” 
+And some of the bystanders, hearing it, said, “This man is calling Elijah.” 
+And one of them at once ran and took a sponge, filled it with sour wine, and put it on a reed and gave it to him to drink. 
+But the others said, “Wait, let us see whether Elijah will come to save him.” 
+>  
+> <ins>And another taking a spear pierced his side, and there came out water and blood.</ins>  
+>  
+> And Jesus cried out again with a loud voice and yielded up his spirit.  
+-- Matthew 27:46-50
+
+----
+
+So it seems like there was some pressure for the gospels to include apologetics against the swoon theory. 
+
+Thus it is somewhat surprising that both Matthew and Luke exclude this Markan interlude. 
+
+This might suggest it was added to gMark *after* gMatthew and gLuke were written. 
