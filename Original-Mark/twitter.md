@@ -358,7 +358,7 @@ The cons are that:
 In gMark's burial scene there is a mismatch between the "body" which Joseph asks for, 
 and the "corpse" which Pilate grants him. 
 
-Is this difference simply variety, or is it making a subtle point?
+Is this difference simply variety, or is it making a subtle point?  
 Or is it a hint at the evolution of the text?
 
 
@@ -366,10 +366,10 @@ Or is it a hint at the evolution of the text?
 Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of God, 
 took courage and went to Pilate and asked for the **body** of Jesus.  
 >  
-> <u>Pilate was surprised to hear that he should have already died. 
+> <ins>Pilate was surprised to hear that he should have already died. 
 And summoning the centurion, he asked him whether he was already dead.  
 And when he learned from the centurion that he was dead,  
-he granted the **corpse** to Joseph.</u>
+he granted the **corpse** to Joseph.</ins>
 >  
 > And Joseph bought a linen shroud, and taking him down, wrapped him in the linen shroud 
 and laid him in a tomb that had been cut out of the rock. 
@@ -381,12 +381,12 @@ And he rolled a stone against the entrance of the tomb.
 It can be seen that the mismatch neatly wraps an interlude where Pilate wonders that Jesus should already be dead,
 and it is explicitly confirmed by the centurion. 
 
-This clearly can function as an apologetic against some early swoon theory, 
-so it adds weight to the textual evolution option. 
+That this interlude can clearly function as an apologetic against some early swoon theory 
+adds weight to the textual evolution option. 
 
 ----
 
-Moreover, if the interlude was not present then the scene flows seemlessly. 
+Moreover, if the interlude is not present then the scene flows seemlessly. 
 
 In fact, it reads in much the same way as gLuke, and not dissimilar to gMatthew -
 they both exclude this interlude. 
@@ -417,7 +417,8 @@ And he rolled a great stone to the entrance of the tomb and went away.
 
 ---- 
 
-gJohn also does not have this detail, but intriguingly does contain an alternative account of explicit Roman verification of death.
+gJohn also does not have this detail, but intriguingly does contain 
+an alternative account of explicit Roman verification of death.
 
 > Since it was the day of Preparation, and so that the bodies would not remain on the cross on the Sabbath (for that Sabbath was a high day), 
 the Jews asked Pilate that their legs might be broken and that they might be taken away. 
@@ -451,4 +452,8 @@ So it seems like there was some pressure for the gospels to include apologetics 
 
 Thus it is somewhat surprising that both Matthew and Luke exclude this Markan interlude. 
 
-This might suggest it was added to gMark *after* gMatthew and gLuke were written. 
+This might suggest it was added to gMark *after* gMatthew and gLuke were written.  
+
+This would also be surprising - 
+if it was added after gLuke and gMatthew were written then
+how is it that all the surviving manuscripts contain the addition?
