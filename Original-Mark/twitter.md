@@ -424,8 +424,8 @@ an alternative account of explicit Roman verification of death.
 the Jews asked Pilate that their legs might be broken and that they might be taken away. 
 So the soldiers came and broke the legs of the first, and of the other who had been crucified with him.  
 >  
-> <u>But when they came to Jesus and saw that he was already dead, they did not break his legs. 
-But one of the soldiers pierced his side with a spear, and at once there came out blood and water.</u>  
+> <ins>But when they came to Jesus and saw that he was already dead, they did not break his legs. 
+But one of the soldiers pierced his side with a spear, and at once there came out blood and water.</ins>  
 ...  
 After these things Joseph of Arimathea, who was a disciple of Jesus, but secretly for fear of the Jews, 
 asked Pilate that he might take away the body of Jesus, and Pilate gave him permission. 
@@ -457,3 +457,30 @@ This might suggest it was added to gMark *after* gMatthew and gLuke were written
 This would also be surprising - 
 if it was added after gLuke and gMatthew were written then
 how is it that all the surviving manuscripts contain the addition?
+
+----
+
+Aside: It should be noted that "body" and "corpse" are even closer in Greek:
+
+σῶμα (soma) / πτῶμα (ptoma)
+
+Literally "body" / "fallen body".
+
+----
+
+gMark isn't much concerned for credibility or plausibility.
+e.g. voice from heaven at baptism, walking on water, crucifixion darkness, temple curtain tearing.
+Mark already said Jesus "breathed his last" - it is atypical for him to include a later "proof of death".
+
+----
+
+Perhaps it is no coincidence that there is another story from first century Judea 
+where three men are taken down from crosses before death, with one even surviving. 
+
+> And when I was sent by Titus Cesar, with Cerealius, and a thousand horsemen, 
+to a certain village called Thecoa, in order to know whether it were a place fit for a camp; 
+as I came back I saw many captives crucified: and remembered three of them, as my former acquaintance. 
+I was very sorry at this in my mind; and went with tears in my eyes to Titus, and told him of them. 
+So he immediately commanded them to be taken down, and to have the greatest care taken of them in order to their recovery. 
+Yet two of them died under the physicians handsL while the third recovered.  
+-- The Life of Flavius Josephus
